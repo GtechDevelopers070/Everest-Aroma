@@ -78,16 +78,13 @@ textarea{
 }
 
 .navBarBackground {
-  background: -moz-linear-gradient( 90deg, #363f37, #0b2849 100%);
-  background: -webkit-linear-gradient( 90deg,  #363f37, #0b2849);
-  background: -ms-linear-gradient( 90deg, #363f37, #0b2849 100%);
   box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.51);
   position: relative;
   left: 0px;
   width: 100%;
-  max-height: 10vh;
+  max-height: 20vh;
+  padding:10px 0px 10px 0px;
   min-height: 11vh;
-  z-index: 25;
 }
 
 .navBarBackground li {
@@ -115,8 +112,7 @@ textarea{
 #mainTopPart{
   max-height: 100vh;
   position: relative;
-  margin-top: 0.25vh;
-  z-index: 21;
+  margin-top: 0.25vh;   
 }
 
 .ribbon {
@@ -129,6 +125,7 @@ textarea{
   border-left: 2vw solid transparent;
   border-right: 4vw solid transparent;
   border-bottom: 4vw solid #1a2430;
+  display: none;
 }
 
 #header{
@@ -154,6 +151,7 @@ textarea{
   /*top: 40.25%;*/
   right: 0vw;
   z-index: 4;
+  display: none;
 }
 
 #quote{
@@ -208,6 +206,7 @@ textarea{
   box-shadow: -8px 10px 10px 0.63px rgba(77,77,77,0.43);
   opacity: 0.97;
 
+  display: none;
 }
 
 #eaLogo{
@@ -265,14 +264,11 @@ textarea{
 
 /*start of middle css part*/
 .middle{
-  padding-top: 100px;
-  padding-bottom: 100px;
-  transform: translateZ(-1px) scale(1.9);
+padding: 10px 30px 10px 30px;  
 }
 
 
 #news{
-  box-shadow: -8px 10px 10px 0.63px rgba(77,77,77,0.43);
   position: relative;
   background-color: #FDF3E7;
   width: 100%;  
@@ -319,7 +315,6 @@ textarea{
 }
 
 .minifiedNews{
-  height: 92%;
   overflow-y: hidden;
   padding:20px;
 }
@@ -350,13 +345,12 @@ textarea{
 }
 
 .readMoreNews{
-  width: 100%;
-  height: 8%;
+  padding: 5px;
   color: white;
   display: table;
   text-align: center;
   background-color: #363f37;
-  font-size: 0.85em;
+  font-size: 0.5em;
   cursor: pointer;
 }
 
@@ -371,7 +365,6 @@ textarea{
   height: 65vh;
   background-color:silver;
   margin-top: 10px;
-  box-shadow: -8px 10px 10px 0.63px rgba(77,77,77,0.43);
 }
 
 .video{
@@ -387,7 +380,6 @@ textarea{
   font-size: 1.2em;
   background-color: rgba(54,63,55,0.95);
   color: white;
-  box-shadow: -8px 10px 10px 0.63px rgba(77,77,77,0.43);
 }
 
 .introduction::after {
@@ -400,9 +392,6 @@ textarea{
   width: 100%;
   height: 30vh;
   opacity: 0;
-  -webkit-box-shadow: inset -8px 14px 46px 3px rgba(0,0,0,0.75);
-  -moz-box-shadow: inset -8px 14px 46px 3px rgba(0,0,0,0.75);
-  box-shadow: inset -8px 14px 46px 3px rgba(0,0,0,0.75);
   transition: opacity 0.2s ease-in-out;
 }
 
@@ -516,9 +505,15 @@ textarea{
 }
 
 .productContainer{
-
   left: 1.25vw;
-  margin-top: 30vh;
+}
+
+.product-slider{
+  list-style: none;
+}
+
+.product-slider li {
+  float: left;
 }
 
 .product{
@@ -542,11 +537,6 @@ div.desc {
 
 * {
   box-sizing: border-box;
-}
-
-
-.circle {
-  border-radius: 50%;
 }
 
 .clearfix:after {
@@ -581,14 +571,12 @@ div.desc {
     max-height: 100vh;
     position: relative;
     margin-top: 0.25vh;
-    z-index: 100;
   }
   .productContainer{
     margin-top: 0px;
   }
 
   .middle{
-    transform: translateZ(0px) scale(1);
     padding-top: 10px;
     padding-bottom: 10px;
   }
@@ -653,7 +641,8 @@ div.desc {
 
 @media screen and (max-width: 714px){
   .ribbon{
-    right: 67vw;
+    right: 67vw;display: none;
+
   }
   #aboveNavbar{
     top: 10%;
@@ -686,10 +675,7 @@ div.desc {
 }
 
 @media screen and (min-width: 768px){
-  .product{
-    position: absolute;
-    left: 9.5vw;
-  }
+
   .productContainer{
     min-height: 250px;
   }

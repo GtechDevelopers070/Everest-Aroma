@@ -54,10 +54,52 @@
 	<!-- Full News Modal End -->
 	<div class="body">
 		<div id="mainTopPart"><!--top part enclosed in this div-->
-			<!--danny part starts-->
-			<div style="color: white; min-height: 2vh;">
 
-			</div>
+			<!-- Navbar moved up to the stars -->
+
+			<!--gru part starts-->
+			<nav class="navBarBackground">
+				<!--Navigation bars FAQ left to add(if here)-->
+				<div class="row">
+					<div class="col-lg-2"></div>
+					<div class="col-lg-8">		
+						<ul class="nav navbar-nav">
+							<li> <a class="active" href="index.php"><div class="titleFont"> Home </div></a></li>
+							<li class="shape"> | </li>
+							<li> <a  href="aboutUs.php"><div class="titleFont"> About us </div></a></li>
+							<li class="shape"> | </li>
+							<li> <a  href="products.php"><div class="titleFont"> Products </div></a></li>
+							<li class="shape"> | </li>
+							<li> <a  href="certification.php"><div class="titleFont"> Certification </div></a></li>
+							<li class="shape"> | </li>
+							<li> <a  href="gallery.php"><div class="titleFont"> Gallery </div></a></li>
+							<li class="shape"> | </li>
+							<li> <a  href="contact.php"><div class="titleFont"> Contact us </div></a></li>
+							<li class="shape"> | </li>
+							<li> <a  href="faq.php"><div class="titleFont"> FAQ</div></a></li>
+						</ul>
+					</div>
+					<div class="col-lg-2"></div>
+				</div>
+
+				<!--End of Navigation Bar -->
+
+				<!-- Removed Search Functionality ~Godey 04/26  -->
+
+				<!--Search Box start-->
+				<!-- <form action="">
+					<button class="searchBtn" type="submit" id="submit">
+				        <i class="glyphicon glyphicon-search"></i>
+				      </button>
+				   <input id="search" type="text" placeholder=" Search">
+				</form> -->
+				<!--End of Search Box-->  
+
+			</nav>
+			<!-- End of Navigation Bars -->
+			<!--  navbar ends --> 	
+
+			<!--danny part starts-->
 			<div id="secondMenu" onclick="leftNavbar()">
 				<div class="hamburger"></div>
 				<div class="hamburger"></div>
@@ -197,52 +239,13 @@
 				</div>	
 			</div>		
 
-			<!--gru part starts-->
-			<nav class="navBarBackground">
-				<!--Navigation bars FAQ left to add(if here)-->
-				<div class="row">
-					<div class="col-lg-2"></div>
-					<div class="col-lg-8">		
-						<ul class="nav navbar-nav">
-							<li> <a class="active" href="index.php"><div class="titleFont"> Home </div></a></li>
-							<li class="shape"> | </li>
-							<li> <a  href="aboutUs.php"><div class="titleFont"> About us </div></a></li>
-							<li class="shape"> | </li>
-							<li> <a  href="products.php"><div class="titleFont"> Products </div></a></li>
-							<li class="shape"> | </li>
-							<li> <a  href="certification.php"><div class="titleFont"> Certification </div></a></li>
-							<li class="shape"> | </li>
-							<li> <a  href="gallery.php"><div class="titleFont"> Gallery </div></a></li>
-							<li class="shape"> | </li>
-							<li> <a  href="contact.php"><div class="titleFont"> Contact us </div></a></li>
-							<li class="shape"> | </li>
-							<li> <a  href="faq.php"><div class="titleFont"> FAQ</div></a></li>
-						</ul>
-					</div>
-					<div class="col-lg-2"></div>
-				</div>
-
-				<!--End of Navigation Bar -->
-
-				<!-- Removed Search Functionality ~Godey 04/26  -->
-
-				<!--Search Box start-->
-				<!-- <form action="">
-					<button class="searchBtn" type="submit" id="submit">
-				        <i class="glyphicon glyphicon-search"></i>
-				      </button>
-				   <input id="search" type="text" placeholder=" Search">
-				</form> -->
-				<!--End of Search Box-->  
-
-			</nav>
-			<!-- End of Navigation Bars -->
+			
 		</div><!--top part enclosed div closes-->   
 
 
 		<!-- NEWS SECTION START -->
 		<div class="middle">
-			<div class="container-fluid" ><!--main container for all-->     
+			<div class="" ><!--main container for all-->     
 				<div class="row">
 					<div class="col-lg-4" >
 						<div id="news">
@@ -267,9 +270,9 @@
 									$newsPicture=$row["NewsPicture"];	
 									echo '<img class="img-responsive newsImage" src="admin/'.$newsPicture. '">
 									<!--News Photo HERE-->';
-									echo '<div class="newsContent">'.$row["NewsContents"].'
+									echo '<p class="newsContent">'.$row["NewsContents"].'
 
-								</div>';
+								</p>';
 							}
 						}
 						?>
@@ -336,7 +339,8 @@
 					<div class="col-xs-12">
 					<div class="row">	
 					<div class="col-sm-5">			
-					<div class="row">				
+					<div class="row">	
+					<ul class="product-slider">			
 	<?php
 
 	include '../eaPortions/dbConnect.php';
@@ -350,33 +354,28 @@
                                   // output data of each row
 
 		while($row = mysqli_fetch_assoc($result)) {
-			 if($count == 2){
-			 	echo '</div></div> <div class="col-sm-5"><div class="row">';
-			 	$count=0;
-			 }
-			echo ' 
-							 
-								<div class="col-xs-6">
-										<div class="product">
+			echo '				
+										<li class="product">
 											<center>';
 												echo '<a href="productsDescription.php?viewProduct'.$row["productID"].'=' .$row["productName"]. '">';
-												echo '<img class="circle" src="admin/'.$row["productPhoto"].'" width="200" height="200" >
+												echo '<img src="admin/'.$row["productPhoto"].'" width="200" height="200" >
 											</a>
 										</center>';
 										echo '<div class="txt" align="center"><div class="contentFont"><center>' .$row["productName"]. '</center></div></div>
-									</div>
-								</div>';
+									</li>
+								';
 								$count++; // end product and col-xs-6
 								}
 
 							}
-								echo ' <div class="col-xs-1"></div>';
+				
 							
 				
 			mysqli_data_seek($result, 0);
-			echo '<br>';
+
 
 			?>
+			</ul>
 			</div>
 						</div>
 					</div>
