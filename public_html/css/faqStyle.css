@@ -1,0 +1,36 @@
+/*naya thupeko*/
+.faq{
+	min-height: 90vh;
+}
+
+.collapse{
+  cursor: pointer;
+  display: block;
+  background: #cdf;
+}
+
+.collapse + input{
+  display: none; /* hide the checkboxes */
+}
+
+.collapse + input + div{
+  display:none;
+}
+
+.collapse + input:checked + div{
+  display:block;
+}
+
+.justification{
+  text-align: justify;
+}
+
+.titleFont{
+  font-family: Sansita;
+}
+
+.contentFont{
+  font-family: Ubuntu;
+}
+
+

@@ -1,0 +1,45 @@
+body{overflow-x:hidden;}
+.leftNavbar{width:0vw;transition:width 0.5s;background-color:#425145;height:100vh;position:fixed;top:0;left:0;opacity:0.9;z-index:-1;}
+.leftLinkPages{position:absolute;top:40px;opacity:0;transition:opacity 0.2s;transition-delay:0.15s;text-align:center;}
+.leftLinkPages ul{list-style:none;position:absolute;}
+.leftLinkPages ul li{text-decoration:none;text-align:center;margin-left:-3vw;}
+.leftLinkPages ul li a{text-decoration:none;color:white;}
+.navbarThis{width:100vw;height:70px;position:fixed !important;top:0 !important;left:0 !important;background-color:rgba(0,0,0,0);z-index:25;opacity:0.98;}
+.myNavbar{width:100vw;height:40px;position:absolute;top:0;left:0;padding-left:2vw;background-color:#2d3a2a;}
+.menu{width:1.6vw;height:52.002%;float:left;display:none;}
+.menu:hover{background-color:rgb(30,30,30);}
+.menuClose{width:1.6vw;height:3.002%;position:absolute;top:3%;right:0.5%;}
+.menuClose:hover{background-color:rgb(30,30,30);}
+.gap{height:20.667%;}
+.navbarLeftTriangle{width:0px;height:0px;position:absolute;top:40px;left:0px;border-left:50.5vw solid transparent;border-top:30px solid #2d3a2a;}
+.navbarRightTriangle{width:0px;height:0px;position:absolute;top:40px;left:50vw;border-right:50.5vw solid transparent;border-top:30px solid #2d3a2a;}
+.arrowDown{width:90%;height:12.82%;margin-top:20.51%;margin-left:5%;background-color:white;transform:rotate(45deg);}
+.arrowUp{width:90%;height:12.82%;margin-top:20.51%;margin-left:5%;background-color:white;transform:rotate(-45deg);}
+.hamburger{width:90%;height:12.82%;margin-top:20.51%;margin-left:5%;background-color:white;}
+.navLeft{float:left;}
+.navRight{float:right;margin-right:15px;}
+.linkPages{color:white;margin:auto;position:absolute;top:0;left:0;bottom:0;right:0;height:50%;}
+.linkPages ul li a{color:white;}
+.linkPages ul li{display:inline;margin-right:15px;color:white;}
+.everestAroma{position:absolute;height:60px;top:0;width:10vw;left:45vw;text-align:center;font-size:150%;color:white;padding-top:20px;}
+.titleFont{font-family:Sansita;}
+.contentFont{font-family:Ubuntu;text-align: justify;}
+@media screen and (max-width:1392px){.everestAroma{font-size:100%;}
+}
+@media screen and (max-width:958px){.navbarthis{height:50px;}
+.linkPages ul li{display:none;}
+.linkPages{display:none;}
+.navbarLeftTriangle{top:40px;border-left:50.5vw solid transparent;border-top:10px solid #2d3a2a;}
+.navbarRightTriangle{top:40px;border-right:50.5vw solid transparent;border-top:10px solid #2d3a2a;}
+.leftLinkPages ul li{margin-left:-1vw;}
+.menu{display:block;}
+.everestAroma{font-size:100%;width:70vw;left:15vw;padding-top:10px;}
+}
+@media screen and (max-width:482px){.menu{width:5vw;}
+.menuClose{width:5vw;}
+.LeftLinkPages ul li{margin-left:-3vw;}
+}
+
+.gapNav{
+	padding-bottom:50%;
+}

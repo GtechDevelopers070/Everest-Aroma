@@ -1,0 +1,132 @@
+.totalDescription{
+  margin-top:15vh;
+}
+
+.productPhotoDescription {
+  margin-left: 2vw;
+  width:20vw;
+  height:38vh;
+  border-radius: 50%;
+  position: relative;
+  display: inline-block;
+
+}
+
+.productTitle{
+  position: relative;
+  display: inline-block;
+  margin-left: 5vw;
+  font-size: 5em;
+  color: #0d672e;
+  text-shadow:  1.5px 1.5px #c0ccbf;
+  letter-spacing: 0.03em;
+}
+
+.productTitle:after {
+  content: " ";
+  display: block;
+  width: 50%;
+  height: 5px;
+  margin: 20px 0 20px;
+  background: #2b7225;
+}
+
+.basicDescription{
+  padding:2vh;
+  margin-top: 4vh;
+  text-align: center;
+  -webkit-border-radius: 35px;
+  -moz-border-radius: 35px;
+  border-radius: 35px;
+  background:rgba(202,226,190,0.6);
+  -webkit-box-shadow: #92B096 3px 3px 3px;
+  -moz-box-shadow: #92B096 3px 3px 3px;
+  box-shadow: #92B096 3px 3px 3px;
+  letter-spacing: 0.03em;
+  height:100%;
+}
+
+.productDescription{
+  text-align: center;
+  margin-top:1vh;
+  font-style: italic;
+  font-weight: 900;
+  letter-spacing: 0.03em;
+  line-height: 2em;
+}
+
+.physicalTitle{
+  color:#49cb49;
+}
+
+.productProperty{
+  text-align: center;
+  letter-spacing: 0.02em;
+  margin-bottom: 3vh;
+  margin-top:-16vh;
+}
+
+.glyphicon{
+  font-size: 100px;
+}
+
+.buttonProduct{
+  height: 100%;
+  background: rgba(255,255,255,0);
+  border-style: none;
+}
+
+.buttonProduct:hover{
+  background: rgba(255,255,255,0);
+}
+
+
+.buttonProduct:active{
+  background-color: #000;
+}
+
+
+.leftButtonProduct{
+  position: fixed;
+  height: 100%;
+  z-index: 2;
+}
+
+.rightButtonProduct{
+  position: fixed;
+  height: 100%;
+  right:0;
+  z-index: 2;
+}
+
+
+@media screen and (max-width:991px){
+
+.titleAndPhotoAlign{
+  text-align: center;
+}
+
+.productTitle{
+  font-size: 36px;
+}
+
+.buttonProduct{
+  height:20%;
+}
+
+.glyphicon{
+  font-size: 20px;
+}
+
+.productPhotoDescription{
+  margin-left: none;
+  width:200px;
+  height:200px;
+}
+
+.productProperty{
+  
+  margin-top: 0vh;
+}
+
+}

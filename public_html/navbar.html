@@ -1,0 +1,138 @@
+
+    <script src="js/jquery.min.js"></script>
+    <script>
+        var menuToggle = 0;
+        if ($(window).width()>957) {
+            $(".leftNavbar").css("display", "none");
+            $(".leftLinkPages").css("display", "none");
+        }
+        function hideleftNavbar(){
+            $(".leftNavbar").css("zIndex", "-1");    
+        }
+        function leftNavbar(){
+            if (menuToggle==0) {
+                $(".leftNavbar").css("zIndex", "105");
+                if ($(window).width()<470) {
+                    $(".leftNavbar").css("width", "40vw");
+                }
+                else{
+                    $(".leftNavbar").width($(window).width()/4);
+                }
+                menuToggle = 1;
+                $(".leftLinkPages").css("opacity", "1");
+            }
+            else{
+                $(".leftNavbar").css("width", "0vw");
+                menuToggle = 0;
+                $(".leftLinkPages").css("opacity", "0");
+                setTimeout(hideleftNavbar, 800);
+            }
+
+        }
+        
+    </script>
+</head>
+<body>
+    <div class="navbarThis">
+        <div class="navbarLeftTriangle">
+                
+        </div>
+        <div class="navbarRightTriangle">
+                
+        </div>
+        <div class="myNavbar">
+            <div class="gap"></div>
+            <div class="menu" onclick="leftNavbar()">
+                <div class="hamburger"></div>
+                <div class="hamburger"></div>
+                <div class="hamburger"></div>
+            </div>
+            <div class="linkPages"> 
+                <ul class="navLeft">
+               
+                    <li>
+                        <a href="index.php">HOME</a>
+                    </li>
+                    <li>
+                        <a href="aboutUs.php">ABOUT US</a>
+                    </li>
+                    <li>
+                        <a href="contact.php">CONTACT US</a>
+                    </li>
+                    <li>
+                        <a href="products.php">PRODUCTS</a>
+                    </li>
+                </ul>
+                <ul class="navRight">
+                    <li>
+                        <a href="certification.php">CERTIFICATION</a>
+                    </li>
+                     <li>
+                        <a href="gallery.php">GALLERY</a>
+                    </li>
+                    <li>
+                        <a href="faq.php">FAQ</a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+        <div class="everestAroma">
+            Everest Aroma
+        </div>
+    </div>
+    <div class="leftNavbar">
+        <div class="gap"></div>
+        <div class="menuClose" onclick="leftNavbar()">
+                <div class="hamburger"></div>
+                <div class="hamburger"></div>
+                <div class="hamburger"></div>
+            </div>
+        <div class="leftLinkPages">
+            <ul>
+            <li><br></li>
+                <li >
+                    <a href="index.php">Home</a>
+                </li>
+                <li><br> </li>
+                <li >
+                    <a href="aboutUs.php">About Us</a>
+                </li>
+                <li> <br></li>
+                <li >
+                    <a href="contact.php">Contact Us</a>
+                </li>
+                <li><br> </li>
+                <li >
+                    <a href="products.php">Products</a>
+                </li>
+                <li><br> </li>
+                <li >
+                    <a href="certification.php">Certification</a>
+                </li>
+                <li ><br> </li>
+                <li>
+                    <a href="gallery.php">Gallery</a>
+                </li>
+                <li ><br> </li>
+                <li >
+                    <a href="faq.php">FAQ</a>
+                </li>
+                <li class="gapNav"> </li>
+
+
+               <li style="color:white;">  Follow us:</li>
+               <li><br> </li>
+               <li><center>
+                 <a href="https://www.facebook.com/"> <img class="img-responsive" src="img/home/fb.png" ></a><br>
+                <a href="https://www.twitter.com/"> <img class="img-responsive" src="img/home/twitter.png" ></a><br>
+                <a href="https://www.youtube.com/">  <img class="img-responsive" src="img/home/youtube.png" ></a>
+               </center></li> 
+               <li><br> </li>
+
+               <li style="color:white;"> <center> <a href="index.php" >Everest Aroma&copy</a></center></li>
+            </ul>
+
+
+        </div>
+    </div>

@@ -1,0 +1,1107 @@
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 05:44:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 05:44:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 05:44:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[07-May-2017 05:44:04 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[07-May-2017 05:44:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[07-May-2017 06:30:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[07-May-2017 06:30:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 06:30:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 06:30:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[07-May-2017 06:30:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[07-May-2017 06:30:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[07-May-2017 06:30:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[07-May-2017 07:39:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[07-May-2017 07:39:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 07:39:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 07:39:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[07-May-2017 07:39:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[07-May-2017 07:39:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[07-May-2017 07:39:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[07-May-2017 07:39:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[07-May-2017 07:39:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 07:39:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 07:39:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[07-May-2017 07:39:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[07-May-2017 07:39:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[07-May-2017 07:39:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[07-May-2017 10:04:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[07-May-2017 10:04:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 10:04:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 10:04:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[07-May-2017 10:04:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[07-May-2017 10:04:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[07-May-2017 10:04:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[07-May-2017 10:04:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[07-May-2017 10:04:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 10:04:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 10:04:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[07-May-2017 10:04:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[07-May-2017 10:04:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[07-May-2017 10:04:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[07-May-2017 10:04:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[07-May-2017 10:04:50 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[07-May-2017 10:04:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 10:04:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 10:04:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[07-May-2017 10:04:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[07-May-2017 10:04:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[07-May-2017 10:04:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[07-May-2017 10:04:50 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[07-May-2017 10:04:50 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[07-May-2017 14:47:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[07-May-2017 14:47:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 14:47:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 14:47:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[07-May-2017 14:47:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[07-May-2017 14:47:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[07-May-2017 14:47:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[07-May-2017 14:47:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[07-May-2017 14:47:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 14:47:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 14:47:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[07-May-2017 14:47:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[07-May-2017 14:47:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[07-May-2017 14:47:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[07-May-2017 14:47:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[07-May-2017 14:47:18 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[07-May-2017 14:47:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 14:47:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[07-May-2017 14:47:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[07-May-2017 14:47:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[07-May-2017 14:47:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[07-May-2017 14:47:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[07-May-2017 14:47:18 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[07-May-2017 14:47:18 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[08-May-2017 18:55:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[08-May-2017 18:55:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[08-May-2017 18:55:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[08-May-2017 18:55:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[08-May-2017 18:55:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[08-May-2017 18:55:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[08-May-2017 18:55:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[09-May-2017 10:21:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[09-May-2017 10:21:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[09-May-2017 10:21:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[09-May-2017 10:21:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[09-May-2017 10:21:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[09-May-2017 10:21:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[09-May-2017 10:21:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[10-May-2017 01:03:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[10-May-2017 01:03:06 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[10-May-2017 01:03:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[10-May-2017 01:03:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[10-May-2017 01:03:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[10-May-2017 01:03:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[10-May-2017 01:03:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[10-May-2017 01:03:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[10-May-2017 01:03:06 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[10-May-2017 01:03:06 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[10-May-2017 01:37:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[10-May-2017 01:37:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[10-May-2017 01:37:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[10-May-2017 01:37:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[10-May-2017 01:37:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[10-May-2017 01:37:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[10-May-2017 01:37:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[11-May-2017 16:30:02 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[11-May-2017 16:30:02 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[11-May-2017 16:30:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[11-May-2017 16:30:02 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[11-May-2017 16:30:02 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[11-May-2017 16:30:02 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[11-May-2017 16:30:02 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[11-May-2017 16:30:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[11-May-2017 16:30:12 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[11-May-2017 16:30:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[11-May-2017 16:30:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[11-May-2017 16:30:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[11-May-2017 16:30:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[11-May-2017 16:30:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[11-May-2017 16:30:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[11-May-2017 16:30:12 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[11-May-2017 16:30:12 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[11-May-2017 16:30:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[11-May-2017 16:30:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[11-May-2017 16:30:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[11-May-2017 16:30:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[11-May-2017 16:30:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[11-May-2017 16:30:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[11-May-2017 16:30:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[13-May-2017 09:56:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[13-May-2017 09:56:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[13-May-2017 09:56:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[13-May-2017 09:56:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[13-May-2017 09:56:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[13-May-2017 09:56:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[13-May-2017 09:56:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[13-May-2017 09:56:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[13-May-2017 09:56:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[13-May-2017 09:56:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[13-May-2017 09:56:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[13-May-2017 09:56:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[13-May-2017 09:56:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[13-May-2017 09:56:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[13-May-2017 09:56:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[13-May-2017 09:56:12 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[13-May-2017 09:56:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[13-May-2017 09:56:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[13-May-2017 09:56:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[13-May-2017 09:56:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[13-May-2017 09:56:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[13-May-2017 09:56:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[13-May-2017 09:56:12 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[13-May-2017 09:56:12 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[13-May-2017 14:19:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[13-May-2017 14:19:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[13-May-2017 14:19:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[13-May-2017 14:19:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[13-May-2017 14:19:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[13-May-2017 14:19:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[13-May-2017 14:19:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[13-May-2017 14:19:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[13-May-2017 14:19:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[13-May-2017 14:19:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[13-May-2017 14:19:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[13-May-2017 14:19:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[13-May-2017 14:19:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[13-May-2017 14:19:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[14-May-2017 00:15:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[14-May-2017 00:15:45 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[14-May-2017 00:15:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[14-May-2017 00:15:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[14-May-2017 00:15:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[14-May-2017 00:15:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[14-May-2017 00:15:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[14-May-2017 00:15:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[14-May-2017 00:15:45 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[14-May-2017 00:15:45 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[14-May-2017 22:46:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[14-May-2017 22:46:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[14-May-2017 22:46:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[14-May-2017 22:46:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[14-May-2017 22:46:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[14-May-2017 22:46:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[14-May-2017 22:46:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[14-May-2017 22:46:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[14-May-2017 22:46:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[14-May-2017 22:46:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[14-May-2017 22:46:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[14-May-2017 22:46:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[14-May-2017 22:46:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[14-May-2017 22:46:45 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[14-May-2017 22:46:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[14-May-2017 22:46:46 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[14-May-2017 22:46:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[14-May-2017 22:46:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[14-May-2017 22:46:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[14-May-2017 22:46:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[14-May-2017 22:46:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[14-May-2017 22:46:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[14-May-2017 22:46:46 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[14-May-2017 22:46:46 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[17-May-2017 08:18:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[17-May-2017 08:18:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[17-May-2017 08:18:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[17-May-2017 08:18:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[17-May-2017 08:18:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[17-May-2017 08:18:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[17-May-2017 08:18:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[17-May-2017 08:18:28 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[17-May-2017 08:18:28 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[17-May-2017 08:18:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[17-May-2017 08:18:28 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[17-May-2017 08:18:28 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[17-May-2017 08:18:28 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[17-May-2017 08:18:28 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[17-May-2017 08:18:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[17-May-2017 08:18:44 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[17-May-2017 08:18:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[17-May-2017 08:18:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[17-May-2017 08:18:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[17-May-2017 08:18:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[17-May-2017 08:18:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[17-May-2017 08:18:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[17-May-2017 08:18:44 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[17-May-2017 08:18:44 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[19-May-2017 16:18:09 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[19-May-2017 16:18:09 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[19-May-2017 16:18:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[19-May-2017 16:18:09 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[19-May-2017 16:18:09 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[19-May-2017 16:18:09 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[19-May-2017 16:18:09 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[19-May-2017 16:18:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[19-May-2017 16:18:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[19-May-2017 16:18:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[19-May-2017 16:18:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[19-May-2017 16:18:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[19-May-2017 16:18:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[19-May-2017 16:18:12 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[19-May-2017 16:18:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[19-May-2017 16:18:15 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[19-May-2017 16:18:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[19-May-2017 16:18:15 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[19-May-2017 16:18:15 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[19-May-2017 16:18:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[19-May-2017 16:18:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[19-May-2017 16:18:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[19-May-2017 16:18:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[19-May-2017 16:18:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[19-May-2017 16:18:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[19-May-2017 16:18:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[19-May-2017 16:18:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[19-May-2017 16:18:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[19-May-2017 16:18:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[19-May-2017 16:18:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[19-May-2017 16:18:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[19-May-2017 16:18:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[19-May-2017 16:18:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[20-May-2017 17:41:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[20-May-2017 17:41:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[20-May-2017 17:41:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[20-May-2017 17:41:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[20-May-2017 17:41:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[20-May-2017 17:41:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[20-May-2017 17:41:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[20-May-2017 17:41:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[20-May-2017 17:41:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[20-May-2017 17:41:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[20-May-2017 17:41:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[20-May-2017 17:41:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[20-May-2017 17:41:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[20-May-2017 17:41:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[20-May-2017 17:41:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[20-May-2017 17:41:39 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[20-May-2017 17:41:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[20-May-2017 17:41:39 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[20-May-2017 17:41:39 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[20-May-2017 17:41:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[20-May-2017 17:41:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[20-May-2017 17:41:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[20-May-2017 17:41:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[20-May-2017 17:41:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[20-May-2017 17:41:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[20-May-2017 17:41:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[20-May-2017 17:41:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[20-May-2017 17:41:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[20-May-2017 17:41:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[20-May-2017 17:41:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[20-May-2017 17:41:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[20-May-2017 17:41:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[20-May-2017 17:41:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[21-May-2017 09:12:19 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[21-May-2017 09:12:19 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 09:12:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 09:12:19 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[21-May-2017 09:12:19 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[21-May-2017 09:12:19 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[21-May-2017 09:12:19 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[21-May-2017 09:12:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[21-May-2017 09:12:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 09:12:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 09:12:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[21-May-2017 09:12:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[21-May-2017 09:12:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[21-May-2017 09:12:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[21-May-2017 09:12:22 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[21-May-2017 09:12:22 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[21-May-2017 09:12:22 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 09:12:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 09:12:22 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[21-May-2017 09:12:22 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[21-May-2017 09:12:22 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[21-May-2017 09:12:22 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[21-May-2017 09:12:22 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[21-May-2017 09:12:22 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[21-May-2017 09:12:32 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[21-May-2017 09:12:32 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[21-May-2017 09:12:32 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 09:12:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 09:12:32 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[21-May-2017 09:12:32 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[21-May-2017 09:12:32 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[21-May-2017 09:12:32 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[21-May-2017 09:12:32 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[21-May-2017 09:12:32 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[21-May-2017 09:12:37 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[21-May-2017 09:12:37 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 09:12:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 09:12:37 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[21-May-2017 09:12:37 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[21-May-2017 09:12:37 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[21-May-2017 09:12:37 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[21-May-2017 09:12:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[21-May-2017 09:12:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 09:12:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 09:12:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[21-May-2017 09:12:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[21-May-2017 09:12:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[21-May-2017 09:12:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[21-May-2017 11:10:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[21-May-2017 11:10:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 11:10:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 11:10:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[21-May-2017 11:10:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[21-May-2017 11:10:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[21-May-2017 11:10:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[21-May-2017 11:10:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[21-May-2017 11:10:46 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[21-May-2017 11:10:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 11:10:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 11:10:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[21-May-2017 11:10:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[21-May-2017 11:10:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[21-May-2017 11:10:46 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[21-May-2017 11:10:46 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[21-May-2017 11:10:46 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[21-May-2017 11:11:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[21-May-2017 11:11:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 11:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-May-2017 11:11:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[21-May-2017 11:11:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[21-May-2017 11:11:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[21-May-2017 11:11:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[22-May-2017 05:31:41 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[22-May-2017 05:31:41 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[22-May-2017 05:31:41 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[22-May-2017 05:31:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[22-May-2017 05:31:41 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[22-May-2017 05:31:41 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[22-May-2017 05:31:41 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[22-May-2017 05:31:41 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[22-May-2017 05:31:41 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[22-May-2017 05:31:41 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[23-May-2017 10:52:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[23-May-2017 10:52:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[23-May-2017 10:52:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[23-May-2017 10:52:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[23-May-2017 10:52:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[23-May-2017 10:52:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[23-May-2017 10:52:48 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[24-May-2017 06:46:41 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[24-May-2017 06:46:41 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 06:46:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 06:46:41 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[24-May-2017 06:46:41 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[24-May-2017 06:46:41 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[24-May-2017 06:46:41 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[24-May-2017 07:10:51 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[24-May-2017 07:10:51 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[24-May-2017 07:10:51 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:10:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:10:51 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[24-May-2017 07:10:51 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[24-May-2017 07:10:51 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[24-May-2017 07:10:51 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[24-May-2017 07:10:51 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[24-May-2017 07:10:51 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[24-May-2017 07:45:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[24-May-2017 07:45:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:45:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:45:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[24-May-2017 07:45:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[24-May-2017 07:45:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[24-May-2017 07:45:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[24-May-2017 07:45:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[24-May-2017 07:45:49 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[24-May-2017 07:45:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:45:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:45:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[24-May-2017 07:45:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[24-May-2017 07:45:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[24-May-2017 07:45:49 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[24-May-2017 07:45:49 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[24-May-2017 07:45:49 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[24-May-2017 07:45:52 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[24-May-2017 07:45:52 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[24-May-2017 07:45:52 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:45:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:45:52 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[24-May-2017 07:45:52 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[24-May-2017 07:45:52 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[24-May-2017 07:45:52 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[24-May-2017 07:45:52 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[24-May-2017 07:45:52 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[24-May-2017 07:45:53 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[24-May-2017 07:45:53 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[24-May-2017 07:45:53 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:45:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:45:53 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[24-May-2017 07:45:53 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[24-May-2017 07:45:53 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[24-May-2017 07:45:53 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[24-May-2017 07:45:53 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[24-May-2017 07:45:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[24-May-2017 07:45:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[24-May-2017 07:45:54 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[24-May-2017 07:45:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:45:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:45:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[24-May-2017 07:45:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[24-May-2017 07:45:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[24-May-2017 07:45:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[24-May-2017 07:45:54 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[24-May-2017 07:45:54 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[24-May-2017 07:46:05 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[24-May-2017 07:46:05 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:46:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:46:05 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[24-May-2017 07:46:05 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[24-May-2017 07:46:05 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[24-May-2017 07:46:05 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[24-May-2017 07:52:26 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[24-May-2017 07:52:26 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:52:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:52:26 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[24-May-2017 07:52:26 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[24-May-2017 07:52:26 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[24-May-2017 07:52:26 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[24-May-2017 07:53:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[24-May-2017 07:53:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:53:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:53:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[24-May-2017 07:53:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[24-May-2017 07:53:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[24-May-2017 07:53:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[24-May-2017 07:53:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[24-May-2017 07:53:40 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[24-May-2017 07:53:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:53:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[24-May-2017 07:53:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[24-May-2017 07:53:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[24-May-2017 07:53:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[24-May-2017 07:53:40 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[24-May-2017 07:53:40 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[24-May-2017 07:53:40 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[25-May-2017 19:32:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[25-May-2017 19:32:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[25-May-2017 19:32:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[25-May-2017 19:32:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[25-May-2017 19:32:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[25-May-2017 19:32:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[25-May-2017 19:32:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[25-May-2017 19:32:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[25-May-2017 19:32:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[25-May-2017 19:32:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[25-May-2017 19:32:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[25-May-2017 19:32:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[25-May-2017 19:32:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[25-May-2017 19:32:14 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[25-May-2017 19:34:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[25-May-2017 19:34:43 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[25-May-2017 19:34:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[25-May-2017 19:34:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[25-May-2017 19:34:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[25-May-2017 19:34:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[25-May-2017 19:34:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[25-May-2017 19:34:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[25-May-2017 19:34:43 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[25-May-2017 19:34:43 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[25-May-2017 20:08:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[25-May-2017 20:08:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[25-May-2017 20:08:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[25-May-2017 20:08:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[25-May-2017 20:08:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[25-May-2017 20:08:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[25-May-2017 20:08:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[26-May-2017 09:55:37 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[26-May-2017 09:55:37 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[26-May-2017 09:55:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[26-May-2017 09:55:37 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[26-May-2017 09:55:37 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[26-May-2017 09:55:37 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[26-May-2017 09:55:37 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[26-May-2017 15:17:05 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[26-May-2017 15:17:05 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[26-May-2017 15:17:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[26-May-2017 15:17:05 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[26-May-2017 15:17:05 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[26-May-2017 15:17:05 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[26-May-2017 15:17:05 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[26-May-2017 15:17:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[26-May-2017 15:17:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[26-May-2017 15:17:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[26-May-2017 15:17:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[26-May-2017 15:17:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[26-May-2017 15:17:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[26-May-2017 15:17:15 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[27-May-2017 01:09:01 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[27-May-2017 01:09:01 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[27-May-2017 01:09:01 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[27-May-2017 01:09:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[27-May-2017 01:09:01 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[27-May-2017 01:09:01 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[27-May-2017 01:09:01 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[27-May-2017 01:09:01 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[27-May-2017 01:09:01 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[27-May-2017 01:09:01 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[27-May-2017 19:12:26 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[27-May-2017 19:12:26 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[27-May-2017 19:12:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[27-May-2017 19:12:26 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[27-May-2017 19:12:26 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[27-May-2017 19:12:26 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[27-May-2017 19:12:26 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[29-May-2017 12:16:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[29-May-2017 12:16:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[29-May-2017 12:16:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[29-May-2017 12:16:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[29-May-2017 12:16:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[29-May-2017 12:16:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[29-May-2017 12:16:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[29-May-2017 12:18:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[29-May-2017 12:18:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[29-May-2017 12:18:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[29-May-2017 12:18:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[29-May-2017 12:18:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[29-May-2017 12:18:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[29-May-2017 12:18:11 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[29-May-2017 12:27:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[29-May-2017 12:27:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[29-May-2017 12:27:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[29-May-2017 12:27:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[29-May-2017 12:27:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[29-May-2017 12:27:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[29-May-2017 12:27:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[29-May-2017 16:07:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[29-May-2017 16:07:50 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[29-May-2017 16:07:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[29-May-2017 16:07:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[29-May-2017 16:07:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[29-May-2017 16:07:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[29-May-2017 16:07:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[29-May-2017 16:07:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[29-May-2017 16:07:50 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[29-May-2017 16:07:50 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[31-May-2017 10:41:34 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[31-May-2017 10:41:34 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[31-May-2017 10:41:34 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[31-May-2017 10:41:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[31-May-2017 10:41:34 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[31-May-2017 10:41:34 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[31-May-2017 10:41:34 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[31-May-2017 10:41:34 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[31-May-2017 10:41:34 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[31-May-2017 10:41:34 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[03-Jun-2017 00:22:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[03-Jun-2017 00:22:44 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[03-Jun-2017 00:22:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[03-Jun-2017 00:22:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[03-Jun-2017 00:22:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[03-Jun-2017 00:22:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[03-Jun-2017 00:22:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[03-Jun-2017 00:22:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[03-Jun-2017 00:22:44 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[03-Jun-2017 00:22:44 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[08-Jun-2017 08:47:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[08-Jun-2017 08:47:38 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[08-Jun-2017 08:47:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[08-Jun-2017 08:47:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[08-Jun-2017 08:47:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[08-Jun-2017 08:47:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[08-Jun-2017 08:47:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[08-Jun-2017 08:47:38 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[08-Jun-2017 08:47:38 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[08-Jun-2017 08:47:38 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[08-Jun-2017 12:26:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[08-Jun-2017 12:26:04 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[08-Jun-2017 12:26:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[08-Jun-2017 12:26:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[08-Jun-2017 12:26:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[08-Jun-2017 12:26:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[08-Jun-2017 12:26:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[08-Jun-2017 12:26:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[08-Jun-2017 12:26:04 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[08-Jun-2017 12:26:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[11-Jun-2017 12:44:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[11-Jun-2017 12:44:03 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[11-Jun-2017 12:44:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[11-Jun-2017 12:44:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[11-Jun-2017 12:44:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[11-Jun-2017 12:44:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[11-Jun-2017 12:44:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[11-Jun-2017 12:44:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[11-Jun-2017 12:44:03 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[11-Jun-2017 12:44:03 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[13-Jun-2017 18:20:13 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[13-Jun-2017 18:20:13 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[13-Jun-2017 18:20:13 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[13-Jun-2017 18:20:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[13-Jun-2017 18:20:13 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[13-Jun-2017 18:20:13 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[13-Jun-2017 18:20:13 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[13-Jun-2017 18:20:13 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[13-Jun-2017 18:20:13 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[13-Jun-2017 18:20:13 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[15-Jun-2017 17:57:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[15-Jun-2017 17:57:50 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[15-Jun-2017 17:57:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[15-Jun-2017 17:57:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[15-Jun-2017 17:57:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[15-Jun-2017 17:57:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[15-Jun-2017 17:57:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[15-Jun-2017 17:57:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[15-Jun-2017 17:57:50 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[15-Jun-2017 17:57:50 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[21-Jun-2017 06:32:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 174
+[21-Jun-2017 06:32:43 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 186
+[21-Jun-2017 06:32:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-Jun-2017 06:32:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 205
+[21-Jun-2017 06:32:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 218
+[21-Jun-2017 06:32:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 222
+[21-Jun-2017 06:32:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 225
+[21-Jun-2017 06:32:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 229
+[21-Jun-2017 06:32:43 UTC] PHP Notice:  Undefined variable: db in /home/sandeep8848/public_html/productsDescription.php on line 233
+[21-Jun-2017 06:32:43 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/sandeep8848/public_html/productsDescription.php on line 233
+[26-Jun-2017 15:35:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[26-Jun-2017 15:35:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[26-Jun-2017 15:35:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[26-Jun-2017 15:35:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[26-Jun-2017 15:35:44 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[26-Jun-2017 15:35:44 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[26-Jun-2017 15:35:44 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[26-Jun-2017 15:35:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[26-Jun-2017 21:30:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[26-Jun-2017 21:30:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[26-Jun-2017 21:30:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[26-Jun-2017 21:30:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[26-Jun-2017 21:30:43 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[26-Jun-2017 21:30:43 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[26-Jun-2017 21:30:43 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[26-Jun-2017 21:30:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[28-Jun-2017 00:31:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[28-Jun-2017 00:31:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[28-Jun-2017 00:31:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[28-Jun-2017 00:31:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[28-Jun-2017 00:31:07 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[28-Jun-2017 00:31:07 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[28-Jun-2017 00:31:07 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[28-Jun-2017 00:31:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[28-Jun-2017 11:16:36 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[28-Jun-2017 11:16:36 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[28-Jun-2017 11:16:36 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[28-Jun-2017 11:16:36 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[28-Jun-2017 11:16:36 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[28-Jun-2017 11:16:36 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[28-Jun-2017 11:16:36 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[28-Jun-2017 11:16:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[30-Jun-2017 08:03:29 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[30-Jun-2017 08:03:29 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[30-Jun-2017 08:03:29 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[30-Jun-2017 08:03:29 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[30-Jun-2017 08:03:29 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[30-Jun-2017 08:03:29 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[30-Jun-2017 08:03:29 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[30-Jun-2017 08:03:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[30-Jun-2017 17:02:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sandeep8848/public_html/index.php on line 349
+[30-Jun-2017 17:02:28 UTC] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/sandeep8848/public_html/index.php on line 376
+[30-Jun-2017 17:02:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sandeep8848/public_html/index.php on line 349
+[30-Jun-2017 17:02:51 UTC] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/sandeep8848/public_html/index.php on line 376
+[30-Jun-2017 17:04:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sandeep8848/public_html/index.php on line 349
+[30-Jun-2017 17:04:53 UTC] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/sandeep8848/public_html/index.php on line 376
+[30-Jun-2017 17:04:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sandeep8848/public_html/index.php on line 349
+[30-Jun-2017 17:04:53 UTC] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/sandeep8848/public_html/index.php on line 376
+[30-Jun-2017 17:06:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sandeep8848/public_html/products.php on line 95
+[30-Jun-2017 17:06:07 UTC] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/sandeep8848/public_html/products.php on line 133
+[30-Jun-2017 17:06:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sandeep8848/public_html/products.php on line 95
+[30-Jun-2017 17:06:11 UTC] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/sandeep8848/public_html/products.php on line 133
+[06-Jul-2017 18:20:21 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[06-Jul-2017 18:20:21 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[06-Jul-2017 18:20:21 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[06-Jul-2017 18:20:21 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[06-Jul-2017 18:20:21 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[06-Jul-2017 18:20:21 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[06-Jul-2017 18:20:21 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[06-Jul-2017 18:20:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[06-Jul-2017 18:20:21 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[06-Jul-2017 18:20:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[06-Jul-2017 19:04:31 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[06-Jul-2017 19:04:31 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[06-Jul-2017 19:04:31 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[06-Jul-2017 19:04:31 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[06-Jul-2017 19:04:31 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[06-Jul-2017 19:04:31 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[06-Jul-2017 19:04:31 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[06-Jul-2017 19:04:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[06-Jul-2017 19:04:31 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[06-Jul-2017 19:04:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[06-Jul-2017 19:35:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[06-Jul-2017 19:35:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[06-Jul-2017 19:35:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[06-Jul-2017 19:35:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[06-Jul-2017 19:35:54 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[06-Jul-2017 19:35:54 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[06-Jul-2017 19:35:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[06-Jul-2017 19:35:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[06-Jul-2017 19:35:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[06-Jul-2017 19:35:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[14-Jul-2017 04:27:17 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[14-Jul-2017 04:27:17 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[14-Jul-2017 04:27:17 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[14-Jul-2017 04:27:17 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[14-Jul-2017 04:27:17 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[14-Jul-2017 04:27:17 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[14-Jul-2017 04:27:17 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[14-Jul-2017 04:27:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[14-Jul-2017 04:27:17 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[14-Jul-2017 04:27:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[14-Jul-2017 04:27:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[14-Jul-2017 04:27:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[14-Jul-2017 04:27:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[14-Jul-2017 04:27:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[14-Jul-2017 04:27:18 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[14-Jul-2017 04:27:18 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[14-Jul-2017 04:27:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[14-Jul-2017 04:27:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[14-Jul-2017 04:27:18 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[14-Jul-2017 04:27:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[14-Jul-2017 17:36:16 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[14-Jul-2017 17:36:16 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[14-Jul-2017 17:36:16 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[14-Jul-2017 17:36:16 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[14-Jul-2017 17:36:16 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[14-Jul-2017 17:36:16 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[14-Jul-2017 17:36:16 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[14-Jul-2017 17:36:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[14-Jul-2017 17:36:16 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[14-Jul-2017 17:36:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[14-Jul-2017 20:23:09 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[14-Jul-2017 20:23:09 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[14-Jul-2017 20:23:09 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[14-Jul-2017 20:23:09 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[14-Jul-2017 20:23:09 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[14-Jul-2017 20:23:09 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[14-Jul-2017 20:23:09 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[14-Jul-2017 20:23:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[14-Jul-2017 20:23:09 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[14-Jul-2017 20:23:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[15-Jul-2017 00:14:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[15-Jul-2017 00:14:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[15-Jul-2017 00:14:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[15-Jul-2017 00:14:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[15-Jul-2017 00:14:20 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[15-Jul-2017 00:14:20 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[15-Jul-2017 00:14:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[15-Jul-2017 00:14:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[15-Jul-2017 00:14:20 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[15-Jul-2017 00:14:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[15-Jul-2017 05:11:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[15-Jul-2017 05:11:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[15-Jul-2017 05:11:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[15-Jul-2017 05:11:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[15-Jul-2017 05:11:59 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[15-Jul-2017 05:11:59 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[15-Jul-2017 05:11:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[15-Jul-2017 05:11:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[15-Jul-2017 05:11:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[15-Jul-2017 05:11:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[15-Jul-2017 18:07:13 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[15-Jul-2017 18:07:13 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[15-Jul-2017 18:07:13 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[15-Jul-2017 18:07:13 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[15-Jul-2017 18:07:13 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[15-Jul-2017 18:07:13 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[15-Jul-2017 18:07:13 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[15-Jul-2017 18:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[15-Jul-2017 18:07:13 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[15-Jul-2017 18:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[15-Jul-2017 19:27:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[15-Jul-2017 19:27:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[15-Jul-2017 19:27:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[15-Jul-2017 19:27:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[15-Jul-2017 19:27:06 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[15-Jul-2017 19:27:06 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[15-Jul-2017 19:27:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[15-Jul-2017 19:27:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[15-Jul-2017 19:27:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[15-Jul-2017 19:27:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[17-Jul-2017 19:01:00 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[17-Jul-2017 19:01:00 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[17-Jul-2017 19:01:00 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[17-Jul-2017 19:01:00 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[17-Jul-2017 19:01:00 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[17-Jul-2017 19:01:00 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[17-Jul-2017 19:01:00 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[17-Jul-2017 19:01:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[17-Jul-2017 19:01:00 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[17-Jul-2017 19:01:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[02-Aug-2017 08:09:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[02-Aug-2017 08:09:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[02-Aug-2017 08:09:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[02-Aug-2017 08:09:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[02-Aug-2017 08:09:50 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[02-Aug-2017 08:09:50 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[02-Aug-2017 08:09:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[02-Aug-2017 08:09:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[02-Aug-2017 08:09:50 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[02-Aug-2017 08:09:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[07-Aug-2017 05:24:42 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[07-Aug-2017 05:24:42 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[07-Aug-2017 05:24:42 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[07-Aug-2017 05:24:42 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[07-Aug-2017 05:24:42 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[07-Aug-2017 05:24:42 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[07-Aug-2017 05:24:42 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[07-Aug-2017 05:24:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[07-Aug-2017 05:24:42 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[07-Aug-2017 05:24:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[07-Aug-2017 08:19:10 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[07-Aug-2017 08:19:10 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[07-Aug-2017 08:19:10 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[07-Aug-2017 08:19:10 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[07-Aug-2017 08:19:10 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[07-Aug-2017 08:19:10 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[07-Aug-2017 08:19:10 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[07-Aug-2017 08:19:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[07-Aug-2017 08:19:10 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[07-Aug-2017 08:19:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[09-Aug-2017 18:35:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[09-Aug-2017 18:35:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[09-Aug-2017 18:35:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[09-Aug-2017 18:35:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[09-Aug-2017 18:35:03 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[09-Aug-2017 18:35:03 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[09-Aug-2017 18:35:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[09-Aug-2017 18:35:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[09-Aug-2017 18:35:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[09-Aug-2017 18:35:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[11-Aug-2017 04:46:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[11-Aug-2017 04:46:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[11-Aug-2017 04:46:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[11-Aug-2017 04:46:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[11-Aug-2017 04:46:04 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[11-Aug-2017 04:46:04 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[11-Aug-2017 04:46:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[11-Aug-2017 04:46:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[11-Aug-2017 04:46:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[11-Aug-2017 04:46:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[14-Aug-2017 14:15:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sandeep8848/eaPortions/dbConnect.php on line 7
+[14-Aug-2017 14:15:09 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/sandeep8848/eaPortions/dbConnect.php on line 10
+[14-Aug-2017 14:15:09 UTC] PHP Fatal error:  Call to a member function query() on boolean in /home/sandeep8848/public_html/index.php on line 39
+[21-Aug-2017 14:40:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sandeep8848/eaPortions/dbConnect.php on line 7
+[21-Aug-2017 14:40:19 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/sandeep8848/eaPortions/dbConnect.php on line 10
+[21-Aug-2017 14:40:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sandeep8848/public_html/productsDescription.php on line 22
+[21-Aug-2017 14:40:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sandeep8848/public_html/productsDescription.php on line 23
+[21-Aug-2017 14:40:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sandeep8848/public_html/productsDescription.php on line 24
+[21-Aug-2017 14:40:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sandeep8848/public_html/productsDescription.php on line 25
+[21-Aug-2017 14:40:19 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[21-Aug-2017 14:40:19 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[21-Aug-2017 14:40:19 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[21-Aug-2017 14:40:19 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[21-Aug-2017 14:40:19 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[21-Aug-2017 14:40:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[21-Aug-2017 14:40:19 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[21-Aug-2017 14:40:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[21-Aug-2017 16:57:27 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[21-Aug-2017 16:57:27 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[21-Aug-2017 16:57:27 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[21-Aug-2017 16:57:27 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[21-Aug-2017 16:57:27 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[21-Aug-2017 16:57:27 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[21-Aug-2017 16:57:27 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[21-Aug-2017 16:57:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[21-Aug-2017 16:57:27 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[21-Aug-2017 16:57:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[07-Sep-2017 15:54:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sandeep8848/eaPortions/dbConnect.php on line 7
+[07-Sep-2017 15:54:35 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/sandeep8848/eaPortions/dbConnect.php on line 10
+[07-Sep-2017 15:54:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sandeep8848/public_html/productsDescription.php on line 22
+[07-Sep-2017 15:54:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sandeep8848/public_html/productsDescription.php on line 23
+[07-Sep-2017 15:54:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sandeep8848/public_html/productsDescription.php on line 24
+[07-Sep-2017 15:54:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sandeep8848/public_html/productsDescription.php on line 25
+[07-Sep-2017 15:54:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[07-Sep-2017 15:54:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[07-Sep-2017 15:54:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[07-Sep-2017 15:54:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[07-Sep-2017 15:54:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[07-Sep-2017 15:54:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[07-Sep-2017 15:54:35 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[07-Sep-2017 15:54:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[09-Sep-2017 23:43:24 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[09-Sep-2017 23:43:24 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[09-Sep-2017 23:43:24 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[09-Sep-2017 23:43:24 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[09-Sep-2017 23:43:24 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[09-Sep-2017 23:43:24 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[09-Sep-2017 23:43:24 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[09-Sep-2017 23:43:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[09-Sep-2017 23:43:24 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[09-Sep-2017 23:43:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[10-Sep-2017 06:53:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[10-Sep-2017 06:53:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[10-Sep-2017 06:53:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[10-Sep-2017 06:53:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[10-Sep-2017 06:53:59 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[10-Sep-2017 06:53:59 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[10-Sep-2017 06:53:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[10-Sep-2017 06:53:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[10-Sep-2017 06:53:59 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[10-Sep-2017 06:53:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[17-Sep-2017 04:33:57 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[17-Sep-2017 04:33:57 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[17-Sep-2017 04:33:57 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[17-Sep-2017 04:33:57 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[17-Sep-2017 04:33:57 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[17-Sep-2017 04:33:57 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[17-Sep-2017 04:33:57 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[17-Sep-2017 04:33:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[17-Sep-2017 04:33:57 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[17-Sep-2017 04:33:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[17-Sep-2017 07:11:01 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[17-Sep-2017 07:11:01 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[17-Sep-2017 07:11:01 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[17-Sep-2017 07:11:01 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[17-Sep-2017 07:11:01 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[17-Sep-2017 07:11:01 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[17-Sep-2017 07:11:01 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[17-Sep-2017 07:11:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[17-Sep-2017 07:11:01 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[17-Sep-2017 07:11:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[28-Sep-2017 23:58:08 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[28-Sep-2017 23:58:08 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[28-Sep-2017 23:58:08 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[28-Sep-2017 23:58:08 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[28-Sep-2017 23:58:08 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[28-Sep-2017 23:58:08 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[28-Sep-2017 23:58:08 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[28-Sep-2017 23:58:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[28-Sep-2017 23:58:08 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[28-Sep-2017 23:58:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[30-Sep-2017 00:14:29 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[30-Sep-2017 00:14:29 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[30-Sep-2017 00:14:29 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[30-Sep-2017 00:14:29 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[30-Sep-2017 00:14:29 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[30-Sep-2017 00:14:29 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[30-Sep-2017 00:14:29 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[30-Sep-2017 00:14:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[30-Sep-2017 00:14:29 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[30-Sep-2017 00:14:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[03-Oct-2017 13:23:25 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[03-Oct-2017 13:23:25 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[03-Oct-2017 13:23:25 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[03-Oct-2017 13:23:25 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[03-Oct-2017 13:23:25 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[03-Oct-2017 13:23:25 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[03-Oct-2017 13:23:25 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[03-Oct-2017 13:23:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[03-Oct-2017 13:23:25 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[03-Oct-2017 13:23:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[07-Oct-2017 21:12:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[07-Oct-2017 21:12:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[07-Oct-2017 21:12:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[07-Oct-2017 21:12:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[07-Oct-2017 21:12:06 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[07-Oct-2017 21:12:06 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[07-Oct-2017 21:12:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[07-Oct-2017 21:12:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[07-Oct-2017 21:12:06 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[07-Oct-2017 21:12:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[12-Oct-2017 04:36:42 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[12-Oct-2017 04:36:42 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[12-Oct-2017 04:36:42 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[12-Oct-2017 04:36:42 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[12-Oct-2017 04:36:42 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[12-Oct-2017 04:36:42 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[12-Oct-2017 04:36:42 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[12-Oct-2017 04:36:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[12-Oct-2017 04:36:42 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[12-Oct-2017 04:36:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[13-Oct-2017 18:36:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[13-Oct-2017 18:36:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[13-Oct-2017 18:36:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[13-Oct-2017 18:36:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[13-Oct-2017 18:36:54 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[13-Oct-2017 18:36:54 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[13-Oct-2017 18:36:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[13-Oct-2017 18:36:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[13-Oct-2017 18:36:54 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[13-Oct-2017 18:36:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[14-Oct-2017 04:36:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[14-Oct-2017 04:36:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[14-Oct-2017 04:36:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[14-Oct-2017 04:36:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[14-Oct-2017 04:36:04 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[14-Oct-2017 04:36:04 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[14-Oct-2017 04:36:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[14-Oct-2017 04:36:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[14-Oct-2017 04:36:04 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[14-Oct-2017 04:36:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[16-Oct-2017 08:27:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[16-Oct-2017 08:27:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[16-Oct-2017 08:27:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[16-Oct-2017 08:27:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[16-Oct-2017 08:27:47 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[16-Oct-2017 08:27:47 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[16-Oct-2017 08:27:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[16-Oct-2017 08:27:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[16-Oct-2017 08:27:47 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[16-Oct-2017 08:27:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[20-Oct-2017 20:59:28 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[20-Oct-2017 20:59:28 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[20-Oct-2017 20:59:28 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[20-Oct-2017 20:59:28 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[20-Oct-2017 20:59:28 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[20-Oct-2017 20:59:28 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[20-Oct-2017 20:59:28 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[20-Oct-2017 20:59:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[20-Oct-2017 20:59:28 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[20-Oct-2017 20:59:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99
+[21-Oct-2017 05:37:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 31
+[21-Oct-2017 05:37:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 35
+[21-Oct-2017 05:37:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 38
+[21-Oct-2017 05:37:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 42
+[21-Oct-2017 05:37:03 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[21-Oct-2017 05:37:03 UTC] PHP Notice:  Undefined variable: image in /home/sandeep8848/public_html/productsDescription.php on line 65
+[21-Oct-2017 05:37:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 71
+[21-Oct-2017 05:37:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 71
+[21-Oct-2017 05:37:03 UTC] PHP Notice:  Undefined variable: row in /home/sandeep8848/public_html/productsDescription.php on line 99
+[21-Oct-2017 05:37:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sandeep8848/public_html/productsDescription.php on line 99

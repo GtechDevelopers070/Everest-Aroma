@@ -1,0 +1,38 @@
+
+/*footer*/
+#contactUs{
+  background-color: #658464;
+  position: relative;
+  top: 10vh;
+  z-index: 4;
+}
+#line
+{
+    border-width: 0.5vh;
+}
+.noUnderline
+{
+    text-decoration: none;
+    color:white;
+}
+
+#followUs{
+
+    color:white;
+        
+}
+#contactFooter{
+    text-align: center;
+    color:white;
+    max-width:100%;
+}
+/*footer ends*/
+
+.titleFont{
+  font-family: Sansita;
+}
+
+.contentFont{
+  font-family: Ubuntu;
+}
+

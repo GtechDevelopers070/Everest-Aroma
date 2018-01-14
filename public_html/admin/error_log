@@ -1,0 +1,2 @@
+[17-Sep-2017 09:01:05 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/sandeep8848/public_html/admin/ea-admin-home.php on line 125
+[19-Sep-2017 05:16:25 UTC] PHP Notice:  Undefined index: myID in /home/sandeep8848/public_html/admin/ea-admin-home.php on line 155

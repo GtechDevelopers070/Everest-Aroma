@@ -1,0 +1,43 @@
+
+    .fonty{
+      font-size: 100%;
+      line-height: 1.6875;
+      font-family:Georgia;
+    }
+
+    .shape{
+      width: 35%;
+      height: 15%;
+      
+    }
+
+    .shape1{
+      width: 80%;
+      height: 50%;
+      background-color: white;
+    }
+
+    .outerb{
+      width:100%; 
+      height:90%; 
+      padding:1.8%; 
+      text-align:center; 
+      border: 10px solid #787878;
+    }
+
+    .innerb{
+      width:100%;
+       height:80%;
+       padding:1.8%; 
+       text-align:center; 
+       border: 5px solid #787878;
+    }
+
+.titleFont{
+  font-family: Sansita;
+}
+
+.contentFont{
+  font-family: Ubuntu;
+}
+

@@ -1,0 +1,329 @@
+/*styling by ayushghimire, related with contactUs.html*/
+@font-face {
+    font-family: Robo;
+    src: url(".../font/RobotoSlab-Regular.ttf");
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: Robo;
+    color: #bcb858;
+}
+
+body{
+    width: 100%;
+}
+
+.imgCircle{
+
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 50%;
+    border: 5px solid;
+    border-color:#bcfca5;
+    box-shadow: 0px 5px 6.951px 0.0489px rgba(0,0,0,0.55);
+}
+
+#contactInfo{
+	margin-top: 70px;
+}
+
+#contactUs{
+    font-size:1em;
+}
+
+/*first photo edit*/
+
+
+.first{
+    color:#60953c;
+    line-height: 2.5vh;
+}
+
+
+.firstName{
+    color: #bcb858;
+    font-size: 1.7em;
+    /*used to over ride*/
+    font-family:Robo;
+}
+
+.firstPosition{
+    color:#bcb858;
+    font-size: 1.2em;
+    font-family:Robo;
+
+}
+
+.part1{
+    position:relative;
+    min-height: 35vh;
+}
+
+/*end of first*/
+
+
+/*second photo edit*/
+
+.part2{
+    position:relative;
+    min-height: 45vh;
+}
+
+.blockNumThree{
+    margin-top: 7vh;
+}
+
+.blockNumFour{
+    margin-top: 7vh;
+}
+
+/*end of second*/
+
+/*rectangle*/
+.rectangle{
+    width:100%;
+    padding: 10px;
+    background-color: #225c22;
+    margin-top:1vh;
+
+
+}
+
+/*hoider of email which is transparent and white*/
+.emailHolder{
+    width:80%;
+    align-items: center;
+    background-color: rgba(255,255,255,0.15);
+    border-radius: 15px;
+    margin-left: 8vw;
+    margin-top: 2vh;
+    box-shadow: 2px 2px 4px #000;
+    margin-bottom: 5vh;
+    border: 1px solid #4CAF50;
+}
+
+.afterEmailClick{
+    padding:10px;
+}
+
+/* email us */
+
+#emailUs{
+    margin-top:30px;
+}
+
+.heading{
+    color:#225c22;
+}
+
+.yourName{
+    margin-bottom:3vh;
+}
+
+.emailUsLabel{
+    margin-left: 10px;
+    color:#225c22;
+}
+
+textarea{
+    width:60vw;
+    height: 15vh;
+    padding:1vw;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    resize: none;
+}
+
+input[type=text], select {
+    width: 60vw;
+    padding: 1vw;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.messageTextArea{
+    margin:1px;
+    margin-top: 10px;
+    resize: none;
+}
+
+.buttonSubmit{
+    margin:1vh;
+    padding:1vh;
+    border-radius: 4px;
+}
+
+/*image button styling*/
+.submitButton{
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    padding: 7px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+/*email Us ending*/
+
+
+/* line */
+#line {
+    margin-top:7vh;
+    margin-left: -3vw;
+}
+
+/*footer*/
+#contactFooter{
+    color: black;
+    display: none;
+}
+
+.footerCenterDetail{
+    text-align: center;
+}
+
+.followLabel{
+    float:right;
+}
+
+.contactImg{
+    width: 25px;
+    height: 25px;
+    float: right;
+}
+
+/*end of footer*/
+
+
+.removeIcon{
+    float:right;
+    padding: 20px;
+    display: none;
+}
+
+/*start of button*/
+.buttonCircle {
+    color : #225c22;
+    background-color: #fff;
+    border:none;
+    display: none;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    opacity: 0.9;
+    position: fixed;
+    right:20px;
+    bottom:20px;
+    text-align: center;
+    overflow: auto;
+    z-index:1px;
+    float:right;
+    font-size: 27px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 4px #888;
+}
+
+.buttonCircle:hover{
+    color : white;
+    background-color: #225c22;
+    cursor: hand;
+}
+
+.titleFont{
+  font-family: Sansita;
+  line-height: 1.1em;
+}
+
+.contentFont{
+  font-family: Ubuntu;
+  text-align: justify;
+}
+
+
+@media only screen and(max-width: 958px){
+	#contactInfo{
+		margin-top: 50px;
+	}
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    body { 
+        font-size: 2.2vh; 
+    }
+
+}
+
+
+/*for removing the email button and displaying email*/
+@media only screen and (max-width: 768px) {
+    #emailUs{
+        position: fixed;
+        height: 0vh;
+        bottom: 0vh;
+        z-index: 100;
+        width: 100%;
+        background-color: rgba(255,255,255,0.897);
+        box-shadow: -1px -11px 23px -4px rgba(0,0,0,0.75);
+        transition: height 0.5s;
+    }	
+
+    .removeIcon{
+    	display: block;
+        cursor: pointer;
+    }
+
+    .imgCircle{
+        margin-bottom: 5px;
+    }
+
+    .emailHolder{
+        margin-top:50px;
+        margin-left:-3px;
+        opacity: 0;
+        width:100%;
+        transition: opacity 0.5s;
+        transition-delay: 0.2s;
+    }
+    
+    .buttonCircle{
+        display: block;
+    }
+    
+    /*body { font-size: 2.4vh; 
+    }*/
+}
+
+@media only screen and (min-width:768px) and (max-width: 1020px) {
+
+    body { font-size: 2.2vh; }
+    
+    .emailUsLabel{
+	    margin-left: 5vw;
+	 }
+}
+
+@media only screen and (min-width:1020px){
+    .imgCircle{
+        width: 180px;
+        height: 180px;
+    }
+    
+      .emailUsLabel{
+	    margin-left: 7vw;
+	 }
+
+}
+

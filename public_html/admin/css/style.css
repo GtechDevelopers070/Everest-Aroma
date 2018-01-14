@@ -1,0 +1,307 @@
+html{
+  min-height: 100vh;
+}
+
+
+body{
+background: -moz-linear-gradient( 90deg, #363f37, #0b2849, 100%);
+  background: -webkit-linear-gradient( 90deg,  #363f37, #0b2849);
+  background: -ms-linear-gradient( 90deg, #363f37, #0b2849 100%);
+   position: relative;
+
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+  vertical-align: inherit;
+
+}
+
+th, td {
+  text-align: center;
+  padding-left: 8px;
+  font-size: 19px;
+  font-family: "RobotoSlab";
+  color: white;
+}
+
+
+th {
+   position: relative;
+    color: white;
+    text-align: center;
+}
+
+
+li {
+  display:inline-block;
+}
+
+.headd{
+	font-family: "RobotoSlab";
+  color: rgb(249, 249, 246);
+   text-align: center;
+ font-size: 62px;
+  
+}
+.addProductStyle{
+  font-family: "RobotoSlab";
+  color: rgb(249, 249, 246);
+  text-align: left;
+ font-size: 20px;
+  
+}
+#formDiv{
+	text-align: center;
+  font-size: 29px;
+  font-family: "RobotoSlab";
+  
+  line-height: 1.143;
+ color: rgb(249, 249, 246); 
+  -moz-transform: scale(0.78, 0.79);
+  -webkit-transform: scale(0.78, 0.79);
+  -ms-transform: scale(0.78, 0.79);
+  position: relative;
+}
+
+.areaOldUname{
+	margin-left:10vw;
+	height:40px;
+	width:300px;
+	border-radius:10px;
+	font-size: 22px;
+  font-family: "RobotoSlab";
+  color:black;
+}
+
+.areaOldPass{
+	margin-left:10.5vw;
+	height:40px;
+	width:300px;
+	border-radius:10px;
+	font-size: 22px;
+  font-family: "RobotoSlab";
+  color:black;
+}
+.areaNewPass{
+	margin-left:10vw;
+	height:40px;
+	width:300px;
+	border-radius:10px;
+	font-size: 22px;
+  font-family: "RobotoSlab";
+}
+.areaConfirmNewPass{
+	margin-left:1.5vw;
+	height:40px;
+	width:300px;
+	border-radius:10px;
+	font-size: 22px;
+  font-family: "RobotoSlab";
+}
+
+.areaAccount{
+	height:40px;
+	width:170px;
+	border-radius:10px;
+	font-size: 22px;
+  font-family: "RobotoSlab";
+}
+
+.areaName{
+	height:40px;
+	width:290px;
+	border-radius:10px;
+	font-size: 22px;
+  font-family: "RobotoSlab";
+  color: black;
+}
+.areaPassword{
+	height:40px;
+	width:290px;
+	border-radius:10px;
+	font-size: 22px;
+  font-family: "RobotoSlab";
+  color: black;
+}
+
+
+.textInside{
+	font-size: 29px;
+  font-family: "RobotoSlab";
+  /*color: rgb(249, 249, 246);*/
+  line-height: 1.143;
+}
+
+.button12{
+	background-color: #504b3a;	
+	height:40px;
+	width:170px;
+	border-radius: 10px;
+	font-size: 22px;
+  	font-family: "RobotoSlab";
+}
+
+#statusMessage{
+	text-align: center;
+	color: red;
+}
+
+.tableContent{
+	overflow-x: auto;
+}
+
+.photoProduct{
+height:80px;
+width:80px;
+}
+
+.upload{
+  background-color: #504b3a;
+border-radius: 10px;
+font-size: 15px;
+  font-family: "RobotoSlab";
+}
+
+.postProduct{
+  font-size: 15px;
+  font-family: "RobotoSlab";
+  color:white;
+}
+
+#subject{
+  font-size: 15px;
+  font-family: "RobotoSlab";
+  color:black;
+  width:300px;
+  border-radius: 10px;
+}
+
+.formLink{
+  border: none;
+  border-radius: 10px;
+  background:#0B2849;
+  margin-left:2.5vw;
+  color:white;
+  font-size: 15px;
+  font-family: "RobotoSlab";
+  width:120px;
+  height:50px;
+  margin-top: 2vh;
+}
+
+#myNav{
+  background-image: none;
+  background:#031830;
+}
+
+.newsTitle,.newsContent{
+  font-size: 50px;
+}
+
+
+/*Image properties*/
+.imag{
+  height: 10vw;
+  width: 10vw;
+  border-radius: 50%;
+  margin-top: 2vw;
+  margin-left: auto;
+  margin-right: auto;
+  float: all;
+  background-size: 10vw 10vw;
+  background-repeat: no-repeat;
+}
+
+.imag:hover{
+  opacity: 0.8;
+}
+
+
+/*Name of Product styling*/
+.nameProd{
+  font-weight: bolder;
+  font-size: 200%;
+}
+
+.cent{
+    text-align: center;
+}
+
+.editProductStyle{
+  font-family: "RobotoSlab";
+  color: rgb(249, 249, 246);
+  /*text-align: left;*/
+  font-size: 20px;
+  text-align: center;
+  
+}
+
+/* Admin Gallery Style */
+.albumHeading
+{
+  font-family: "RobotoSlab";
+  color: rgb(249, 249, 246);
+  font-size: 34px;
+ }
+
+.addAlbumBody{
+  font-family: "RobotoSlab";
+  color: rgb(249, 249, 246);
+  font-size: 18px;
+  }
+
+  .galleryAlbums{
+      box-shadow: -8px 10px 10px 0.63px rgba(77,77,77,0.43);
+      min-width: 100%; 
+
+      cursor: pointer;
+    }
+    .galleryAlbums::after {
+      content: '';
+      position: absolute;
+      background-color: rgba(255, 255, 255, 0.01);
+      top: 0;
+      left: 4%;
+      z-index: 2;
+      width: 92%;
+      height: 96%;
+      opacity: 0;
+      -webkit-box-shadow: inset -8px 14px 46px 3px rgba(0,0,0,0.75);
+      -moz-box-shadow: inset -8px 14px 46px 3px rgba(0,0,0,0.75);
+      box-shadow: inset -8px 14px 46px 3px rgba(0,0,0,0.75);
+      transition: opacity 0.2s ease-in-out;
+      border-bottom-right-radius: 3px;
+      border-bottom-left-radius: 3px;
+    }
+    .galleryAlbums:hover::after {
+      opacity: 1;
+    }
+    .panel-body{
+      min-height: 100px;
+    }
+
+    .panel-footer{
+      color:black;
+    }
+    .imgAlbumCover {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      max-height:250px;
+    }
+
+    .albumCoverNames{
+      color: #444444;
+      text-decoration: none;
+    }
+
+    .albumCoverNames:hover{
+      color: #444444;
+      text-decoration: none;
+    }
+
+    textarea{
+      resize:none;
+      font-size:20px;
+      text-align: center;
+    }

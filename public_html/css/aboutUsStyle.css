@@ -1,0 +1,387 @@
+blockquote {
+  font-family: Georgia, serif;
+  font-size: 14px;
+  font-style: italic;
+  /*width: 500px;*/
+  text-align: justify;
+  margin: 0.25em 0;
+  line-height: 1.45;
+  position: relative;
+  color:black;
+  line-height: 2em;
+  letter-spacing: 0.03em;
+}
+
+blockquote:before {
+  margin-top: 2vh;
+  display: block;
+  content: "\201C";
+  font-size: 80px;
+  position: absolute;
+  left: -20px;
+  top: -20px;
+  color: #000;
+}
+
+blockquote cite {
+  color: #000;
+  font-size: 14px;
+  display: block;
+  margin-top: 5px;
+}
+
+blockquote cite:before {
+  content: "\2014 \2009";
+}
+
+/*styling by ayushghimire, related with contactUs.html*/
+@font-face {
+  font-family: Robo;
+  src: url(".../font/RobotoSlab-Regular.ttf");
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: Robo;
+}
+
+body{
+  width: 100%;
+}
+
+table {
+  border-color: transparent;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+
+
+}
+
+th, td {
+  border: none;
+  text-align: left;
+  padding-bottom: 8px;
+  width: 20%;
+}
+
+
+/*entering the img into aboutUs*/
+.imgCircle{
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 50%;
+  border: 5px solid;
+  border-color:#bcfca5;
+  box-shadow: 0px 1px 6.951px 0.0489px rgba(0,0,0,0.55) ;
+
+}
+
+#aboutUsInfo{
+  margin-top: 40px;
+}
+
+
+
+.aboutTitle{
+  color: #fff;
+  margin-left: 0.1vw;
+  text-shadow:  1.5px 1.5px #000;
+  letter-spacing: 0.03em;
+}
+
+.aboutTitle:after{
+ content: " ";
+ display: block;
+ width: 5%;
+ height: 2px;
+ margin: 20px 0 20px;
+ background: #fff;
+}
+
+.writtenBlocks{
+  /*background-color: #2e3a55;*/
+  background-color:  #225c22;
+  color: white;
+  -webkit-box-shadow: inset -3px -10px 31px -8px rgba(0,0,0,0.56);
+  -moz-box-shadow: inset -3px -10px 31px -8px rgba(0,0,0,0.56);
+  box-shadow: inset -3px -10px 31px -8px rgba(0,0,0,0.56);
+  cursor: pointer;
+  line-height: 2em;
+  letter-spacing: 0.03em;
+  transition: font 0.3s ease;
+  -webkit-transition: font 0.3s ease;
+  -moz-transition: font 0.3s ease;
+  -o-transition: font 0.3s ease;
+  -ms-transition: font 0.3s ease;
+}
+
+/* Pre-render the bigger shadow, but hide it */
+.writtenBlocks::after {
+  content: '';
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.01);
+  top: 0;
+  left: 0;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  -webkit-box-shadow: inset -8px 14px 46px 3px rgba(0,0,0,0.75);
+  -moz-box-shadow: inset -8px 14px 46px 3px rgba(0,0,0,0.75);
+  box-shadow: inset -8px 14px 46px 3px rgba(0,0,0,0.75);
+  transition: opacity 0.2s ease-in-out;
+}
+
+/* Transition to showing the bigger shadow on hover */
+.writtenBlocks:hover::after {
+  opacity: 1;
+}
+
+.writtenBlocks:hover{
+  font-size: 1.005em;   
+}
+
+
+
+.bigBlockAbout{
+  font-family: Ubuntu;
+  text-align: justify;
+  height: 30vh;
+  overflow-y: hidden;
+
+}
+
+.bigBlockWork{
+  font-family: Ubuntu;
+  text-align: justify;
+  height: 30vh;
+  overflow-y: hidden;
+
+}
+
+.readMore{
+  border: 1px solid white;
+  padding: 15px;
+  cursor: pointer;
+  position: relative;
+  margin-right: 5vw;
+  margin-bottom: 40px;
+  -webkit-box-shadow: 3px 5px 17px -1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 3px 5px 17px -1px rgba(0,0,0,0.75);
+  box-shadow: 3px 5px 17px -1px rgba(0,0,0,0.75);
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+ 
+}
+
+.equal {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.blank{
+  background-color: #e8fcc2;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.blank::after {
+  content: '';
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.01);
+  top: 0;
+  left: 0;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  -webkit-box-shadow: inset -8px 14px 46px 3px rgba(0,0,0,0.75);
+  -moz-box-shadow: inset -8px 14px 46px 3px rgba(0,0,0,0.75);
+  box-shadow: inset -8px 14px 46px 3px rgba(0,0,0,0.75);
+  transition: opacity 0.2s ease-in-out;
+}
+
+/* Transition to showing the bigger shadow on hover */
+.blank:hover::after {
+  opacity: 1;
+}
+
+/*start of 5 processing steps*/
+.aboutUsHolder{
+  font-size:1em;
+  width: 100%;
+  background-color: #fbfce8;
+  /*background-color: #89da59;*/
+  position: relative;
+  box-shadow: 0px 2px 6.951px 0.0489px rgba(0,0,0,0.55) inset;
+}
+
+.aboutUsWriting{
+  padding-top:20px;
+  line-height: 2em;
+  letter-spacing: 0.03em;
+}
+
+
+.aboutUsHeading{
+  font-weight: 700;
+}
+
+.aboutUsHeading:after {
+  content: " ";
+  display: block;
+  width: 3%;
+  height: 2px;
+  margin: 20px 0 20px;
+  background: #2b7225;
+}
+
+/*for the container which holdes all the quotes*/
+#aboutUsInfo{
+  background-color: rgba(188,252,165, 0.1);
+
+}
+
+/* circle writing change by ¬Godey 04/27*/
+.processCircle{
+  width:165px;
+  height:165px;
+  position:relative;
+  margin-right:30px;
+  margin-left:30px;
+  border-radius: 50%;
+  background-color: whitesmoke;
+  box-shadow: 0px 4px 6.951px 0.0489px rgba(0,0,0,0.55) inset;
+  cursor: pointer;
+
+}
+
+.processCircleDiv{
+  height:150px;
+  margin: auto;
+
+}
+
+.processStep{
+  height:100px;
+  margin:auto;
+  position: relative;
+  top:65px;
+  text-align: center;
+}
+/*end of circle writing*/
+
+/*for the connection of 5 processing*/
+.connectionBox{
+  width:100%;
+  height: 10px;
+  border-radius: 15px;
+
+  position:relative;
+  top:105px;
+  box-shadow: 6px 14px 25px -7px rgba(0,0,0,0.75);
+  background: rgba(108,150,49,0.81);
+  background: -moz-linear-gradient(left, rgba(108,150,49,0.81) 18%, rgba(108,150,49,0.81) 21%, rgba(108,150,49,0.85) 38%, rgba(66,111,4,1) 93%, rgba(62,107,0,1) 98%);
+  background: -webkit-gradient(left top, right top, color-stop(18%, rgba(108,150,49,0.81)), color-stop(21%, rgba(108,150,49,0.81)), color-stop(38%, rgba(108,150,49,0.85)), color-stop(93%, rgba(66,111,4,1)), color-stop(98%, rgba(62,107,0,1)));
+  background: -webkit-linear-gradient(left, rgba(108,150,49,0.81) 18%, rgba(108,150,49,0.81) 21%, rgba(108,150,49,0.85) 38%, rgba(66,111,4,1) 93%, rgba(62,107,0,1) 98%);
+  background: -o-linear-gradient(left, rgba(108,150,49,0.81) 18%, rgba(108,150,49,0.81) 21%, rgba(108,150,49,0.85) 38%, rgba(66,111,4,1) 93%, rgba(62,107,0,1) 98%);
+  background: -ms-linear-gradient(left, rgba(108,150,49,0.81) 18%, rgba(108,150,49,0.81) 21%, rgba(108,150,49,0.85) 38%, rgba(66,111,4,1) 93%, rgba(62,107,0,1) 98%);
+  background: linear-gradient(to right, rgba(108,150,49,0.81) 18%, rgba(108,150,49,0.81) 21%, rgba(108,150,49,0.85) 38%, rgba(66,111,4,1) 93%, rgba(62,107,0,1) 98%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6c9631', endColorstr='#3e6b00', GradientType=1 );
+  Copy text
+}
+
+.ourProcess{
+  height: auto;
+  width:100%;
+  overflow-y: hidden;
+  overflow-x: auto;
+  /*margin-left: 20px;*/
+  margin-bottom: 20px;
+}
+
+.aboutCompany{
+  position: relative;
+  column-gap: 50px;
+  margin-bottom: 10px;
+  column-count: 2;
+}
+
+.specificWriting{
+  width:auto;
+  top:50px;
+  font-size: 12px;
+  text-align: center;
+  display: none;
+  height:100px;
+  position: relative;
+  text-align: center;
+  font-family: Ubuntu;
+}
+
+.smallScreenShow{
+  position: absolute;
+  display: none;
+}
+
+/*end of 5 processing*/
+
+/* line */
+#line {
+  margin-top:7vh;
+  margin-left: -3vw;
+}
+
+.titleFont{
+  font-family: Sansita;
+}
+
+.contentFont{
+  font-family: Ubuntu;
+  text-align: justify;
+}
+
+
+
+@media only screen and (max-width: 958px) {
+
+  #aboutUsInfo { 
+    margin-top: 40px; 
+  }
+
+}
+
+@media only screen and (max-width: 768px) {
+
+  #aboutUsInfo { 
+    font-size: 2.2vh; 
+  }
+
+}
+
+/*for removing the email button and displaying email*/
+@media only screen and (min-width: 768px) {
+
+  #aboutUsInfo { font-size: 2.4vh; 
+  }
+}
+
+@media only screen and (min-width:768px) and (max-width: 1020px) {
+
+  #aboutUsInfo{ font-size: 2.2vh; }
+
+}
+
+@media only screen and (min-width:1020px){
+  .imgCircle{
+    width: 180px;
+    height: 180px;
+  }
+
+}
+/*end of responsive design part*/
+
+
