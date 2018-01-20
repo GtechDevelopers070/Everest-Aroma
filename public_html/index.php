@@ -20,7 +20,6 @@
 	<script src="js/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Sansita" rel="stylesheet">
-	<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"> -->
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
 	<script type="text/javascript">
 		function myhref(web){
@@ -251,7 +250,7 @@
 						<div id="news">
 							<!--News part-->
 							<div class= "minifiedNews">
-								<div class="readMoreNews" >
+								<div class="news-header" >
 									<span>News</span>
 								</div>
 								<?php
@@ -262,9 +261,7 @@
 								if ($result->num_rows > 0) {
                      			// output data of each row
 									while($row = $result->fetch_assoc()) {
-
-
-										echo'<div class="newsTitle">'.$row["NewsTitle"].'
+										echo'<div class="news-title">'.$row["NewsTitle"].'
 										<!--News Title HERE --> 
 									</div>';
 									$newsPicture=$row["NewsPicture"];	
@@ -338,8 +335,7 @@
 					
 					<div class="col-xs-12">
 					<div class="row">	
-					<div class="col-sm-5">			
-					<div class="row">	
+					<div class="product-window">
 					<ul class="product-slider">			
 	<?php
 
@@ -348,38 +344,38 @@
 	$sql="SELECT * FROM products WHERE homeShow ='yes'";
 
 	$result = mysqli_query($db, $sql);
-
+	
 
 	if (mysqli_num_rows($result) > 0) {
-                                  // output data of each row
+    // output data of each row
 
 		while($row = mysqli_fetch_assoc($result)) {
 			echo '				
-										<li class="product">
-											<center>';
-												echo '<a href="productsDescription.php?viewProduct'.$row["productID"].'=' .$row["productName"]. '">';
-												echo '<img src="admin/'.$row["productPhoto"].'" width="200" height="200" >
-											</a>
-										</center>';
-										echo '<div class="txt" align="center"><div class="contentFont"><center>' .$row["productName"]. '</center></div></div>
-									</li>
-								';
-								$count++; // end product and col-xs-6
-								}
+						<li class="product">
+							<center>';
+								echo '<a href="productsDescription.php?viewProduct'.$row["productID"].'=' .$row["productName"]. '">';
+								echo '<img src="admin/'.$row["productPhoto"].'" width="200" height="200" >
+							</a>
+						</center>';
+						echo '<div class="txt" align="center"><div class="contentFont"><center>' .$row["productName"]. '</center></div></div>
+					</li>
+				';
+				$count++; // end product and col-xs-6
+				}
 
-							}
-				
-							
-				
+			}
+			
 			mysqli_data_seek($result, 0);
 
 
 			?>
 			</ul>
 			</div>
-						</div>
-					</div>
-</div></div></div></div>
+			</div>
+</div>
+</div>
+</div>
+</div>
 			
 
 			<!--Kabir part ends-->

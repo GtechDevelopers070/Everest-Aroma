@@ -1,3 +1,8 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
 html{
   margin: 0px;
   overflow: hidden;
@@ -5,12 +10,11 @@ html{
 
 body{
 
-  background-color: #d9b38c;
+  background-color: #fffcc1;
 
 }
 
 .body{
-  position: absolute;
   height: 100vh;
   margin: 0px;
   -webkit-overflow-scrolling:touch; /*for ios devices*/
@@ -85,6 +89,7 @@ textarea{
   max-height: 20vh;
   padding:10px 0px 10px 0px;
   min-height: 11vh;
+  background-color: #374c12;
 }
 
 .navBarBackground li {
@@ -319,11 +324,20 @@ padding: 10px 30px 10px 30px;
   padding:20px;
 }
 
-.newsTitle{
+.news-header {
+  padding: 5px;
+  display: table;
+  text-align: center;
+  font-size: 0.7em;
+  cursor: pointer;
+}
+
+.news-title{
   /*background-color: rgb(157, 168, 151);*/
   padding: 2px;
   border-bottom: 1px solid rgb(157, 168, 151);
 }
+
 .newsImage{
   height: 50%;
   width: 100%;
@@ -344,12 +358,14 @@ padding: 10px 30px 10px 30px;
   /*background-color: rgb(157, 168, 151)*/
 }
 
+
 .readMoreNews{
   padding: 5px;
-  color: white;
   display: table;
   text-align: center;
-  background-color: #363f37;
+  background: #658464;
+  color: #FDF3E7;
+  margin:  0px 30px;
   font-size: 0.5em;
   cursor: pointer;
 }
@@ -378,7 +394,7 @@ padding: 10px 30px 10px 30px;
   height: 30vh;
   padding: 10px;
   font-size: 1.2em;
-  background-color: rgba(54,63,55,0.95);
+  background-color: #374c12;
   color: white;
 }
 
@@ -496,7 +512,7 @@ padding: 10px 30px 10px 30px;
   float: right;
 }
 
-.button2{/*border: 1px solid #000*/;
+.button2{/*border: 1px solid #000*/
   width:20px;
   height:20px;
   position: relative;
@@ -508,21 +524,22 @@ padding: 10px 30px 10px 30px;
   left: 1.25vw;
 }
 
-.product-slider{
-  list-style: none;
+.product-window {
+  overflow: hidden;
 }
 
-.product-slider li {
-  float: left;
+.product-slider{
+  list-style: none;
+  position: relative;
+  padding: 0px;
 }
 
 .product{
-  margin: auto;
+  float: left;
+  list-style: none;
 }
 
 .product img {
-  width: 12vmax;
-  height: 12vmax;
   border: 1px solid #ccc;
 }
 
