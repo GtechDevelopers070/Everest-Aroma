@@ -4,7 +4,7 @@
 
 	$username = "root";
 
-	$password = "Sagarmatha0";
+	$password = "";
 
 
 

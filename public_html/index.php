@@ -60,7 +60,13 @@
 			<nav class="navBarBackground">
 				<!--Navigation bars FAQ left to add(if here)-->
 				<div class="row">
-					<div class="col-lg-2"></div>
+					<div class="col-lg-2 ">
+						<div class="eaLogo">
+							<center><img class="img-responsive" src="EALogo-2.jpg" alt="EA_LOGO" />
+						</center>
+						</div>
+						
+					</div>
 					<div class="col-lg-8">		
 						<ul class="nav navbar-nav">
 							<li> <a class="active" href="index.php"><div class="titleFont"> Home </div></a></li>
@@ -105,6 +111,7 @@
 				<div class="hamburger"></div>
 			</div>
 			<div class="ribbon"></div>
+			
 			<div id="header">
 				<div id="myCarousel" class="carousel slide" data-ride="carousel">
 					<!-- Indicators -->
@@ -117,8 +124,27 @@
 					<!-- Wrapper for slides -->
 					<div class="carousel-inner">
 
-						<div class="item active">
-							<img src="img/home/EA-Temp.jpg" class="cover" alt="Image" style="height: 88vh; width:100%; object-fit: cover;">
+						<div class="item active carHeight">
+							
+							<img src="img/home/EA-Temp.jpg" class="cover" alt="Image" style="height: 85vh; width:100%; object-fit: cover;">
+							<div class="carousel-caption">
+								<div id="Main">
+									<div class="contentFont">
+										<center>
+											"Natural Essense of Himalaya"
+										</center>
+									</div>
+								</div>
+								<div id="Sub">
+									<div class="titleFont">
+										Everest Aroma
+									</div>
+								</div>
+							</div>
+						</div>
+					
+						<div class="item carHeight">
+							<img src="img/home/slider_1.jpg" class="cover" alt="Image" style="height: 85vh; width:100%; object-fit: cover;">
 							<div class="carousel-caption">
 								<div id="Main">
 									<div class="contentFont">
@@ -135,26 +161,8 @@
 							</div>
 						</div>
 
-						<div class="item">
-							<img src="img/home/slider_1.jpg" class="cover" alt="Image" style="height: 88vh; width:100%; object-fit: cover;">
-							<div class="carousel-caption">
-								<div id="Main">
-									<div class="contentFont">
-										<center>
-											"Natural Essense of Himalaya"
-										</center>
-									</div>
-								</div>
-								<div id="Sub">
-									<div class="titleFont">
-										Everest Aroma
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="item">
-							<img src="img/home/slider_2.jpg" class="cover" alt="Image" style="height: 88vh; width:100%; object-fit: cover;">
+						<div class="item carHeight">
+							<img src="img/home/slider_2.jpg" class="cover" alt="Image" style="height: 85vh; width:100%; object-fit: cover;">
 							<div class="carousel-caption">
 								<div id="Main">
 									<div class="contentFont">
@@ -182,6 +190,7 @@
 						<span class="glyphicon glyphicon-chevron-right"></span>
 						<span class="sr-only">Next</span>
 					</a>
+
 				</div>
 			</div><!--header-->
 			<!--danny part ends-->
