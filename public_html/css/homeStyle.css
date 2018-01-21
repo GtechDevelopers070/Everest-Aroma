@@ -14,6 +14,15 @@ body{
 
 }
 
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:  flex;
+  padding-bottom: 10px;
+}
+
+
 .body{
   height: 100vh;
   margin: 0px;
@@ -302,7 +311,7 @@ padding: 10px 30px 10px 30px;
   position: relative;
   background-color: #ececb1;
   width: 100%;  
-  height: 95vh;
+  height: 100%;
   font-family: RobotoSlab;
   color: #504b3a;
   font-size: 33.33px; /* Approximation due to font substitution */
@@ -313,6 +322,8 @@ padding: 10px 30px 10px 30px;
   overflow-y: hidden;
   cursor: pointer;
   border: 1px solid #8c8c24;
+  padding-bottom: 10px;
+
 }
 
 #news::after {

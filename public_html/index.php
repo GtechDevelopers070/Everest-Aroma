@@ -63,7 +63,7 @@
 					<div class="col-lg-2 ">
 						<div class="eaLogo">
 							<center><img class="img-responsive" src="EALogo-2.jpg" alt="EA_LOGO" />
-						</center>
+							</center>
 						</div>
 						
 					</div>
@@ -88,7 +88,7 @@
 				</div>
 
 			</nav>
-				<!--End of Navigation Bar -->
+			<!--End of Navigation Bar -->
 
 			<!--danny part starts-->
 			<div id="secondMenu" onclick="leftNavbar()">
@@ -128,7 +128,7 @@
 								</div>
 							</div>
 						</div>
-					
+
 						<div class="item carHeight">
 							<img src="img/home/slider_1.jpg" class="cover" alt="Image" style="height: 85vh; width:100%; object-fit: cover;">
 							<div class="carousel-caption">
@@ -239,143 +239,144 @@
 
 		<!-- NEWS SECTION START -->
 		<div class="middle">    
-				<div class="row">
-					<div class="col-lg-4" >
-						<div id="news">
-							<!--News part-->
-							<div class= "minifiedNews">
-								<div class="news-header" >
-									<span>News</span>
-								</div>
-								<?php
-								include '../eaPortions/dbConnect.php';
-								$sqlNews = "SELECT * FROM news ORDER BY NewsID DESC LIMIT 1";
-								$result=$db->query($sqlNews);
+			<div class="row row-eq-height">
+				<div class="col-lg-4" >
+					<div id="news">
+						<!--News part-->
+						<div class= "minifiedNews">
+							<div class="news-header" >
+								<span>News</span>
+							</div>
+							<?php
+							include '../eaPortions/dbConnect.php';
+							$sqlNews = "SELECT * FROM news ORDER BY NewsID DESC LIMIT 1";
+							$result=$db->query($sqlNews);
 
-								if ($result->num_rows > 0) {
+							if ($result->num_rows > 0) {
                      			// output data of each row
-									while($row = $result->fetch_assoc()) {
-										echo'<div class="news-title">'.$row["NewsTitle"].'
-										<!--News Title HERE --> 
+								while($row = $result->fetch_assoc()) {
+									echo'<div class="news-title">'.$row["NewsTitle"].'
+									<!--News Title HERE --> 
 									</div>';
 									$newsPicture=$row["NewsPicture"];	
 									echo '<img class="img-responsive newsImage" src="admin/'.$newsPicture. '">
 									<!--News Photo HERE-->';
 									echo '<p class="newsContent">'.$row["NewsContents"].'
 
-								</p>';
+									</p>';
+								}
 							}
-						}
-						?>
-					</div>
-
-					<div class="readMoreNews">
-						<span>
-							Read More
-						</span>
-					</div>
-
-				</div>
-			</div>
-
-			<div class="col-lg-8 introductionEverest">
-
-				<!-- for video -->
-				<div class="row" >
-					<div class="colInside">
-						<iframe width="100%" height="100%" src="https://www.youtube.com/embed/Vv54Ka6GG9A" frameborder="0" gesture="media" allowfullscreen></iframe>
-						
-					</div>
-				</div>
-
-				<!--Intro of EA-->
-				<div class="row intro-wrapper" >
-					<div class="col introduction" onclick="myhref('redirectionofAboutus.php#WhyEverestAroma');">		    					
-						<div class="introTitle">
-							<span><h1>Why Everest Aroma?</h1></span>
+							?>
 						</div>
-						<br>
-						<div class="col-lg-12" >
-							<div class="row">
-								<div class="col-sm-12">
-									<p>Everest Aroma meets the European and American Organic Standards. We 
-									cultivate, collect, process, package and supply under the same roof to make 
-									our products cheaper with high quality.
-									</p>
+
+						<div class="readMoreNews">
+							<span>
+								Read More
+							</span>
+						</div>
+
+					</div>
+				</div>
+
+				<div class="col-lg-8 introductionEverest">
+
+					<!-- for video -->
+					<div class="row" >
+						<div class="colInside">
+							<iframe width="100%" height="100%" src="https://www.youtube.com/embed/Vv54Ka6GG9A" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+						</div>
+					</div>
+
+					<!--Intro of EA-->
+					<div class="row intro-wrapper" >
+						<div class="col introduction" onclick="myhref('redirectionofAboutus.php#WhyEverestAroma');">		    					
+							<div class="introTitle">
+								<span><h1>Why Everest Aroma?</h1></span>
+							</div>
+							<br>
+							<div class="col-lg-12" >
+								<div class="row">
+									<div class="col-sm-12">
+										<p>Everest Aroma meets the European and American Organic Standards. We 
+											cultivate, collect, process, package and supply under the same roof to make 
+											our products cheaper with high quality.
+										</p>
+									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-					</div>
-				</div>
-						
-					<!--Kabir Part Starts-->
-		<div class="productContainer">
-				<div class="container-fluid">
-					<div class="row">
-						<br>
-						<div class="col-xs-12">
-						<div class="row">	
-							<div id="buttonLeft" class="btn btn-primary">Left</div>
-						<div class="product-window">
-						<ul id= "productSlider" class="product-slider" onmouseOve>			
-		<?php
-	
-		include '../eaPortions/dbConnect.php';
-		$count=0;
-		$sql="SELECT * FROM products WHERE homeShow ='yes'";
-	
-		$result = mysqli_query($db, $sql);
-		
-	
-		if (mysqli_num_rows($result) > 0) {
+				
+
+				<!--Kabir Part Starts-->
+				<div class="productContainer">
+					<div class="container-fluid">
+						<div class="row">
+							<br>
+							<div class="col-xs-12">
+								<div class="row">	
+									<div id="buttonLeft" class="btn btn-primary">Left</div>
+									<div class="product-window">
+										<ul id= "productSlider" class="product-slider" onmouseOve>			
+											<?php
+
+											include '../eaPortions/dbConnect.php';
+											$count=0;
+											$sql="SELECT * FROM products WHERE homeShow ='yes'";
+
+											$result = mysqli_query($db, $sql);
+
+
+											if (mysqli_num_rows($result) > 0) {
 			// output data of each row
-	
-			while($row = mysqli_fetch_assoc($result)) {
-				echo '				
-							<li class="product">
-								<center>';
-									echo '<a href="productsDescription.php?viewProduct'.$row["productID"].'=' .$row["productName"]. '">';
-									echo '<img src="admin/'.$row["productPhoto"].'" width="200" height="200" >
-								</a>
-							</center>';
-							echo '<div class="txt" align="center"><div class="contentFont"><center>' .$row["productName"]. '</center></div></div>
-						</li>
-					';
+
+												while($row = mysqli_fetch_assoc($result)) {
+													echo '				
+													<li class="product">
+													<center>';
+													echo '<a href="productsDescription.php?viewProduct'.$row["productID"].'=' .$row["productName"]. '">';
+													echo '<img src="admin/'.$row["productPhoto"].'" width="200" height="200" >
+													</a>
+													</center>';
+													echo '<div class="txt" align="center"><div class="contentFont"><center>' .$row["productName"]. '</center></div></div>
+													</li>
+													';
 					$count++; // end product and col-xs-6
-					}
-	
 				}
-				mysqli_data_seek($result, 0);
-	?>
-				</ul>
-				</div>
-				<div id="buttonRight" class="btn btn-primary">Right</div>
-				</div>
-	</div>
-	</div>
-	</div>
-	</div>
-				<!--Kabir part ends-->
-			</div>
 
-
-			
-		
-
-		
-	</div>		
-	<!-- Bhuwan Part Ends-->
-	
-
-			<?php 
-			include 'footer.php';
+			}
+			mysqli_data_seek($result, 0);
 			?>
+		</ul>
+	</div>
+	<div id="buttonRight" class="btn btn-primary">Right</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--Kabir part ends-->
+</div>
+</div>
 
-		</div>
 
-			<!-- Script of News Modal -->
-		<script>
+
+
+
+
+</div>		
+<!-- Bhuwan Part Ends-->
+
+
+<?php 
+include 'footer.php';
+?>
+
+</div>
+
+<!-- Script of News Modal -->
+<script>
 		// Get the modal
 		let newsModal = document.getElementById('newsModal');
 
@@ -415,8 +416,8 @@
 		productContainer.addEventListener('mouseover', stopInterval);
 		productContainer.addEventListener('mouseout', startInterval);
 
-			buttonRight.addEventListener('click', moveRight);
-			buttonLeft.addEventListener('click', moveLeft);
+		buttonRight.addEventListener('click', moveRight);
+		buttonLeft.addEventListener('click', moveLeft);
 
 		function startInterval() {
 			productMove = setInterval(() => {
@@ -435,7 +436,7 @@
 				stopInterval();
 				(count < 3) ? count++ : undefined;
 
-					productContainer.style.left = '-' + count * 200 + 'px';		
+				productContainer.style.left = '-' + count * 200 + 'px';		
 				
 				startInterval();		
 				sliderButtonFlag = true;
