@@ -562,6 +562,9 @@ padding: 10px 30px 10px 30px;
   left: 1.25vw;
 }
 
+.button-left {
+  line-height: 200px;
+}
 
 .product-window {
     width: 200px;
@@ -589,13 +592,16 @@ padding: 10px 30px 10px 30px;
   float: left;
 }
 
-
 .product img {
   border: 1px solid #ccc;
 }
 
 .product img:hover {
   border: 1px solid #777;
+}
+
+.button-right {
+  line-height: 200px;
 }
 
 div.desc {

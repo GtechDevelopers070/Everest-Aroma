@@ -1,6 +1,4 @@
 <!-- bootstrap and footerStyle.css needed. -->
-
-
 <div id="footerContactUs">
     <div class="container-fluid">        
         <div class="row"> 
@@ -23,20 +21,13 @@
             </div> <!-- for spacing -->
             <div class="col-xs-4" id="footerFollowUs">
                 <center>Follow Us <br>
-                
-                 <a href="https://www.facebook.com/" target="_blank"> <img class="img-responsive footerContactImg" src="img/home/fb.png" ></a>
+
+                <a href="https://www.facebook.com/" target="_blank"> <img class="img-responsive footerContactImg" src="img/home/fb.png" ></a>
                 <a href="https://www.twitter.com/" target="_blank"> <img class="img-responsive footerContactImg" src="img/home/twitter.png" ></a>
                 <a href="https://www.youtube.com/" target="_blank">  <img class="img-responsive footerContactImg" src="img/home/youtube.png" ></a>
                </center>
-                     
-               </div> 
-            
-            
-        </div>
-               
-          
-
-            
+               </div>   
+        </div>   
     </div>
 </div>
         

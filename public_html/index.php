@@ -18,6 +18,7 @@
 	<script type="text/javascript" src="js/script.js"></script>
 	<!--fonts-->
 	<script src="js/jquery.min.js"></script>
+	<script src="https://use.fontawesome.com/ee3390d505.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Sansita" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
@@ -314,43 +315,54 @@
 					<div class="container-fluid">
 						<div class="row">
 							<br>
-							<div class="col-xs-12">
+							<div class="col-xs-6">
+
+							</div>
+							<div class="col-xs-6">
 								<div class="row">	
-									<div id="buttonLeft" class="btn btn-primary">Left</div>
-									<div class="product-window">
-										<ul id= "productSlider" class="product-slider" onmouseOve>			
-											<?php
+									<div class="col-xs-3">
+										<div id="buttonLeft" class="btn button-left"><i class="fa fa-chevron-left" aria-hidden="true"></i></div>
+									</div>
+									<div class="col-xs-6">
 
-											include '../eaPortions/dbConnect.php';
-											$count=0;
-											$sql="SELECT * FROM products WHERE homeShow ='yes'";
+										<div class="product-window">
+											<ul id= "productSlider" class="product-slider" onmouseOve>			
+												<?php
+	
+												include '../eaPortions/dbConnect.php';
+												$count=0;
+												$sql="SELECT * FROM products WHERE homeShow ='yes'";
+	
+												$result = mysqli_query($db, $sql);
+	
+	
+												if (mysqli_num_rows($result) > 0) {
+												// output data of each row
+	
+													while($row = mysqli_fetch_assoc($result)) {
+														echo '				
+														<li class="product">
+														<center>';
+														echo '<a href="productsDescription.php?viewProduct'.$row["productID"].'=' .$row["productName"]. '">';
+														echo '<img src="admin/'.$row["productPhoto"].'" width="200" height="200" >
+														</a>
+														</center>';
+														echo '<div class="txt" align="center"><div class="contentFont"><center>' .$row["productName"]. '</center></div></div>
+														</li>
+														';
+														$count++; // end product and col-xs-6
+													}
+													
+												}
+												mysqli_data_seek($result, 0);
+												?>
+											</ul>
+										</div>
+									</div>
 
-											$result = mysqli_query($db, $sql);
-
-
-											if (mysqli_num_rows($result) > 0) {
-			// output data of each row
-
-												while($row = mysqli_fetch_assoc($result)) {
-													echo '				
-													<li class="product">
-													<center>';
-													echo '<a href="productsDescription.php?viewProduct'.$row["productID"].'=' .$row["productName"]. '">';
-													echo '<img src="admin/'.$row["productPhoto"].'" width="200" height="200" >
-													</a>
-													</center>';
-													echo '<div class="txt" align="center"><div class="contentFont"><center>' .$row["productName"]. '</center></div></div>
-													</li>
-													';
-					$count++; // end product and col-xs-6
-				}
-
-			}
-			mysqli_data_seek($result, 0);
-			?>
-		</ul>
-	</div>
-	<div id="buttonRight" class="btn btn-primary">Right</div>
+									<div class="col-xs-3">
+										<div id="buttonRight" class="btn button-right"><i class="fa fa-chevron-right" aria-hidden="true"></i></div>
+									</div>
 </div>
 </div>
 </div>
@@ -359,12 +371,6 @@
 <!--Kabir part ends-->
 </div>
 </div>
-
-
-
-
-
-
 </div>		
 <!-- Bhuwan Part Ends-->
 
