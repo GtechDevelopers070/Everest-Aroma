@@ -81,22 +81,8 @@
 					<div class="col-lg-2"></div>
 				</div>
 
-				<!--End of Navigation Bar -->
-
-				<!-- Removed Search Functionality ~Godey 04/26  -->
-
-				<!--Search Box start-->
-				<!-- <form action="">
-					<button class="searchBtn" type="submit" id="submit">
-				        <i class="glyphicon glyphicon-search"></i>
-				      </button>
-				   <input id="search" type="text" placeholder=" Search">
-				</form> -->
-				<!--End of Search Box-->  
-
 			</nav>
-			<!-- End of Navigation Bars -->
-			<!--  navbar ends --> 	
+				<!--End of Navigation Bar -->
 
 			<!--danny part starts-->
 			<div id="secondMenu" onclick="leftNavbar()">
@@ -239,12 +225,11 @@
 			</div>		
 
 			
-		</div><!--top part enclosed div closes-->   
-
+		</div>
+		<!--top part enclosed div closes-->   
 
 		<!-- NEWS SECTION START -->
-		<div class="middle">
-			<div class="" ><!--main container for all-->     
+		<div class="middle">    
 				<div class="row">
 					<div class="col-lg-4" >
 						<div id="news">
@@ -274,6 +259,7 @@
 						}
 						?>
 					</div>
+
 					<div class="readMoreNews">
 						<span>
 							Read More
@@ -282,6 +268,7 @@
 
 				</div>
 			</div>
+
 			<div class="col-lg-8 introductionEverest">
 
 				<!-- for video -->
@@ -293,7 +280,7 @@
 				</div>
 
 				<!--Intro of EA-->
-				<div class="row" >
+				<div class="row intro-wrapper" >
 					<div class="col introduction" onclick="myhref('redirectionofAboutus.php#WhyEverestAroma');">		    					
 						<div class="introTitle">
 							<span><h1>Why Everest Aroma?</h1></span>
@@ -302,97 +289,92 @@
 						<div class="col-lg-12" >
 							<div class="row">
 								<div class="col-sm-12">
-									<p>Everest Aroma meets the European and American Organic Standards. We cultivate, collect, process, package and supply under the same roof to make our products cheaper with high quality.
+									<p>Everest Aroma meets the European and American Organic Standards. We 
+									cultivate, collect, process, package and supply under the same roof to make 
+									our products cheaper with high quality.
 									</p>
 								</div>
 							</div>
-
 						</div>
 					</div>
-			    		<!-- <div class="gruRow">
-					        <div class="col-xs-4" >
-					            <img class="img-responsive gruImg" src="img/home/24.jpg" alt="Chania">                          
-					        </div> 
-					        <div class="col-xs-4">
-					            <img class="img-responsive gruImg" src="img/home/27.jpg" alt="Chania">                          
-					        </div>
-					        <div class="col-xs-4" >
-					            <img class="img-responsive gruImg" src="img/home/41.jpg" alt="Chania">                          
-					             <div class="gallery"><a href="gallery.php"><div class="contentFont">Gallery >></div></a> </div>
-					        </div>
-					    </div> -->
 					</div>
 				</div>
+						
+					<!--Kabir Part Starts-->
+		<div class="productContainer">
+				<div class="container-fluid">
+					<div class="row">
+						<br>
+						<div class="col-xs-12">
+						<div class="row">	
+							<div id="buttonLeft" class="btn btn-primary">Left</div>
+						<div class="product-window">
+						<ul id= "productSlider" class="product-slider" onmouseOve>			
+		<?php
+	
+		include '../eaPortions/dbConnect.php';
+		$count=0;
+		$sql="SELECT * FROM products WHERE homeShow ='yes'";
+	
+		$result = mysqli_query($db, $sql);
+		
+	
+		if (mysqli_num_rows($result) > 0) {
+			// output data of each row
+	
+			while($row = mysqli_fetch_assoc($result)) {
+				echo '				
+							<li class="product">
+								<center>';
+									echo '<a href="productsDescription.php?viewProduct'.$row["productID"].'=' .$row["productName"]. '">';
+									echo '<img src="admin/'.$row["productPhoto"].'" width="200" height="200" >
+								</a>
+							</center>';
+							echo '<div class="txt" align="center"><div class="contentFont"><center>' .$row["productName"]. '</center></div></div>
+						</li>
+					';
+					$count++; // end product and col-xs-6
+					}
+	
+				}
+				mysqli_data_seek($result, 0);
+	?>
+				</ul>
+				</div>
+				<div id="buttonRight" class="btn btn-primary">Right</div>
+				</div>
+	</div>
+	</div>
+	</div>
+	</div>
+				<!--Kabir part ends-->
 			</div>
-		</div>
+
+
+			
+		
+
+		
 	</div>		
 	<!-- Bhuwan Part Ends-->
-	<!--Kabir Part Starts-->
-	<div class="productContainer">
-			<div class="container-fluid">
-				<div class="row">
-					<br>
-					
-					<div class="col-xs-12">
-					<div class="row">	
-					<div class="product-window">
-					<ul class="product-slider">			
-	<?php
-
-	include '../eaPortions/dbConnect.php';
-	$count=0;
-	$sql="SELECT * FROM products WHERE homeShow ='yes'";
-
-	$result = mysqli_query($db, $sql);
 	
 
-	if (mysqli_num_rows($result) > 0) {
-    // output data of each row
-
-		while($row = mysqli_fetch_assoc($result)) {
-			echo '				
-						<li class="product">
-							<center>';
-								echo '<a href="productsDescription.php?viewProduct'.$row["productID"].'=' .$row["productName"]. '">';
-								echo '<img src="admin/'.$row["productPhoto"].'" width="200" height="200" >
-							</a>
-						</center>';
-						echo '<div class="txt" align="center"><div class="contentFont"><center>' .$row["productName"]. '</center></div></div>
-					</li>
-				';
-				$count++; // end product and col-xs-6
-				}
-
-			}
-			
-			mysqli_data_seek($result, 0);
-
-
-			?>
-			</ul>
-			</div>
-			</div>
-</div>
-</div>
-</div>
-</div>
-			
-
-			<!--Kabir part ends-->
 			<?php 
 			include 'footer.php';
 			?>
-			<!-- Script of News Modal -->
+
 		</div>
+
+			<!-- Script of News Modal -->
 		<script>
 		// Get the modal
-		var newsModal = document.getElementById('newsModal');
+		let newsModal = document.getElementById('newsModal');
 
 		// Get the button that opens the modal
-		var news = document.getElementById("news");
+		let news = document.getElementById("news");
 
 		// Get the <span> element that closes the modal
-		var modalCLose = document.getElementById("modalClose");
+		let modalCLose = document.getElementById("modalClose");
 
 		// When the user clicks the button, open the modal 
 		news.onclick = function() {
@@ -410,6 +392,68 @@
 				newsModal.style.display = "none";
 			}
 		}
+		
+		let count = 0; 
+		let productMove;
+		let sliderButtonFlag = true;
+		let productContainer = document.getElementById('productSlider');
+		let productList = document.getElementsByClassName('product');
+		let buttonRight = document.getElementById('buttonRight');
+		let buttonLeft = document.getElementById('buttonLeft');
+
+		startInterval();
+
+		productContainer.addEventListener('mouseover', stopInterval);
+		productContainer.addEventListener('mouseout', startInterval);
+
+			buttonRight.addEventListener('click', moveRight);
+			buttonLeft.addEventListener('click', moveLeft);
+
+		function startInterval() {
+			productMove = setInterval(() => {
+				productContainer.style.left = '-' + (count) * 200 + 'px';
+				count++;
+				if (count > 3) {
+					count = 0;
+				}
+			}, 3000);
+		}
+
+		function moveRight() {
+			if (sliderButtonFlag) {
+				console.log('hello');
+				sliderButtonFlag = false;
+				stopInterval();
+				(count < 3) ? count++ : undefined;
+
+					productContainer.style.left = '-' + count * 200 + 'px';		
+				
+				startInterval();		
+				sliderButtonFlag = true;
+			}
+		}
+
+		function moveLeft() {
+			if (sliderButtonFlag ) {
+				sliderButtonFlag = false;
+				
+				stopInterval();	
+				(count > 0) ? count-- : undefined;
+				
+				
+				productContainer.style.left = '-' + count * 200 + 'px';		
+				
+				startInterval();
+				sliderButtonFlag = true;
+				
+
+			}
+		}
+
+		function stopInterval() {
+			clearInterval(productMove);
+		}
+		
 	</script>    
 </body>
 </html>
