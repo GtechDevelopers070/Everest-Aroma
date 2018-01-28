@@ -11,8 +11,15 @@ html{
 body{
 
   background-color: #ffffe6;
+  font-family: Sansita;
 
 }
+
+.everestAromaHeader{
+  width: 100vw;
+  height: auto;
+}
+
 
 .row-eq-height {
   display: -webkit-box;
@@ -96,26 +103,36 @@ textarea{
   left: 0px;
   width: 100%;
   height: 85px;
-  padding:10px 0px 10px 0px;
-  /*min-height: 11vh;*/
-  /*background-color: green;*/
-  background-image: url("../EAPaat3-1.jpg");
-  background-size: cover;
-  margin-bottom: 5px;
-}
-
-.navBarBackground:after{
-  /*position: relative;*/
-  /*left: 0px;*/
-  width: 100%;
-  height: 85px;
   /*padding:10px 0px 10px 0px;*/
   /*min-height: 11vh;*/
-  background-color: green;
+  /*background-color: green;*/
+  /*background-image: url("../EAPaat3-1.jpg");*/
+  background-size: cover;
+  margin-bottom: 5px;
+  background-color: rgb(46, 139, 87);  /*seagreen*/ 
+
+}
+
+/*.navBarBackground:after{*/
+  /*position: relative;*/
+  /*left: 0px;*/
+  /*width: 100%;*/
+  /*height: 85px;*/
+  /*padding:10px 0px 10px 0px;*/
+  /*min-height: 11vh;*/
+  /*background-color: green;*/
   /*background-image: url("../EAPaat3-1.jpg");*/
   /*background-size: cover;*/
   /*margin-bottom: 5px;*/
+/*}*/
+
+/*The following two are for main image sliders */
+
+.cover{
+  height: 50vh; width:100%; object-fit: cover;
 }
+/**/
+
 
 .eaLogo{
       color:white;
@@ -172,8 +189,8 @@ textarea{
   /*background-repeat:no-repeat;*/
   background-color: white;
   /*background-size:cover;*/
-  height:85vh;
-  width:100vw;
+  /*height:85vh;*/
+  /*width:100vw;*/
   position: relative;
   background-position:center; 
   margin: 0 auto;
@@ -213,7 +230,7 @@ textarea{
 
 /*for id Main and Sub */
 #Main{
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: Sansita, sans-serif;
   /*font-size: 10vmin;*/
   /*changed to*/
   font-size: 50px;
@@ -304,6 +321,7 @@ textarea{
 /*start of middle css part*/
 .middle{
 padding: 10px 30px 10px 30px;  
+margin-top: 10px;
 }
 
 
@@ -312,13 +330,13 @@ padding: 10px 30px 10px 30px;
   background-color: #ececb1;
   width: 100%;  
   height: 100%;
-  font-family: RobotoSlab;
+  /*font-family: RobotoSlab;*/
   color: #504b3a;
   font-size: 33.33px; /* Approximation due to font substitution */
   font-weight: 400;
   line-height: 0.9em; /* Approximation due to font substitution */
   text-align: center;
-  margin-top: 10px;
+  /*margin-top: 10px;*/
   overflow-y: hidden;
   cursor: pointer;
   border: 1px solid #8c8c24;
@@ -348,7 +366,7 @@ padding: 10px 30px 10px 30px;
 }
 
 .newsMain{
-  font-family: RobotoSlab;
+  font-family: Sansita;
   color: #504b3a;
   font-size: 33.33px; /* Approximation due to font substitution */
   font-weight: 400;
@@ -589,15 +607,21 @@ padding: 10px 30px 10px 30px;
 }
 
 .product{
-  float: left;
+  margin: auto;
 }
 
 .product img {
+  width: 12vmax;
+  height: 12vmax;
   border: 1px solid #ccc;
 }
 
 .product img:hover {
   border: 1px solid #777;
+}
+
+.circle {
+  border-radius: 50%;
 }
 
 .button-right {
@@ -749,6 +773,11 @@ div.desc {
 }
 
 @media screen and (min-width: 768px){
+
+  .product{
+    position: absolute;
+    /*left: 9.5vw;*/
+  }
 
   .productContainer{
     min-height: 250px;

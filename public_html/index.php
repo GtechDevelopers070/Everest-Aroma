@@ -57,35 +57,38 @@
 
 			<!-- Navbar moved up to the stars -->
 
+			<div class="everestAromaHeader">
+				<img src="img/ea-header.png" style="width: 100%; height: auto;">
+			</div>
+
 			<!--gru part starts-->
 			<nav class="navBarBackground">
 				<!--Navigation bars FAQ left to add(if here)-->
 				<div class="row">
-					<div class="col-lg-2 ">
+				<!-- latest design ma navako vaera commented the logo -->
+					<!-- <div class="col-lg-2 ">
 						<div class="eaLogo">
 							<center><img class="img-responsive" src="EALogo-2.jpg" alt="EA_LOGO" />
 							</center>
 						</div>
-						
-					</div>
+					</div> -->
 					<div class="col-lg-8">		
 						<ul class="nav navbar-nav">
 							<li> <a class="active" href="index.php"><div class="titleFont"> Home </div></a></li>
-							<li class="shape"> | </li>
+							<li class="shape">  </li>
 							<li> <a  href="aboutUs.php"><div class="titleFont"> About us </div></a></li>
-							<li class="shape"> | </li>
+							<li class="shape"> </li>
 							<li> <a  href="products.php"><div class="titleFont"> Products </div></a></li>
-							<li class="shape"> | </li>
+							<li class="shape"> </li>
 							<li> <a  href="certification.php"><div class="titleFont"> Certification </div></a></li>
-							<li class="shape"> | </li>
+							<li class="shape"> </li>
 							<li> <a  href="gallery.php"><div class="titleFont"> Gallery </div></a></li>
-							<li class="shape"> | </li>
+							<li class="shape"> </li>
 							<li> <a  href="contact.php"><div class="titleFont"> Contact us </div></a></li>
-							<li class="shape"> | </li>
+							<li class="shape"> </li>
 							<li> <a  href="faq.php"><div class="titleFont"> FAQ</div></a></li>
 						</ul>
 					</div>
-					<div class="col-lg-2"></div>
 				</div>
 
 			</nav>
@@ -99,99 +102,107 @@
 			</div>
 			<div class="ribbon"></div>
 			
-			<div id="header">
-				<div id="myCarousel" class="carousel slide" data-ride="carousel">
-					<!-- Indicators -->
-					<ol class="carousel-indicators">
-						<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-						<li data-target="#myCarousel" data-slide-to="1"></li>
-						<li data-target="#myCarousel" data-slide-to="2"></li>
-					</ol>
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-6">
+						<div id="header">
+							<div id="myCarousel" class="carousel slide" data-ride="carousel">
+								<!-- Indicators -->
+								<ol class="carousel-indicators">
+									<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+									<li data-target="#myCarousel" data-slide-to="1"></li>
+									<li data-target="#myCarousel" data-slide-to="2"></li>
+								</ol>
 
-					<!-- Wrapper for slides -->
-					<div class="carousel-inner">
+								<!-- Wrapper for slides -->
+								<div class="carousel-inner">
 
-						<div class="item active carHeight">
-							
-							<img src="img/home/EA-Temp.jpg" class="cover" alt="Image" style="height: 85vh; width:100%; object-fit: cover;">
-							<div class="carousel-caption">
-								<div id="Main">
-									<div class="contentFont">
-										<center>
-											"Natural Essense of Himalaya"
-										</center>
+									<div class="item active carHeight">
+										
+										<img src="img/home/EA-Temp.jpg" class="cover" alt="Image" style="height: 50vh; width:100%; object-fit: cover;">
+										<!-- <div class="carousel-caption">
+											<div id="Main">
+												<div class="contentFont">
+													<center>
+														"Organic Essense of Himalaya"
+													</center>
+												</div>
+											</div>
+											<div id="Sub">
+												<div class="titleFont">
+													Everest Aroma
+												</div>
+											</div>
+										</div> -->
 									</div>
-								</div>
-								<div id="Sub">
-									<div class="titleFont">
-										Everest Aroma
+
+									<div class="item carHeight">
+										<img src="img/home/slider_1.jpg" class="cover" alt="Image" style="height: 50vh; width:100%; object-fit: cover;">
+										<!-- <div class="carousel-caption">
+											<div id="Main">
+												<div class="contentFont">
+													<center>
+														"Organic Essense of Himalaya"
+													</center>
+												</div>
+											</div>
+											<div id="Sub">
+												<div class="titleFont">
+													Everest Aroma
+												</div>
+											</div>
+										</div> -->
 									</div>
+
+									<div class="item carHeight">
+										<img src="img/home/slider_2.jpg" class="cover" alt="Image" style="height: 50vh; width:100%; object-fit: cover;">
+										<!-- <div class="carousel-caption">
+											<div id="Main">
+												<div class="contentFont">
+													<center>
+														"Organic Essense of Himalaya"
+													</center>
+												</div>
+											</div>
+											<div id="Sub">
+												<div class="titleFont">
+													Everest Aroma
+												</div>
+											</div>
+										</div> -->
+									</div>
+
 								</div>
+
+								<!-- Left and right controls -->
+								<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+									<span class="glyphicon glyphicon-chevron-left"></span>
+									<span class="sr-only">Previous</span>
+								</a>
+								<a class="right carousel-control" href="#myCarousel" data-slide="next">
+									<span class="glyphicon glyphicon-chevron-right"></span>
+									<span class="sr-only">Next</span>
+								</a>
+
 							</div>
-						</div>
-
-						<div class="item carHeight">
-							<img src="img/home/slider_1.jpg" class="cover" alt="Image" style="height: 85vh; width:100%; object-fit: cover;">
-							<div class="carousel-caption">
-								<div id="Main">
-									<div class="contentFont">
-										<center>
-											"Natural Essense of Himalaya"
-										</center>
-									</div>
-								</div>
-								<div id="Sub">
-									<div class="titleFont">
-										Everest Aroma
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="item carHeight">
-							<img src="img/home/slider_2.jpg" class="cover" alt="Image" style="height: 85vh; width:100%; object-fit: cover;">
-							<div class="carousel-caption">
-								<div id="Main">
-									<div class="contentFont">
-										<center>
-											"Natural Essense of Himalaya"
-										</center>
-									</div>
-								</div>
-								<div id="Sub">
-									<div class="titleFont">
-										Everest Aroma
-									</div>
-								</div>
-							</div>
-						</div>
-
+						</div><!--header-->
+						<!--danny part ends-->
 					</div>
-
-					<!-- Left and right controls -->
-					<a class="left carousel-control" href="#myCarousel" data-slide="prev">
-						<span class="glyphicon glyphicon-chevron-left"></span>
-						<span class="sr-only">Previous</span>
-					</a>
-					<a class="right carousel-control" href="#myCarousel" data-slide="next">
-						<span class="glyphicon glyphicon-chevron-right"></span>
-						<span class="sr-only">Next</span>
-					</a>
-
+					<div class="col-md-6">
+						
+					</div>
 				</div>
-			</div><!--header-->
-			<!--danny part ends-->
-
+			
 			<!--jigree part starts-->
 
 			<!--jigree part end-->
-			<div id="aboveNavbarRight">
+			<!-- <div id="aboveNavbarRight"> -->
 				<!-- Removed Logo  ~Godey 04/26-->
 				<!-- <img src="img/home/logo.jpg" class="img-responsive" id="eaLogo" alt="Photo Not Avaiable"> -->
-				<div class="container-fluid"  id="aboveNavbar">
-					<div class="row">
-						<div class="col-xs-6 imag"><!-- Assigning colum width -->
-							<a href="http://www.euroleaf.org/"><img src="img/home/EU-Organic.jpg" class="certificationImg"></a>
+				<!-- <div class="container-fluid"  id="aboveNavbar"> -->
+					<!-- <div class="row"> -->
+						<!-- <div class="col-xs-6 imag">Assigning colum width -->
+						<!-- 	<a href="http://www.euroleaf.org/"><img src="img/home/EU-Organic.jpg" class="certificationImg"></a>
 						</div>
 
 						<div class="col-xs-6 imag">
@@ -217,7 +228,7 @@
 						<div id="Main">
 							<div class="contentFont">
 								<center>
-									"Natural Essense of Himalaya"
+									"Organic Essense of Himalaya"
 								</center>
 							</div>
 						</div>
@@ -232,7 +243,7 @@
 						</div>
 					</div>
 				</div>	
-			</div>		
+			</div>	 -->	
 
 			
 		</div>
@@ -282,12 +293,12 @@
 				<div class="col-lg-8 introductionEverest">
 
 					<!-- for video -->
-					<div class="row" >
+					<!-- <div class="row" >
 						<div class="colInside">
 							<iframe width="100%" height="100%" src="https://www.youtube.com/embed/Vv54Ka6GG9A" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 						</div>
-					</div>
+					</div> -->
 
 					<!--Intro of EA-->
 					<div class="row intro-wrapper" >
@@ -310,68 +321,67 @@
 					</div>
 				
 
-				<!--Kabir Part Starts-->
-				<div class="productContainer">
-					<div class="container-fluid">
-						<div class="row">
-							<br>
-							<div class="col-xs-6">
-
-							</div>
-							<div class="col-xs-6">
-								<div class="row">	
-									<div class="col-xs-3">
-										<div id="buttonLeft" class="btn button-left"><i class="fa fa-chevron-left" aria-hidden="true"></i></div>
-									</div>
-									<div class="col-xs-6">
-
-										<div class="product-window">
-											<ul id= "productSlider" class="product-slider" onmouseOve>			
+					<!--Kabir Part Starts-->
+					<div class="productContainer">
+							<div class="container-fluid">
+								<div class="row">
+									<br>
+									<div class="col-xs-12">
+										<div class="row">	
+											<div class="col-sm-6">			
+												<div class="row">				
 												<?php
-	
+
 												include '../eaPortions/dbConnect.php';
 												$count=0;
 												$sql="SELECT * FROM products WHERE homeShow ='yes'";
-	
-												$result = mysqli_query($db, $sql);
-	
-	
-												if (mysqli_num_rows($result) > 0) {
-												// output data of each row
-	
-													while($row = mysqli_fetch_assoc($result)) {
-														echo '				
-														<li class="product">
-														<center>';
-														echo '<a href="productsDescription.php?viewProduct'.$row["productID"].'=' .$row["productName"]. '">';
-														echo '<img src="admin/'.$row["productPhoto"].'" width="200" height="200" >
-														</a>
-														</center>';
-														echo '<div class="txt" align="center"><div class="contentFont"><center>' .$row["productName"]. '</center></div></div>
-														</li>
-														';
-														$count++; // end product and col-xs-6
-													}
-													
-												}
-												mysqli_data_seek($result, 0);
-												?>
-											</ul>
-										</div>
-									</div>
 
-									<div class="col-xs-3">
-										<div id="buttonRight" class="btn button-right"><i class="fa fa-chevron-right" aria-hidden="true"></i></div>
+												$result = mysqli_query($db, $sql);
+
+
+												if (mysqli_num_rows($result) > 0) {
+											                                  // output data of each row
+
+													while($row = mysqli_fetch_assoc($result)) {
+														 if($count == 2){
+														 	echo '</div></div> <div class="col-sm-6"><div class="row">';
+														 	$count=0;
+														 }
+														echo ' 
+																		 
+																			<div class="col-xs-6">
+																					<div class="product">
+																						<center>';
+																							echo '<a href="productsDescription.php?viewProduct'.$row["productID"].'=' .$row["productName"]. '">';
+																							echo '<img class="circle" src="admin/'.$row["productPhoto"].'" width="200" height="200" >
+																						</a>
+																					</center>';
+																					echo '<div class="txt" align="center"><div class="contentFont"><center>' .$row["productName"]. '</center></div></div>
+																				</div>
+																			</div>';
+																			$count++; // end product and col-xs-6
+																			}
+
+																		}
+																			// echo ' <div class="col-xs-1"></div>';
+																		// echo '</div>';
+																		
+															
+														mysqli_data_seek($result, 0);
+														echo '<br>';
+
+												?>
+												</div>
+											</div>
 									</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<!--Kabir part ends-->
-</div>
-</div>
-</div>		
+								</div>
+							</div>
+						</div>
+					</div>
+					<!--Kabir part ends-->
+				</div>
+			</div>
+		</div>		
 <!-- Bhuwan Part Ends-->
 
 
