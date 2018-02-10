@@ -143,7 +143,7 @@
 								</div>
 
 								<div class="item carHeight">
-									<img src="img/home/slider_1.jpg" class="cover" alt="Image" style="height: 50vh; width:100%; object-fit: cover;">
+									<img src="img/home/slider_1.jpg" class="cover" alt="Image">
 									<!-- <div class="carousel-caption">
 										<div id="Main">
 											<div class="contentFont">
@@ -161,7 +161,7 @@
 								</div>
 
 								<div class="item carHeight">
-									<img src="img/home/slider_2.jpg" class="cover" alt="Image" style="height: 50vh; width:100%; object-fit: cover;">
+									<img src="img/home/slider_2.jpg" class="cover" alt="Image">
 									<!-- <div class="carousel-caption">
 										<div id="Main">
 											<div class="contentFont">
