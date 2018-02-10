@@ -22,6 +22,7 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Sansita" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
 	<script type="text/javascript">
 		function myhref(web){
 			window.location.href = web;
@@ -59,11 +60,11 @@
 
 			<div class="everest-aroma-header">
 				<div class="title-header-wrapper">
-					<h1>Everest Aroma</h1>
-					<p>Organic Essense for Himalaya</p>
+					<h1 class="font-not-cursive">Everest Aroma</h1>
+					<p class="font-cursive">"Organic Essence </p> <p class="font-cursive" style="margin-left:10em;">  from Himalaya"</p>
 				</div>
 				<div class="img-header-wrapper">
-					<img src="img/ea-header.png">
+					<img src="img/EA_header_PS.png">
 				</div>
 			</div>
 

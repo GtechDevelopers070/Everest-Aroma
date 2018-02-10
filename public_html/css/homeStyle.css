@@ -28,10 +28,24 @@ body {
   left: 0;
   height: 250px;
 }
+.title-header-wrapper p{
+  margin: 0px;
+}
+.font-not-cursive{
+  font-size:55px;
+  letter-spacing: 17px;
+}
+
+
+.font-cursive{
+  font-size:30px;
+  font-family: 'Dancing Script', cursive;
+  letter-spacing: 8px;
+}
 
 .img-header-wrapper img {
   width: 100%;
-  height: 250px;
+  height: 252px;
 }
 
 .row-eq-height {
@@ -660,6 +674,23 @@ div.desc {
   .carousel-wrapper {
     margin-top: -10px;
   }
+
+  .title-header-wrapper{
+    top:120px;
+  }
+ 
+  .font-not-cursive{
+  font-size:45px;
+  letter-spacing: 10px;
+}
+
+
+.font-cursive{
+  font-size:20px;
+  font-family: 'Dancing Script', cursive;
+  letter-spacing: 5px;
+}
+
 }
 
 @media screen and (max-width: 1199px) {
@@ -768,3 +799,23 @@ div.desc {
     min-height: 250px;
   }
 }
+
+/*Added at 2/10/2018 - Abiral*/
+@media screen and (min-width: 320px) and (max-width: 470px){
+    .title-header-wrapper{
+    top:150px;
+  }
+ 
+  .font-not-cursive{
+  font-size:30px;
+  letter-spacing: 10px;
+}
+
+
+.font-cursive{
+  font-size:15px;
+  font-family: 'Dancing Script', cursive;
+  letter-spacing: 5px;
+}
+
+  }
