@@ -100,13 +100,6 @@
 			</nav>
 			<!--End of Navigation Bar -->
 
-			<!--danny part starts-->
-			<div id="secondMenu" onclick="leftNavbar()">
-				<div class="hamburger"></div>
-				<div class="hamburger"></div>
-				<div class="hamburger"></div>
-			</div>
-
 			<div class="ribbon"></div>
 	
 		</div>
@@ -203,19 +196,20 @@
 						<div class="certificates-holder">
 							<center>
 								<div class="col-xs-6">
-									<a href="http://www.euroleaf.org/">
 									<div class="certificate-img">
+									<a href="http://www.euroleaf.org/">
 										<img src="img/home/EU-Organic.jpg">
-									</div>	
 									</a>
+								</div>	
 									<span>Text1</span>
 								</div>
 							</center>
 							<center>
 								<div class="col-xs-6">
-									<a href="https://www.ams.usda.gov/services/organic-certification">
 									<div class="certificate-img">
-										<img src="img/home/USDA.png" class="certificationImg"></a>
+									<a href="https://www.ams.usda.gov/services/organic-certification">
+										<img src="img/home/USDA.png" class="certificationImg">
+									</a>
 									</div>
 								</div>	
 								<span>Text2</span>									
