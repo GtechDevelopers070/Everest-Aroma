@@ -18,6 +18,17 @@ body {
   height: 230px;
 }
 
+.title-header-wrapper {
+  position: absolute;
+  /* top: 0; */
+  right: 0;
+  margin: auto;
+  text-align: center;
+  bottom: 0;
+  left: 0;
+  height: 250px;
+}
+
 .img-header-wrapper img {
   width: 100%;
   height: 250px;
@@ -122,6 +133,14 @@ textarea {
 
 .certificates-holder span {
   font-size: 15px;
+}
+
+.certificate-img {
+  width: 90%;
+}
+
+.certificate-img img {
+  width: 100%;
 }
 
 .certificates-title {
@@ -251,11 +270,6 @@ textarea {
   max-width: 100%;
   width: 100%;
   opacity: 0.8;
-}
-
-.certificationImg {
-  width: 90%;
-  max-height: 90%;
 }
 
 .languageChoose {
@@ -677,9 +691,13 @@ div.desc {
 
 
 }
-@media screen and (max-width: 978px) {
+@media screen and (max-width: 990px) {
   #footerContactUs {
     height: auto;
+  }
+
+  .certificate-img {
+    width: 250px;
   }
 }
 
@@ -705,6 +723,10 @@ div.desc {
 
   #Sub {
     font-size: 3em;
+  }
+
+  .certificate-img {
+    width: 80%;
   }
 }
 
@@ -733,6 +755,10 @@ div.desc {
 
   .introduction::after {
     display: none;
+  }
+
+  .certificates-wrapper {
+    height: 80%;
   }
 }
 

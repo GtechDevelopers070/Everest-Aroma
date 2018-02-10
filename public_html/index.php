@@ -58,6 +58,10 @@
 			<!-- Navbar moved up to the stars -->
 
 			<div class="everest-aroma-header">
+				<div class="title-header-wrapper">
+					<h1>Everest Aroma</h1>
+					<p>Organic Essense for Himalaya</p>
+				</div>
 				<div class="img-header-wrapper">
 					<img src="img/ea-header.png">
 				</div>
@@ -199,13 +203,20 @@
 						<div class="certificates-holder">
 							<center>
 								<div class="col-xs-6">
-									<a href="http://www.euroleaf.org/"><img src="img/home/EU-Organic.jpg" class="certificationImg"></a>
+									<a href="http://www.euroleaf.org/">
+									<div class="certificate-img">
+										<img src="img/home/EU-Organic.jpg">
+									</div>	
+									</a>
 									<span>Text1</span>
 								</div>
 							</center>
 							<center>
 								<div class="col-xs-6">
-									<a href="https://www.ams.usda.gov/services/organic-certification"><img src="img/home/USDA.png" class="certificationImg"></a>
+									<a href="https://www.ams.usda.gov/services/organic-certification">
+									<div class="certificate-img">
+										<img src="img/home/USDA.png" class="certificationImg"></a>
+									</div>
 								</div>	
 								<span>Text2</span>									
 							</center>
