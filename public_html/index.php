@@ -22,6 +22,7 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Sansita" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
 	<script type="text/javascript">
 		function myhref(web){
 			window.location.href = web;
@@ -58,8 +59,12 @@
 			<!-- Navbar moved up to the stars -->
 
 			<div class="everest-aroma-header">
+				<div class="title-header-wrapper">
+					<h1 class="font-not-cursive">Everest Aroma</h1>
+					<p class="font-cursive">"Organic Essence </p> <p class="font-cursive" style="margin-left:10em;">  from Himalaya"</p>
+				</div>
 				<div class="img-header-wrapper">
-					<img src="img/ea-header.png">
+					<img src="img/EA_header_PS.png">
 				</div>
 			</div>
 
@@ -143,7 +148,7 @@
 								</div>
 
 								<div class="item carHeight">
-									<img src="img/home/slider_1.jpg" class="cover" alt="Image" style="height: 50vh; width:100%; object-fit: cover;">
+									<img src="img/home/slider_1.jpg" class="cover" alt="Image">
 									<!-- <div class="carousel-caption">
 										<div id="Main">
 											<div class="contentFont">
@@ -161,7 +166,7 @@
 								</div>
 
 								<div class="item carHeight">
-									<img src="img/home/slider_2.jpg" class="cover" alt="Image" style="height: 50vh; width:100%; object-fit: cover;">
+									<img src="img/home/slider_2.jpg" class="cover" alt="Image">
 									<!-- <div class="carousel-caption">
 										<div id="Main">
 											<div class="contentFont">
@@ -199,21 +204,28 @@
 						<div class="certificates-holder">
 							<center>
 								<div class="col-xs-6">
-									<a href="http://www.euroleaf.org/"><img src="img/home/EU-Organic.jpg" class="certificationImg"></a>
+									<a href="http://www.euroleaf.org/">
+									<div class="certificate-img">
+										<img src="img/home/EU-Organic.jpg">
+									</div>	
+									</a>
 									<span>Text1</span>
 								</div>
 							</center>
 							<center>
 								<div class="col-xs-6">
-									<a href="https://www.ams.usda.gov/services/organic-certification"><img src="img/home/USDA.png" class="certificationImg"></a>
+									<a href="https://www.ams.usda.gov/services/organic-certification">
+									<div class="certificate-img">
+										<img src="img/home/USDA.png" class="certificationImg"></a>
+									</div>
 								</div>	
 								<span>Text2</span>									
-							</div>
 							</center>
-							<span class="certificates-title">Certificates</span>
 						</div>
+						<span class="certificates-title">Certificates</span>
 				</div>
 			</div>
+		</div>
 			
 		
 			<!-- <div  class="container-fluid" id="quote" style="display: none;">
@@ -262,7 +274,10 @@
 									<!--News Title HERE --> 
 									</div>';
 									$newsPicture=$row["NewsPicture"];	
-									echo '<img class="img-responsive newsImage" src="admin/'.$newsPicture. '">
+									echo '
+									<div class="news-image-wrapper">
+										<img class="img-responsive newsImage" src="admin/'.$newsPicture. '">
+									</div>
 									<!--News Photo HERE-->';
 									echo '<p class="newsContent">'.$row["NewsContents"].'
 
@@ -354,13 +369,13 @@
 														echo '<br>';
 
 												?>
-												</div>
+												<!-- </div> -->
 											</div>
 					</div>
 					<!--Kabir part ends-->
 				</div>
 				
-		</div>	
+		<!-- </div>	 -->
 	</div>	
 <!-- Bhuwan Part Ends-->
 		</div>

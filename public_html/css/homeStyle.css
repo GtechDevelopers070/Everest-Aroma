@@ -18,9 +18,34 @@ body {
   height: 230px;
 }
 
+.title-header-wrapper {
+  position: absolute;
+  /* top: 0; */
+  right: 0;
+  margin: auto;
+  text-align: center;
+  bottom: 0;
+  left: 0;
+  height: 250px;
+}
+.title-header-wrapper p{
+  margin: 0px;
+}
+.font-not-cursive{
+  font-size:55px;
+  letter-spacing: 17px;
+}
+
+
+.font-cursive{
+  font-size:30px;
+  font-family: 'Dancing Script', cursive;
+  letter-spacing: 8px;
+}
+
 .img-header-wrapper img {
   width: 100%;
-  height: 250px;
+  height: 252px;
 }
 
 .row-eq-height {
@@ -39,6 +64,10 @@ body {
   overflow-x: hidden;
   perspective: 1px;
   background: #ffffe6;
+}
+
+.body-wrapper {
+  margin: 10px 0px;
 }
 
 textarea {
@@ -116,18 +145,27 @@ textarea {
 }
 
 .certificates-holder {
-  margin: 10px;
+  height: 88%;
+  padding: 10px;
 }
 
 .certificates-holder span {
   font-size: 15px;
 }
 
+.certificate-img {
+  width: 90%;
+}
+
+.certificate-img img {
+  width: 100%;
+}
+
 .certificates-title {
   display: block;
   text-align: center;
   font-size: 25px;
-  margin-top: 30px;
+  height: 12%;
   background: green;
   color: #fff;
 }
@@ -252,11 +290,6 @@ textarea {
   opacity: 0.8;
 }
 
-.certificationImg {
-  width: 90%;
-  max-height: 90%;
-}
-
 .languageChoose {
   margin-top: 1%;
   background-color: #3b4c54;
@@ -327,9 +360,9 @@ textarea {
   width: 100%;
   height: 100%;
   opacity: 0;
-  -webkit-box-shadow: inset -8px 14px 46px 3px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: inset -8px 14px 46px 3px rgba(0, 0, 0, 0.75);
-  box-shadow: inset -8px 14px 46px 3px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: inset 3px -4px 29px -2px rgba(0,0,0,0.77);
+  -moz-box-shadow: inset 3px -4px 29px -2px rgba(0,0,0,0.77);
+  box-shadow: inset 3px -4px 29px -2px rgba(0,0,0,0.77);
   transition: opacity 0.2s ease-in-out;
 }
 
@@ -348,6 +381,7 @@ textarea {
 }
 
 .minifiedNews {
+  height: 520px;
   overflow-y: hidden;
   padding: 20px;
 }
@@ -360,6 +394,11 @@ textarea {
   cursor: pointer;
 }
 
+
+.news-image-wrapper{
+  height: 60%;
+}
+
 .news-title {
   /*background-color: rgb(157, 168, 151);*/
   padding: 2px;
@@ -367,7 +406,7 @@ textarea {
 }
 
 .newsImage {
-  height: 50%;
+  height: 100%;
   width: 100%;
   margin: auto;
   margin-top: 2%;
@@ -419,7 +458,9 @@ textarea {
   /* border: 1px solid #8c8c24; */
   color: #504b3a;
   height: 100%;
-  box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.51);
+  -webkit-box-shadow: 11px 17px 49px -14px rgba(0,0,0,0.77);
+  -moz-box-shadow: 11px 17px 49px -14px rgba(0,0,0,0.77);
+  box-shadow: 11px 17px 49px -14px rgba(0,0,0,0.77);
 }
 
 .introduction {
@@ -607,9 +648,6 @@ div.desc {
   clear: both;
 }
 
-.navbarThis {
-  display: none;
-}
 
 @media screen and (max-width: 1338px) {
   html {
@@ -635,6 +673,7 @@ div.desc {
     padding-top: 10px;
     padding-bottom: 10px;
   }
+
   .navbar-wrapper {
     display: none;
   }
@@ -645,15 +684,32 @@ div.desc {
   .carousel-wrapper {
     margin-top: -10px;
   }
+
+  .title-header-wrapper{
+    top:120px;
+  }
+ 
+  .font-not-cursive{
+  font-size:45px;
+  letter-spacing: 10px;
 }
+
+
+.font-cursive{
+  font-size:20px;
+  font-family: 'Dancing Script', cursive;
+  letter-spacing: 5px;
+}
+
+
 
 @media screen and (max-width: 1199px) {
   .newsImage {
-    height: 60%;
-    width: 50%;
+    /*height: 60%;*/
+    /*width: 50%;*/
   }
   #news {
-    height: 800px;
+    /*height: 800px;*/
   }
   .introduction {
     height: auto;
@@ -676,16 +732,28 @@ div.desc {
 
 
 }
-@media screen and (max-width: 978px) {
+@media screen and (max-width: 990px) {
   #footerContactUs {
     height: auto;
+  }
+
+  .certificate-img {
+    width: 250px;
+  }
+
+
+.carousel {
+  margin-bottom: 20px;
+}
+}
+
+@media screen and (max-width:890px) {
+  .navbar-wrapper {
+    display: none;
   }
 }
 
 @media screen and (max-width: 958px) {
-  .navbarThis {
-    z-index: 19;
-  }
   #secondMenu {
     width: 25px;
     height: 15px;
@@ -705,6 +773,10 @@ div.desc {
   #Sub {
     font-size: 3em;
   }
+
+  .certificate-img {
+    width: 80%;
+  }
 }
 
 @media screen and (max-width: 714px) {
@@ -723,8 +795,8 @@ div.desc {
     display: none;
   }
   .newsImage {
-    height: 20%;
-    width: 60%;
+    /*height: 20%;*/
+    /*width: 60%;*/
   }
   .introduction {
     margin-top: 10px;
@@ -732,6 +804,10 @@ div.desc {
 
   .introduction::after {
     display: none;
+  }
+
+  .certificates-wrapper {
+    height: 80%;
   }
 }
 
@@ -741,3 +817,23 @@ div.desc {
     min-height: 250px;
   }
 }
+
+/*Added at 2/10/2018 - Abiral*/
+@media screen and (min-width: 320px) and (max-width: 470px){
+    .title-header-wrapper{
+    top:150px;
+  }
+ 
+  .font-not-cursive{
+  font-size:30px;
+  letter-spacing: 10px;
+}
+
+
+.font-cursive{
+  font-size:15px;
+  font-family: 'Dancing Script', cursive;
+  letter-spacing: 5px;
+}
+
+  }
