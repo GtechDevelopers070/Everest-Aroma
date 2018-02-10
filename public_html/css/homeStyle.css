@@ -52,6 +52,10 @@ body {
   background: #ffffe6;
 }
 
+.body-wrapper {
+  margin: 10px 0px;
+}
+
 textarea {
   resize: none;
 }
@@ -622,9 +626,6 @@ div.desc {
   clear: both;
 }
 
-.navbarThis {
-  display: none;
-}
 
 @media screen and (max-width: 1338px) {
   html {
@@ -649,16 +650,6 @@ div.desc {
   .middle {
     padding-top: 10px;
     padding-bottom: 10px;
-  }
-  .navbar-wrapper {
-    display: none;
-  }
-  .navbarThis {
-    display: block;
-    opacity: 0.96;
-  }
-  .carousel-wrapper {
-    margin-top: -10px;
   }
 }
 
@@ -706,10 +697,13 @@ div.desc {
 }
 }
 
-@media screen and (max-width: 958px) {
-  .navbarThis {
-    z-index: 19;
+@media screen and (max-width:890px) {
+  .navbar-wrapper {
+    display: none;
   }
+}
+
+@media screen and (max-width: 958px) {
   #secondMenu {
     width: 25px;
     height: 15px;
