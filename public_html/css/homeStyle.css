@@ -116,7 +116,8 @@ textarea {
 }
 
 .certificates-holder {
-  margin: 10px;
+  height: 88%;
+  padding: 10px;
 }
 
 .certificates-holder span {
@@ -127,7 +128,7 @@ textarea {
   display: block;
   text-align: center;
   font-size: 25px;
-  margin-top: 30px;
+  height: 12%;
   background: green;
   color: #fff;
 }

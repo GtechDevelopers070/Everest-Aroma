@@ -208,12 +208,12 @@
 									<a href="https://www.ams.usda.gov/services/organic-certification"><img src="img/home/USDA.png" class="certificationImg"></a>
 								</div>	
 								<span>Text2</span>									
-							</div>
 							</center>
-							<span class="certificates-title">Certificates</span>
 						</div>
+						<span class="certificates-title">Certificates</span>
 				</div>
 			</div>
+		</div>
 			
 		
 			<!-- <div  class="container-fluid" id="quote" style="display: none;">
