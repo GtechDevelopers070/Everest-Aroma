@@ -365,13 +365,13 @@
 														echo '<br>';
 
 												?>
-												</div>
+												<!-- </div> -->
 											</div>
 					</div>
 					<!--Kabir part ends-->
 				</div>
 				
-		</div>	
+		<!-- </div>	 -->
 	</div>	
 <!-- Bhuwan Part Ends-->
 		</div>
