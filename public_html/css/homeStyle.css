@@ -31,7 +31,7 @@ body {
   padding-bottom: 10px;
 }
 
-.body {
+.site-wrapper {
   height: 100vh;
   margin: 0px;
   -webkit-overflow-scrolling: touch; /*for ios devices*/
@@ -163,10 +163,9 @@ textarea {
   border-radius: 6px;
 }
 
-#mainTopPart {
+.header-wrapper {
   max-height: 100vh;
   position: relative;
-  margin-top: 0.25vh;
 }
 
 .ribbon {
@@ -182,7 +181,7 @@ textarea {
   display: none;
 }
 
-#header {
+.carousel-wrapper {
   /*background-image: url(../img/home/EA-Temp.jpg);     */
   /*background-repeat:no-repeat;*/
   background-color: white;
@@ -199,11 +198,8 @@ textarea {
   height: 100%;
   /*height changed from 50% to 100% EVERYWHERE */
   width: 100%;
-  position: absolute;
   /*top: 40.25%;*/
   right: 0vw;
-  z-index: 4;
-  display: none;
 }
 
 #quote {
@@ -217,12 +213,6 @@ textarea {
 #aboveNavbar a,
 #aboveNavbar a:visited {
   color: white;
-}
-
-/*for class imag */
-.imag {
-  margin-top: 1vh;
-  text-align: center;
 }
 
 /*for id Main and Sub */
@@ -244,12 +234,6 @@ textarea {
 
 #aboveNavbarRight {
   /*height divided by 2 everywhere in this class for removing logo*/
-  position: absolute;
-  z-index: 3;
-  top: 0vh;
-  right: 1vw;
-  height: 27vh;
-  width: 30vw;
   background: rgb(22, 54, 89); /* Old browsers */
   background: -moz-linear-gradient(
     -45deg,
@@ -279,8 +263,6 @@ textarea {
     ); /* IE6-9 fallback on horizontal gradient */
   box-shadow: -8px 10px 10px 0.63px rgba(77, 77, 77, 0.43);
   opacity: 0.97;
-
-  display: none;
 }
 
 #eaLogo {
@@ -445,7 +427,6 @@ textarea {
 
 .colInside {
   border-radius: 10px;
-  height: 65vh;
   background-color: silver;
   margin-top: 10px;
 }
@@ -609,10 +590,6 @@ textarea {
   transition: left 2s;
 }
 
-.product {
-  margin: auto;
-}
-
 .product img {
   width: 12vmax;
   height: 12vmax;
@@ -646,12 +623,6 @@ div.desc {
   clear: both;
 }
 
-.txt {
-  position: relative;
-  /*top:15px;*/
-  left: 15px;
-}
-
 .navbarThis {
   display: none;
 }
@@ -660,7 +631,7 @@ div.desc {
   html {
     overflow: auto;
   }
-  .body {
+  .site-wrapper {
     height: 100vh;
     margin: 0px;
     -webkit-overflow-scrolling: touch; /*for ios devices*/
@@ -668,10 +639,9 @@ div.desc {
     perspective: none;
     overflow-x: hidden;
   }
-  #mainTopPart {
+  .header-wrapper {
     max-height: 100vh;
     position: relative;
-    margin-top: 0.25vh;
   }
   .productContainer {
     margin-top: 0px;
@@ -688,7 +658,7 @@ div.desc {
     display: block;
     opacity: 0.96;
   }
-  #header {
+  .carousel-wrapper {
     margin-top: -10px;
   }
 }
@@ -713,9 +683,6 @@ div.desc {
 }
 
 @media screen and (max-width: 958px) {
-  #mainTopPart {
-    margin-top: 0vh;
-  }
   .navbarThis {
     z-index: 19;
   }
@@ -776,10 +743,6 @@ div.desc {
 }
 
 @media screen and (min-width: 768px) {
-  .product {
-    position: absolute;
-    /*left: 9.5vw;*/
-  }
 
   .productContainer {
     min-height: 250px;
