@@ -68,6 +68,46 @@
 				</div>
 			</div>
 
+			<div class="navbar-alternate">
+        <div class="myNavbar navbar-alternate-wrapper">
+            <div class="gap"></div>
+            <div class="menu" onclick="leftNavbar()">
+                <div class="hamburger"></div>
+                <div class="hamburger"></div>
+                <div class="hamburger"></div>
+            </div>
+            <div class="linkPages">
+                <ul class="navLeft">
+
+                    <li>
+                        <a href="index.php">HOME</a>
+                    </li>
+                    <li>
+                        <a href="aboutUs.php">ABOUT US</a>
+                    </li>
+                    <li>
+                        <a href="contact.php">CONTACT US</a>
+                    </li>
+                    <li>
+                        <a href="products.php">PRODUCTS</a>
+                    </li>
+                </ul>
+                <ul class="navRight">
+                    <li>
+                        <a href="certification.php">CERTIFICATION</a>
+                    </li>
+                    <li>
+                        <a href="gallery.php">GALLERY</a>
+                    </li>
+                    <li>
+                        <a href="faq.php">FAQ</a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+		</div>
+		
 			<!--gru part starts-->
 			<nav class="navbar-wrapper">
 				<!--Navigation bars FAQ left to add(if here)-->

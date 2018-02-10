@@ -18,6 +18,11 @@ body {
   height: 230px;
 }
 
+.navbar-alternate-wrapper {
+  position: relative;
+  display: none;
+}
+
 .title-header-wrapper {
   position: absolute;
   /* top: 0; */
@@ -36,6 +41,13 @@ body {
   letter-spacing: 17px;
 }
 
+.linkPages {
+  left: 2vw;
+}
+
+.leftLinkPages {
+  padding-left: 50px;
+}
 
 .font-cursive{
   font-size:30px;
@@ -132,6 +144,8 @@ textarea {
   background-color: rgb(46, 139, 87); /*seagreen*/
 }
 
+
+
 .certificates-wrapper {
   height: 350px;
   border: 2px solid;
@@ -216,7 +230,7 @@ textarea {
 }
 
 .header-wrapper {
-  z-index: 200;
+  z-index: 80;
   background-color: #fff;
   max-height: 100vh;
   position: relative;
@@ -670,9 +684,6 @@ div.desc {
     padding-bottom: 10px;
   }
 
-  .navbar-wrapper {
-    display: none;
-  }
   .navbarThis {
     display: block;
     opacity: 0.96;
@@ -746,6 +757,11 @@ div.desc {
 @media screen and (max-width:890px) {
   .navbar-wrapper {
     display: none;
+  }
+
+  .navbar-alternate-wrapper {
+    display: block;
+    margin-bottom: 10px;
   }
 }
 

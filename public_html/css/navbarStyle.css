@@ -132,7 +132,7 @@ body {
   text-align: center;
   font-size: 150%;
   color: white;
-  padding-top: 20px;
+  /* padding-top: 20px; */
 }
 .titleFont {
   font-family: Sansita;
@@ -176,7 +176,7 @@ body {
     font-size: 100%;
     width: 70vw;
     left: 15vw;
-    padding-top: 10px;
+    /* padding-top: 10px; */
   }
 }
 @media screen and (max-width: 482px) {
