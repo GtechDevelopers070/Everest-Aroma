@@ -301,7 +301,7 @@ textarea {
 
 #news {
   position: relative;
-  background-color: #ececb1;
+  /* background-color: #ececb1; */
   width: 100%;
   height: 100%;
   /*font-family: RobotoSlab;*/
@@ -313,7 +313,7 @@ textarea {
   /*margin-top: 10px;*/
   overflow-y: hidden;
   cursor: pointer;
-  border: 1px solid #8c8c24;
+  border-right: 1px solid #8c8c24;
   padding-bottom: 10px;
 }
 
@@ -415,10 +415,11 @@ textarea {
 }
 
 .intro-wrapper {
-  background-color: #ececb1;
-  border: 1px solid #8c8c24;
+  /* background-color: #ececb1; */
+  /* border: 1px solid #8c8c24; */
   color: #504b3a;
   height: 100%;
+  box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.51);
 }
 
 .introduction {
@@ -667,6 +668,10 @@ div.desc {
   .product img {
     width: 100%;
     height: 100%;
+  }
+
+  .row-eq-height{
+    display: block;
   }
 
 
