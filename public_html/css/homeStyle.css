@@ -699,6 +699,11 @@ div.desc {
   .certificate-img {
     width: 250px;
   }
+
+
+.carousel {
+  margin-bottom: 20px;
+}
 }
 
 @media screen and (max-width: 958px) {
