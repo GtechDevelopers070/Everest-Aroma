@@ -64,7 +64,8 @@
 					<p class="font-cursive">"Organic Essence </p> <p class="font-cursive" style="margin-left:10em;">  from Himalaya"</p>
 				</div>
 				<div class="img-header-wrapper">
-					<img src="img/EA_header_PS.png">
+					<img id="imgChangeWidth" src="img/EA_header_PS.png">
+
 				</div>
 			</div>
 
@@ -242,7 +243,7 @@
 										<img src="img/home/EU-Organic.jpg">
 									</a>
 								</div>	
-									<span>Text1</span>
+									<span>Non EU Agriculture</span>
 								</div>
 							</center>
 							<center>
@@ -253,7 +254,7 @@
 									</a>
 									</div>
 								</div>	
-								<span>Text2</span>									
+								<span>100% Organic</span>									
 							</center>
 						</div>
 						<span class="certificates-title">Certificates</span>
@@ -448,67 +449,11 @@
 			}
 		}
 		
-		// let count = 0; 
-		// let productMove;
-		// let sliderButtonFlag = true;
-		// let productContainer = document.getElementById('productSlider');
-		// let productList = document.getElementsByClassName('product');
-		// let buttonRight = document.getElementById('buttonRight');
-		// let buttonLeft = document.getElementById('buttonLeft');
-
-		// startInterval();
-
-		// productContainer.addEventListener('mouseover', stopInterval);
-		// productContainer.addEventListener('mouseout', startInterval);
-
-		// buttonRight.addEventListener('click', moveRight);
-		// buttonLeft.addEventListener('click', moveLeft);
-
-		// function startInterval() {
-		// 	productMove = setInterval(() => {
-		// 		productContainer.style.left = '-' + (count) * 200 + 'px';
-		// 		count++;
-		// 		if (count > 3) {
-		// 			count = 0;
-		// 		}
-		// 	}, 3000);
-		// }
-
-		// function moveRight() {
-		// 	if (sliderButtonFlag) {
-		// 		console.log('hello');
-		// 		sliderButtonFlag = false;
-		// 		stopInterval();
-		// 		(count < 3) ? count++ : undefined;
-
-		// 		productContainer.style.left = '-' + count * 200 + 'px';		
-				
-		// 		startInterval();		
-		// 		sliderButtonFlag = true;
-		// 	}
-		// }
-
-		// function moveLeft() {
-		// 	if (sliderButtonFlag ) {
-		// 		sliderButtonFlag = false;
-				
-		// 		stopInterval();	
-		// 		(count > 0) ? count-- : undefined;
-				
-				
-		// 		productContainer.style.left = '-' + count * 200 + 'px';		
-				
-		// 		startInterval();
-		// 		sliderButtonFlag = true;
-				
-
-		// 	}
-		// }
-
-		// function stopInterval() {
-		// 	clearInterval(productMove);
-		// }
+		let srcHide = document.getElementById("imgChangeWidth");
 		
+		if (window.innerWidth < 1340){
+			imgChangeWidth.setAttribute("src","img/EA_header_PS_3.png")
+		}
 	</script>    
 </body>
 </html>
