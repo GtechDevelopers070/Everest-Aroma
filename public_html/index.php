@@ -64,7 +64,7 @@
 			</div>
 
 			<!--gru part starts-->
-			<nav class="navBarBackground">
+			<nav class="navbar-wrapper">
 				<!--Navigation bars FAQ left to add(if here)-->
 				<div class="row">
 				<!-- latest design ma navako vaera commented the logo -->
@@ -109,8 +109,8 @@
 		<div class="body-wrapper">
 					
 		<div class="container-fluid">
-			<div class="row">
-				<div class="col-md-6">
+			<div class="row row-eq-height">
+				<div class="col-md-6 col-xs-12">
 					<div class="carousel-wrapper">
 						<div id="myCarousel" class="carousel slide" data-ride="carousel">
 							<!-- Indicators -->
@@ -125,7 +125,7 @@
 
 								<div class="item active carHeight">
 									
-									<img src="img/home/EA-Temp.jpg" class="cover" alt="Image" style="height: 50vh; width:100%; object-fit: cover;">
+									<img src="img/home/EA-Temp.jpg" class="cover" alt="Image">
 									<!-- <div class="carousel-caption">
 										<div id="Main">
 											<div class="contentFont">
@@ -194,20 +194,24 @@
 					</div><!--header-->
 					<!--danny part ends-->
 				</div>
-				<div class="col-md-6">
-					<div id="aboveNavbarRight">
-						<div id="aboveNavbar">
-							<div class="row">
+				<div class="col-md-6 col-xs-12">
+					<div class="certificates-wrapper">
+						<div class="certificates-holder">
+							<center>
 								<div class="col-xs-6">
 									<a href="http://www.euroleaf.org/"><img src="img/home/EU-Organic.jpg" class="certificationImg"></a>
+									<span>Text1</span>
 								</div>
-
+							</center>
+							<center>
 								<div class="col-xs-6">
 									<a href="https://www.ams.usda.gov/services/organic-certification"><img src="img/home/USDA.png" class="certificationImg"></a>
-								</div>		
+								</div>	
+								<span>Text2</span>									
 							</div>
+							</center>
+							<span class="certificates-title">Certificates</span>
 						</div>
-					</div>
 				</div>
 			</div>
 			
@@ -239,7 +243,7 @@
 		<!-- NEWS SECTION START -->
 		<div class="row middle">    
 			<div class="row row-eq-height">
-				<div class="col-lg-4" >
+				<div class="col-lg-4 col-xs-12" >
 					<div id="news">
 						<!--News part-->
 						<div class= "minifiedNews">
@@ -277,7 +281,7 @@
 					</div>
 				</div>
 
-				<div class="col-lg-8 introductionEverest">
+				<div class="col-lg-8 col-xs-12">
 
 					<!--Intro of EA-->
 					<div class="row intro-wrapper" >
@@ -305,13 +309,13 @@
 		<div class="row">
 				<div class="col-lg-4">
 				<!-- for video -->
-					<div class="colInside">
+					<div class="col-inside">
 						<iframe width="100%" height="100%" src="https://www.youtube.com/embed/Vv54Ka6GG9A" frameborder="0" gesture="media" allowfullscreen></iframe>
 					</div>
 				</div>
 				<div class="col-lg-8">
 						<!--Kabir Part Starts-->
-						<div class="productContainer">
+						<div class="product-container">
 								<h2>Product</h2>		
 												<?php
 
@@ -332,7 +336,7 @@
 																					<div class="product">
 																						<center>';
 																							echo '<a href="productsDescription.php?viewProduct'.$row["productID"].'=' .$row["productName"]. '">';
-																							echo '<img class="circle" src="admin/'.$row["productPhoto"].'" width="200" height="200" >
+																							echo '<img class="circle" src="admin/'.$row["productPhoto"].'">
 																						</a>
 																					</center>';
 																					echo '<div class="txt" align="center"><div class="contentFont"><center>' .$row["productName"]. '</center></div></div>
@@ -395,66 +399,66 @@
 			}
 		}
 		
-		let count = 0; 
-		let productMove;
-		let sliderButtonFlag = true;
-		let productContainer = document.getElementById('productSlider');
-		let productList = document.getElementsByClassName('product');
-		let buttonRight = document.getElementById('buttonRight');
-		let buttonLeft = document.getElementById('buttonLeft');
+		// let count = 0; 
+		// let productMove;
+		// let sliderButtonFlag = true;
+		// let productContainer = document.getElementById('productSlider');
+		// let productList = document.getElementsByClassName('product');
+		// let buttonRight = document.getElementById('buttonRight');
+		// let buttonLeft = document.getElementById('buttonLeft');
 
-		startInterval();
+		// startInterval();
 
-		productContainer.addEventListener('mouseover', stopInterval);
-		productContainer.addEventListener('mouseout', startInterval);
+		// productContainer.addEventListener('mouseover', stopInterval);
+		// productContainer.addEventListener('mouseout', startInterval);
 
-		buttonRight.addEventListener('click', moveRight);
-		buttonLeft.addEventListener('click', moveLeft);
+		// buttonRight.addEventListener('click', moveRight);
+		// buttonLeft.addEventListener('click', moveLeft);
 
-		function startInterval() {
-			productMove = setInterval(() => {
-				productContainer.style.left = '-' + (count) * 200 + 'px';
-				count++;
-				if (count > 3) {
-					count = 0;
-				}
-			}, 3000);
-		}
+		// function startInterval() {
+		// 	productMove = setInterval(() => {
+		// 		productContainer.style.left = '-' + (count) * 200 + 'px';
+		// 		count++;
+		// 		if (count > 3) {
+		// 			count = 0;
+		// 		}
+		// 	}, 3000);
+		// }
 
-		function moveRight() {
-			if (sliderButtonFlag) {
-				console.log('hello');
-				sliderButtonFlag = false;
-				stopInterval();
-				(count < 3) ? count++ : undefined;
+		// function moveRight() {
+		// 	if (sliderButtonFlag) {
+		// 		console.log('hello');
+		// 		sliderButtonFlag = false;
+		// 		stopInterval();
+		// 		(count < 3) ? count++ : undefined;
 
-				productContainer.style.left = '-' + count * 200 + 'px';		
+		// 		productContainer.style.left = '-' + count * 200 + 'px';		
 				
-				startInterval();		
-				sliderButtonFlag = true;
-			}
-		}
+		// 		startInterval();		
+		// 		sliderButtonFlag = true;
+		// 	}
+		// }
 
-		function moveLeft() {
-			if (sliderButtonFlag ) {
-				sliderButtonFlag = false;
+		// function moveLeft() {
+		// 	if (sliderButtonFlag ) {
+		// 		sliderButtonFlag = false;
 				
-				stopInterval();	
-				(count > 0) ? count-- : undefined;
+		// 		stopInterval();	
+		// 		(count > 0) ? count-- : undefined;
 				
 				
-				productContainer.style.left = '-' + count * 200 + 'px';		
+		// 		productContainer.style.left = '-' + count * 200 + 'px';		
 				
-				startInterval();
-				sliderButtonFlag = true;
+		// 		startInterval();
+		// 		sliderButtonFlag = true;
 				
 
-			}
-		}
+		// 	}
+		// }
 
-		function stopInterval() {
-			clearInterval(productMove);
-		}
+		// function stopInterval() {
+		// 	clearInterval(productMove);
+		// }
 		
 	</script>    
 </body>
