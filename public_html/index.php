@@ -267,7 +267,10 @@
 									<!--News Title HERE --> 
 									</div>';
 									$newsPicture=$row["NewsPicture"];	
-									echo '<img class="img-responsive newsImage" src="admin/'.$newsPicture. '">
+									echo '
+									<div class="news-image-wrapper">
+										<img class="img-responsive newsImage" src="admin/'.$newsPicture. '">
+									</div>
 									<!--News Photo HERE-->';
 									echo '<p class="newsContent">'.$row["NewsContents"].'
 
