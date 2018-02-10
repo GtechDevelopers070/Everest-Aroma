@@ -662,6 +662,24 @@ div.desc {
   clear: both;
 }
 
+@media screen and (min-width: 1339px) {
+ .title-header-wrapper{
+    top:120px;
+  }
+ 
+  .font-not-cursive{
+  font-size:45px;
+  letter-spacing: 10px;
+}
+
+
+.font-cursive{
+  font-size:20px;
+  font-family: 'Dancing Script', cursive;
+  letter-spacing: 5px;
+}
+}
+
 
 @media screen and (max-width: 1338px) {
   html {
