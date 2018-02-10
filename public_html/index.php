@@ -57,8 +57,10 @@
 
 			<!-- Navbar moved up to the stars -->
 
-			<div class="everestAromaHeader">
-				<img src="img/ea-header.png" style="width: 100%; height: auto;">
+			<div class="everest-aroma-header">
+				<div class="img-header-wrapper">
+					<img src="img/ea-header.png">
+				</div>
 			</div>
 
 			<!--gru part starts-->
@@ -293,12 +295,12 @@
 				<div class="col-lg-8 introductionEverest">
 
 					<!-- for video -->
-					<!-- <div class="row" >
+					<div class="row" >
 						<div class="colInside">
 							<iframe width="100%" height="100%" src="https://www.youtube.com/embed/Vv54Ka6GG9A" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 						</div>
-					</div> -->
+					</div>
 
 					<!--Intro of EA-->
 					<div class="row intro-wrapper" >
