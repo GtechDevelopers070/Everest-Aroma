@@ -39,22 +39,28 @@
                   </div>    
 
                   <div class="row">
-                        <div class="col-xs-5 description">
-                                    <h2>
-                                          Description
-                                    </h2>
+                        <div class="col-xs-6">
+                                    <div class="description">
+                                          
+                                          <h2>
+                                                Description
+                                          </h2>
 
-                                    <p>
-                                    Mentha is widely found in terai region of Nepal,
-                                    especially far west region. It was adopted and now
-                                    cultivated for commercial purpose. It is a perennial
-                                    herb, 60 cm high. Leaves are simple, opposite,
-                                    short stalked, oblong, 2.5-5 cm long obtusely or
-                                    acutely serrated. Flowers are small and lilac in
-                                    auxiliary whorls. Fruits nutlets are smooth. It
-                                    belongs to the Family Labiatae.                                          
-                                    </p>
+                                          <p>
+                                          Mentha is widely found in terai region of Nepal,
+                                          especially far west region. It was adopted and now
+                                          cultivated for commercial purpose. It is a perennial
+                                          herb, 60 cm high. Leaves are simple, opposite,
+                                          short stalked, oblong, 2.5-5 cm long obtusely or
+                                          acutely serrated. Flowers are small and lilac in
+                                          auxiliary whorls. Fruits nutlets are smooth. It
+                                          belongs to the Family Labiatae.                                          
+                                          </p>
+
+                                    </div>
                         </div>
+
+                      
 
                         <div class="col-xs-6 properties">
                               <h2>
@@ -74,61 +80,7 @@
                         </div>
                   </div>
 
-                  <div class="row">
-                        <h2>Major Content</h2>
-                        <table class="table table-bordered">
-                              <thead>
-                                    <tr>
-                                          <th>heading</th>
-                                          <th>heading</th>
-                                          <th>heading</th>
-                                    </tr>
-                              </thead>
-
-                              <tbody>
-                                    <tr>
-                                          <td>lorem</td>
-                                          <td>lorem</td>
-                                          <td>lorem</td>
-                                    </tr>
-                                    <tr>
-                                          <td>lorem</td>
-                                          <td>lorem</td>
-                                          <td>lorem</td>
-                                    </tr>
-                                    <tr>
-                                          <td>lorem</td>
-                                          <td>lorem</td>
-                                          <td>lorem</td>
-                                    </tr>
-                                    <tr>
-                                          <td>lorem</td>
-                                          <td>lorem</td>
-                                          <td>lorem</td>
-                                    </tr>
-                                    <tr>
-                                          <td>lorem</td>
-                                          <td>lorem</td>
-                                          <td>lorem</td>
-                                    </tr>
-                                    <tr>
-                                        <td>lorem</td>
-                                          <td>lorem</td>
-                                          <td>lorem</td>
-                                    </tr>
-                                    <tr>
-                                          <td>lorem</td>
-                                          <td>lorem</td>
-                                          <td>lorem</td>
-                                    </tr>
-                                    <tr>
-                                          <td>lorem</td>
-                                          <td>lorem</td>
-                                          <td>lorem</td>
-                                    </tr>
-                              </tbody>
-                        </table>
-                  </div>   
+                 
 
 
 
