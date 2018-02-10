@@ -48,7 +48,7 @@ body {
   -webkit-overflow-scrolling: touch; /*for ios devices*/
   overflow-y: auto;
   overflow-x: hidden;
-  perspective: 1px;
+  perspective: none;
   background: #ffffe6;
 }
 
