@@ -119,7 +119,7 @@
 							</center>
 						</div>
 					</div> -->
-					<div class="col-lg-8">		
+					<div class="col-lg-11">		
 						<ul class="nav navbar-nav">
 							<li> <a class="active" href="index.php"><div class="titleFont"> Home </div></a></li>
 							<li class="shape">  </li>
