@@ -1,0 +1,45 @@
+.product-feature{
+	/*list-style: none;*/
+	float: right;
+}
+
+.description{
+	background-color: green;
+	border-radius: 36px;
+}
+
+.description h2{
+	padding: 10px 20px;
+}
+
+.description p{
+	padding: 0px 20px 10px 20px;
+}
+
+.properties{
+
+	background-color: green;
+	border-radius: 36px;
+
+}
+
+.properties-list{
+	float: right;
+}
+
+.circle-1{
+	border-radius: 50%;
+	height: 200px;
+	width:200px;
+	background-color: red;
+}
+
+.circle-2{
+	border-radius: 50%;
+	height: 189px;
+	width:189px;
+	background-color: green;
+	position: relative;
+	top: 9px;
+	left: 10px;
+}
