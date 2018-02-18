@@ -11,9 +11,9 @@
 	<title> Everest Aroma</title><!-- Change this later-->
 	<link rel= "stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/animate.css">
-	<link rel="stylesheet" type="text/css" href="css/navbarStyle.css">
+	<link rel="stylesheet" type="text/css" href="css/uat_navbarStyle.css">
 	<link rel="stylesheet" href="css/footerStyle.css">
-	<link rel="stylesheet" href="css/homeStyle.css">
+	<link rel="stylesheet" href="css/uat_homeStyle.css">
 	
 	<script type="text/javascript" src="js/script.js"></script>
 	<!--fonts-->
@@ -347,6 +347,21 @@
 											cultivate, collect, process, package and supply under the same roof to make 
 											our products cheaper with high quality.
 										</p>
+										
+										<p>Everest aroma was established in 2010 AD using the knowledge and sincerity
+that has passed through the generation of baral family.
+</p><p>
+Our business principle  has always been simple : "take less give more"
+</p><p>
+Our ancestors have been involved in herbal business for a long time.
+As time and economy changed it was time for us to move on to make better connection
+with our customers.
+</p><p>
+Realizing this need Mr. sandeep baral established his brain child : "Everest aroma" which specializes In Essential oils.
+He has tremendous faith that if the intention is right everything else is bound to be succesful.
+</p><p>
+Since day 1 Everest aroma has been commited towards social responsiblity and upliftment of poor communities. 
+We feel proud to state that our company is the first inclusive  model business in nepal.</p>
 									</div>
 								</div>
 							</div>
@@ -360,7 +375,7 @@
 				<div class="col-lg-4">
 				<!-- for video -->
 					<div class="col-inside">
-						<iframe width="100%" height="100%" src="https://www.youtube.com/embed/Vv54Ka6GG9A" frameborder="0" gesture="media" allowfullscreen></iframe>
+						<iframe width="100%" height="100%" src="https://www.youtube.com/embed/J4qAUCKBKvs" frameborder="0" gesture = "media" allowfullscreen></iframe>
 					</div>
 				</div>
 				<div class="col-lg-8">

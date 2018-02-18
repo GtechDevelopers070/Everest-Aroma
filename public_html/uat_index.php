@@ -375,7 +375,7 @@ We feel proud to state that our company is the first inclusive  model business i
 				<div class="col-lg-4">
 				<!-- for video -->
 					<div class="col-inside">
-						<iframe width="100%" height="100%" src="https://www.youtube.com/embed/Vv54Ka6GG9A" frameborder="0" gesture="media" allowfullscreen></iframe>
+						<iframe width="100%" height="100%" src="https://www.youtube.com/embed/J4qAUCKBKvs" frameborder="0" gesture = "media" allowfullscreen></iframe>
 					</div>
 				</div>
 				<div class="col-lg-8">
