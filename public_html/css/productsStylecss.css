@@ -30,6 +30,12 @@
   width: 300px;
 }
 
+.upper-left-container img{
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+}
+
 .upper-right-container{
   float: right;
   /* width: 500px; */
