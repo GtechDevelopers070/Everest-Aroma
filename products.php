@@ -12,7 +12,7 @@
 <body>
   <div class="main-outer-container">
     <div class="main-inner-container">
-      <div class="upper-container">
+      <div class="upper-container clrfix">
         <div class="upper-left-container">
           <img src="./public_html/img/products/citronellaMain.png" alt="citronella">
         </div>
@@ -34,7 +34,7 @@
           </ul>
         </div>
       </div>
-      <div class="lower-container">
+      <div class="lower-container clrfix">
         <div class="lower-left-container">
           <h2>Description</h2>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias dolor, fuga quos facere, totam repellat vitae laboriosam tempora quibusdam similique beatae quas nisi labore ipsam ducimus qui aut iure quia.</p>

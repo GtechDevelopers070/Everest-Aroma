@@ -1,0 +1,50 @@
+.clrfix:before,
+.clrfix:after {
+  content: "";
+  display: table;
+}
+
+.clrfix:after {
+  clear: both;
+}
+
+.clrfix {
+  zoom: 1;
+  /* For IE 6/7 (trigger hasLayout) */
+}
+
+.main-outer-container{
+  width: 100%;
+}
+
+.main-inner-container{
+  padding: 10px;
+}
+
+.upper-container{
+  width: 100%;
+}
+
+.upper-left-container{
+  float: left;
+  width: 300px;
+}
+
+.upper-right-container{
+  float: right;
+  /* width: 500px; */
+}
+
+.lower-container{
+  width: 100%;
+}
+
+.lower-left-container{
+  float: left;
+  width: 450px;
+}
+
+.lower-right-container{
+  float: right;
+  width: 450px;
+}
