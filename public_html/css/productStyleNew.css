@@ -1,10 +1,15 @@
+.container {
+  background-image: url('../img/top-background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .product-feature{
-	/*list-style: none;*/
 	float: right;
 }
 
 .description{
-	background-color: green;
+	background-color: #107139;
 	border-radius: 36px;
 }
 
@@ -17,8 +22,7 @@
 }
 
 .properties{
-
-	background-color: green;
+	background-color: #107139;
 	border-radius: 36px;
 
 }
