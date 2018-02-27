@@ -14,7 +14,7 @@
     <div class="main-inner-container">
       <div class="upper-container clrfix">
         <div class="upper-left-container">
-          <img src="./public_html/img/products/citronellaMain.png" alt="citronella">
+          <img src="./public_html/img/background.png" alt="citronella">
         </div>
         <div class="upper-right-container">
           <h1>Mentha</h1>

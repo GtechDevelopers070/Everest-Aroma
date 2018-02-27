@@ -13,44 +13,69 @@
   /* For IE 6/7 (trigger hasLayout) */
 }
 
-.main-outer-container{
+.main-outer-container {
+  /* width: 900px;
+  height: 1000px; */
+  background-image: url("../img/background.png");
+  /* size: 10% 10%; */
+  /* background-color: red; */
+}
+
+.main-inner-container {
+  padding: 20px;
+}
+
+.upper-container {
   width: 100%;
 }
 
-.main-inner-container{
-  padding: 10px;
-}
-
-.upper-container{
-  width: 100%;
-}
-
-.upper-left-container{
+.upper-left-container {
   float: left;
   width: 300px;
 }
 
-.upper-left-container img{
+.upper-left-container img {
   border-radius: 50%;
   height: 250px;
   width: 250px;
 }
 
-.upper-right-container{
+.upper-right-container {
   float: right;
-  /* width: 500px; */
+  width: 400px;
+  text-align: right;
 }
 
-.lower-container{
+.upper-right-container h1{
+  margin-bottom: -15px;
+}
+
+.upper-right-container li {
+  list-style: none;
+}
+
+.lower-container {
   width: 100%;
 }
 
-.lower-left-container{
+.lower-left-container {
   float: left;
-  width: 450px;
+  width: 550px;
+  background-color: aqua;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 100px;
 }
 
-.lower-right-container{
+.lower-right-container {
   float: right;
-  width: 450px;
+  text-align: right;
+  width: 550px;
+  background-color: aqua;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.lower-right-container li {
+  list-style: none;
 }
