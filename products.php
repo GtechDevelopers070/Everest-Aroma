@@ -11,7 +11,7 @@
 
 <body>
   <div class="main-outer-container">
-    <div class="main-inner-container">
+    <div class="main-inner-container"></div>
       <div class="upper-container clrfix">
         <div class="upper-left-container">
           <img src="./public_html/img/products/citronellaMain.png" alt="citronella">
