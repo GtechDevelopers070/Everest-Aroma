@@ -11,7 +11,7 @@
 
 <body>
   <div class="main-outer-container">
-    <div class="main-inner-container"></div>
+    <div class="main-inner-container">
       <div class="upper-container clrfix">
         <div class="upper-left-container">
           <div class="border-div">
