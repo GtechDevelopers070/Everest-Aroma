@@ -1,81 +1,57 @@
-.clrfix:before,
-.clrfix:after {
-  content: "";
-  display: table;
+.container {
+  background-image: url('../img/top-background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-
-.clrfix:after {
-  clear: both;
+.product-feature{
+    float: right;
 }
-
-.clrfix {
-  zoom: 1;
-  /* For IE 6/7 (trigger hasLayout) */
+.description{
+    background-color: #107139;
+    border-radius: 36px;
 }
-
-.main-outer-container{
-  width: 100%;
+.description h2{
+    padding: 10px 20px;
 }
-
-.main-inner-container{
-  padding: 10px;
+.description p{
+    padding: 0px 20px 10px 20px;
 }
-
-.upper-container{
-  width: 100%;
+.properties{
+    background-color: #107139;
+    border-radius: 36px;
 }
-
-.upper-left-container{
-  float: left;
-  width: 300px;
+.properties-list{
+    float: right;
 }
-
-.upper-left-container img{
-  border-radius: 50%;
-  height: 250px;
-  width: 250px;
+.circle-1{
+    border-radius: 50%;
+    height: 200px;
+    width:200px;
+    background-color: red;
 }
-
-.upper-right-container{
-  float: right;
-  /* width: 500px; */
-}
-
-.upper-right-container li{
-  list-style: none;
-}
-
-.lower-container{
-  width: 100%;
-}
-
-.lower-left-container{
-  float: left;
-  width: 450px;
-}
-
-.lower-right-container{
-  float: right;
-  width: 450px;
-}
-
-.lower-right-container li {
-  list-style: none;
+.circle-2{
+    border-radius: 50%;
+    height: 189px;
+    width:189px;
+    background-color: green;
+    position: relative;
+    top: 9px;
+    left: 10px;
 }
 
 @media only screen and (max-width: 768px){
   .main-inner-container{
     padding: 10px;
   }
-  
+
   .upper-container{
     width: 100%;
   }
-  
+
   .upper-left-container{
     width: 100%;
   }
-  
+
   .upper-left-container img{
     margin: auto;
     display: block;
@@ -83,27 +59,27 @@
     height: 250px;
     width: 250px;
   }
-  
+
   .upper-right-container{
     width: 100%;
     text-align: center;
   }
-  
+
   .lower-container{
     width: 100%;
   }
-  
+
   .lower-left-container{
     width: 100%;
   }
 
   /*.lower-left-container h2{
     text-align: center;
-  } */ 
-  
+  } */
+
   .lower-right-container{
     width: 100%;
-    
+
   }
-  
+
 }
