@@ -1,0 +1,13 @@
+.container-fluid{
+  background: url("../img/top.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+}
+
+
+.example{
+  width:auto;
+  height: 700px;
+}

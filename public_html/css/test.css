@@ -1,0 +1,15 @@
+.jumbotron{
+  color: #0d672e;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(102, 204, 51, 0.3);
+}
+
+.lower-left-container{
+
+}
+
+.lower-right-container li {
+  font-size: 16pt;
+  list-style: none;
+  text-align: right;
+}
