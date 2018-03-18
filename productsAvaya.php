@@ -17,66 +17,81 @@
 
 <body>
   <div class="container-fluid">
-    <div class="main-inner-container">
-        <div class="row upper-container">
+    <div>
 
-          <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 upper-left-container">
+      <div class="main-inner-container">
+        <div class="row">
+          <div class="col-xs-10 col-xs-offset-1">
+            <div class="row">
 
-              <img src="./public_html/img/products/citronellaMain.png"  class="product-image" alt="citronella">
+              <div class="col-xs-12 col-md-6">
+                <div class="upper-left-container">
+                  <img src="./public_html/img/products/citronellaMain.png"  class="product-image" alt="citronella">
+                </div>
+              </div>
 
-          </div>
+              <div class="col-xs-12 col-md-6" >
+                <div class="upper-right-container">
 
-          <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 upper-right-container" >
-                <h1>Mentha</h1>
+                  <h1>Mentha</h1>
+                  <ul>
+                    <li>Product</li>
+                    <li>Product</li>
+                    <li>Product</li>
+                    <li>Product</li>
+                    <li>Product</li>
+                    <li>Product</li>
+                    <li>Product</li>
+                    <li>Product</li>
+                    <li>Product</li>
+                    <li>Product</li>
+                    <li>Product</li>
+                    <li>Product</li>
+                  </ul>
+                </div>
+              </div>
+
+            </div>
+
+            <div class="row">
+
+              <div class="col-xs-12 col-md-6">
+                <div class="lower-left-container">
+
+                  <h2>Description</h2>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias dolor, fuga quos facere, totam repellat vitae
+                    laboriosam tempora quibusdam similique beatae quas nisi labore ipsam ducimus qui aut iure quia.</p>
+                  </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                  <div class="lower-right-container">
+                    
+                    <h2>Physical and Chemical Properties</h2>
                     <ul>
-                      <li>Product</li>
-                      <li>Product</li>
-                      <li>Product</li>
-                      <li>Product</li>
-                      <li>Product</li>
-                      <li>Product</li>
-                      <li>Product</li>
-                      <li>Product</li>
-                      <li>Product</li>
-                      <li>Product</li>
-                      <li>Product</li>
-                      <li>Product</li>
+                      <li>State</li>
+                      <li>State</li>
+                      <li>State</li>
+                      <li>State</li>
+                      <li>State</li>
+                      <li>State</li>
+                      <li>State</li>
+                      <li>State</li>
+                      <li>State</li>
+                      <li>State</li>
+                      <li>State</li>
+                      <li>State</li>
+                      <li>State</li>
+                      <li>State</li>
                     </ul>
-          </div>
+                  </div>
+                </div>
 
+              </div>
+            </div>
+          </div>
         </div>
-
-        <div class="row lower-container">
-
-          <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 lower-left-container">
-          <h2>Description</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias dolor, fuga quos facere, totam repellat vitae
-                laboriosam tempora quibusdam similique beatae quas nisi labore ipsam ducimus qui aut iure quia.</p>
-          </div>
-
-          <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 lower-right-container">
-          <h2>Physical and Chemical Properties</h2>
-              <ul>
-                <li>State</li>
-                <li>State</li>
-                <li>State</li>
-                <li>State</li>
-                <li>State</li>
-                <li>State</li>
-                <li>State</li>
-                <li>State</li>
-                <li>State</li>
-                <li>State</li>
-                <li>State</li>
-                <li>State</li>
-                <li>State</li>
-                <li>State</li>
-              </ul>
-          </div>
-
-        </div>
-
+      </div>
     </div>
-  </div>
-</body>
-</html>
+  </body>
+  </html>
