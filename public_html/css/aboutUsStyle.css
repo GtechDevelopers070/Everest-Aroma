@@ -217,6 +217,7 @@ th, td {
   /*background-color: #89da59;*/
   position: relative;
   box-shadow: 0px 2px 6.951px 0.0489px rgba(0,0,0,0.55) inset;
+  margin-top: 40px;
 }
 
 .aboutUsWriting{
@@ -350,6 +351,10 @@ th, td {
 
   #aboutUsInfo { 
     margin-top: 40px; 
+  }
+
+  #aboutUsHolder {
+    margin-top: 40px;
   }
 
 }
