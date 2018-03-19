@@ -1,0 +1,135 @@
+/* Quality assurance buttoon*/
+.forbutton{
+  float: right;background-color: #bf65e8;
+  margin-top: 10px;
+  padding: 1px 2px;
+  border: 0;
+  color: black;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px;
+  text-shadow: 2px 2px 2px;
+  font-size: 24px;
+  font-family: "Roboto";
+}
+.forbutton:hover {
+
+}
+.modal-body{
+
+  background-color: #bebdbf;
+  text-align: justify;
+}
+.modal-header{
+  background-color: #bebdbf;
+}
+  #Quality_Assurance{
+    font-size: 30px;
+    font-style: bold;
+    text-align: center;
+  }
+
+
+/* end of quality assurance button*/
+
+/*Alignment of title*/
+#title{
+    text-align: center;
+}
+
+/*Image properties*/
+.imag{
+  height: 16vw;
+  width: 16vw;
+  border-radius: 50%;
+  margin-top: 2vw;
+  margin-left: auto;
+  margin-right: auto;
+  float: all;
+  background-size: 16vw 16vw;
+  background-repeat: no-repeat;
+}
+
+.imag:hover{
+  opacity: 0.8;
+}
+
+
+/*Name of Product styling*/
+.nameProd{
+  font-weight: bolder;
+  font-size: 200%;
+}
+
+/*Footer alignment*/
+#contactFooter{
+    text-align: center;
+    color: black;
+}
+
+/*align text*/
+.cent{
+    text-align: center;
+}
+
+/*Media size options*/
+.contactImg{
+    width: 25px;
+    height: 25px;
+    display:inline;
+    float: left;
+}
+
+/*For small media devices*/
+@media screen and (max-width: 767px) {
+    .imag{
+      height: 250px;
+      width: 250px;
+      border-radius: 50%;
+      margin-left: auto;
+      margin-right: auto;
+      background-size: 250px 250px;
+    }
+
+}
+/*footer*/
+#contactUs{
+  background-color: #658464;
+  position: relative;
+  top: 10vh;
+  z-index: 4;
+}
+#line
+{
+    border-width: 0.5vh;
+}
+.noUnderline
+{
+    text-decoration: none;
+    color:white;
+}
+
+#followUs{
+
+    color:white;
+        
+}
+#contactFooter{
+    text-align: center;
+    color:white;
+    max-width:100%;
+}
+/*footer ends*/
+
+.titleFont{
+  font-family: Sansita;
+}
+
+.contentFont{
+  font-family: Ubuntu;
+}
+
+
+
+
+
+
