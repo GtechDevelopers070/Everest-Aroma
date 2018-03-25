@@ -1,7 +1,7 @@
 body{
   width: 100%;
 }
-.container-fluid{
+.catalog-bg{
   background-image: url("../img/top.png");
   background-repeat:no-repeat;
   background-size:cover;
@@ -33,6 +33,7 @@ body{
   margin-top: 150px;
   text-align: right;
   margin-right: 20px;
+
 }
 
 .upper-right-container h1 {
@@ -42,7 +43,9 @@ body{
 .upper-right-container li {
   font-size: 12pt;
   list-style: none;
-  line-height: 12pt;
+  /*line-height: 12pt;*/
+  letter-spacing: 0.05em;
+  line-height: 1.7em;
 }
 
 .lower-container{
@@ -52,13 +55,16 @@ body{
 .lower-left-container {
   /*float: left;*/
   /*width: 550px;*/
-  height: 222px;
+  /*height: 222px;*/
   padding: 10px;
   margin-top: 60px;
   /*margin-left: 155px;*/
   margin-left: -20px;
   border-radius: 20px;
   background-color: rgba(102, 204, 51, 0.3);
+  -webkit-box-shadow: #92B096 3px 3px 3px;
+  -moz-box-shadow: #92B096 3px 3px 3px;
+  box-shadow: #92B096 3px 3px 3px;
 }
 
 .lower-left-container h2 {
@@ -68,7 +74,9 @@ body{
 
 .lower-left-container p {
   font-size: 12pt;
-  line-height: 13pt;
+  /*line-height: 13pt;*/
+  letter-spacing: 0.05em;
+  line-height: 1.7em;
 }
 
 .lower-right-container {
@@ -79,6 +87,9 @@ body{
   margin-right: -20px;
   border-radius: 20px;
   background-color: rgba(102, 204, 51, 0.3);
+  -webkit-box-shadow: #92B096 3px 3px 3px;
+  -moz-box-shadow: #92B096 3px 3px 3px;
+  box-shadow: #92B096 3px 3px 3px;
 }
 
 .lower-right-container h2 {
@@ -88,7 +99,9 @@ body{
 .lower-right-container li {
   font-size: 13pt;
   list-style: none;
-  line-height: 13.5pt;
+  /*line-height: 13.5pt;*/
+  letter-spacing: 0.05em;
+  line-height: 1.7em;
 }
 
 @media screen and (max-width: 1255px){
@@ -123,7 +136,7 @@ body{
 
 @media screen and (max-width: 992px){
   .lower-right-container{
-    text-align: left;
+    /*text-align: left;*/
     margin-right: 0px;
     margin-top: 20px;
   }
