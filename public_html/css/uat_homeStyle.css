@@ -149,7 +149,7 @@ textarea {
 
 
 .certificates-wrapper {
-  height: 350px;
+  /*height: 350px;*/
   border: 2px solid;
 }
 
@@ -265,7 +265,7 @@ textarea {
 }
 
 .carousel-wrapper .item img {
-  height: 350px;
+  height: 330px;
 }
 
 #quote {
