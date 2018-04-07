@@ -1,0 +1,32 @@
+/*styling by ayushghimire, related with contactUs.html*/
+@font-face {
+    font-family: Robo;
+    src: url(".../font/RobotoSlab-Regular.ttf");
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: Ubuntu;
+    color: white;
+}
+label{
+    font-family: Robo;
+    color:white;
+}
+body{
+    width: 100%;
+    background-image: url("../img/contact/contact-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.well{
+    background-color: darkolivegreen;
+    margin-top: 30px; padding-top: 20px;
+    min-height: 550px;
+    opacity: 0.92;
+}
+
+.company-name{
+    letter-spacing: 1.5px;
+    color:;
+}

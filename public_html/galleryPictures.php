@@ -78,6 +78,13 @@
 
   <?php 
     include('navbar.html'); 
+    if (isset($_GET['viewAlbum'])){
+      $albumID = $_GET['viewAlbum'];
+    }
+    else{
+      $albumID = 4;
+    }
+
   ?>
   <div class="gallery">
     <div class="row">
@@ -89,8 +96,16 @@
     </div>
 
     <!--Godey-17/11/2017-->
-    <h1 class="titleFont" style="text-align: center;">Dhanusa Project</h1>
-    <div class="container">
+    <?php
+    include '../eaPortions/dbConnect.php';
+      $sqlALbum = "SELECT * FROM albums where albumPK = '$albumID'";
+      $resultAlbum = mysqli_query($db, $sqlALbum);
+      while($row = mysqli_fetch_assoc($resultAlbum)) {
+        echo' <h1 class="titleFont" style="text-align: center;">'. $row["albumName"].'</h1>
+              <div class="container">';
+      }
+    ?> 
+   
       <!-- <div class="row">
         <div class="col-md-4">
           <div class="panel panel-default galleryPictures">
@@ -113,7 +128,7 @@
       </div> -->
       <div class="row">
       <?php
-        include '../eaPortions/dbConnect.php';
+        
 
         if (isset($_GET['viewAlbum'])){
           $id = $_GET['viewAlbum'];
