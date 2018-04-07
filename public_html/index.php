@@ -335,7 +335,7 @@
 
 					<!--Intro of EA-->
 					<div class="row intro-wrapper" >
-						<div class="col introduction" onclick="myhref('redirectionofAboutus.php#WhyEverestAroma');">		    					
+						<div class="col introduction">		    					
 							<div class="introTitle">
 								<span><h1>Why Everest Aroma?</h1></span>
 							</div>
