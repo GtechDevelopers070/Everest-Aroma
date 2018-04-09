@@ -87,7 +87,7 @@
 
                   include '../eaPortions/dbConnect.php';
                   $count=0;
-                  $sql="SELECT * FROM products WHERE visibility ='yes'";
+                  $sql="SELECT * FROM products WHERE visibility ='yes' ORDER BY productName";
 
                   $result = mysqli_query($db, $sql);
 
