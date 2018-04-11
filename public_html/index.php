@@ -60,8 +60,13 @@
 
 			<div class="everest-aroma-header">
 				<div class="title-header-wrapper">
-					<h1 class="font-not-cursive">Everest Aroma</h1>
-					<p class="font-cursive">"Organic Essence </p> <p class="font-cursive" style="margin-left:10em;">  from Himalaya"</p>
+					<div style="text-align:center; ">
+						<div style="display:inline-block;">
+							<span class="logo-container"><img src="img/logo.png" style="width: inherit; height: inherit;"></span>
+							<h1 class="font-not-cursive">Everest Aroma</h1>
+						</div>
+					</div> 
+					<p class="font-cursive" id="subTitle">"Organic Essence </p> <p class="font-cursive" id="subTitleSub">  from Himalaya"</p>
 				</div>
 				<div class="img-header-wrapper">
 					<img id="imgChangeWidth" src="img/EA_header_PS.png">
