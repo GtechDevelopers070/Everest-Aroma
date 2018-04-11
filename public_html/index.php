@@ -243,26 +243,28 @@
 						<div class="certificates-holder">
 							<center>
 								<div class="col-xs-6">
+									<span>EU Organic</span>
+									<hr class="certificate-hr">
 									<div class="certificate-img">
 									<a href="http://www.euroleaf.org/">
 										<img src="img/home/EU-Organic.jpg" class="img img-responsive">
 									</a>
 								</div>	
-									<span>Non EU Agriculture</span>
 								</div>
 							</center>
 							<center>
 								<div class="col-xs-6">
+									<span>USDA Organic</span>	
+									<hr class="certificate-hr">
 									<div class="certificate-img">
 									<a href="https://www.ams.usda.gov/services/organic-certification">
 										<img src="img/home/USDA.png" class="img img-responsive certificationImg">
 									</a>
 									</div>
-								</div>	
-								<span>100% Organic</span>									
+								</div>									
 							</center>
 						</div>
-						<span class="certificates-title">Certificates</span>
+						<!-- <span class="certificates-title">Certificates</span> -->
 				</div>
 			</div>
 		</div>

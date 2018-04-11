@@ -166,13 +166,23 @@ textarea {
 
 
 .certificates-wrapper {
-  /*height: 350px;*/
-  border: 2px solid;
+  height: 330px;
+  border: 1px solid gray;
+-webkit-box-shadow: 5px 2px 39px -15px rgba(0,0,0,0.75);
+-moz-box-shadow: 5px 2px 39px -15px rgba(0,0,0,0.75);
+box-shadow: 5px 2px 39px -15px rgba(0,0,0,0.75);
 }
 
 .certificates-holder {
-  height: 88%;
+  height: 100%;
   padding: 10px;
+}
+
+.certificate-hr{
+  border-color: seagreen;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-width: 8px;
 }
 
 .certificates-holder span {
@@ -876,7 +886,8 @@ div.desc {
   }
 
   .certificates-wrapper {
-    height: 80%;
+    height: auto;
+    border: none;
   }
 
   .logo-container{
