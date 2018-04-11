@@ -246,9 +246,12 @@
 									<span>EU Organic</span>
 									<hr class="certificate-hr">
 									<div class="certificate-img">
-									<a href="http://www.euroleaf.org/">
+									<div class="rectangle-certi">
+										<a href="http://www.euroleaf.org/">
 										<img src="img/home/EU-Organic.jpg" class="img img-responsive">
 									</a>
+									</div>
+									
 								</div>	
 								</div>
 							</center>
@@ -257,9 +260,11 @@
 									<span>USDA Organic</span>	
 									<hr class="certificate-hr">
 									<div class="certificate-img">
-									<a href="https://www.ams.usda.gov/services/organic-certification">
-										<img src="img/home/USDA.png" class="img img-responsive certificationImg">
-									</a>
+									<div class="circular-certi">
+										<a href="https://www.ams.usda.gov/services/organic-certification">
+											<img src="img/home/USDA.png" class="img img-responsive certificationImg">
+										</a>
+									</div>
 									</div>
 								</div>									
 							</center>
@@ -344,7 +349,7 @@
 					<div class="row intro-wrapper" >
 						<div class="col introduction">		    					
 							<div class="introTitle">
-								<span><h1>Why Everest Aroma?</h1></span>
+								<span><h1 style="color: white;">Why Everest Aroma?</h1></span>
 							</div>
 							<br>
 							<div class="col-lg-12" >
